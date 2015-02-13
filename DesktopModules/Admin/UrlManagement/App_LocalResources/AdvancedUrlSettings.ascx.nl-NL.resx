@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Action.Header">
+    <value xml:space="preserve">Actie</value>
+  </data>
+  <data name="Enabled.Header">
+    <value xml:space="preserve">Geactiveerd</value>
+  </data>
+  <data name="ExtensionProvidersDisabled.Text">
+    <value xml:space="preserve">Extensie providers zijn uitgeschakeld voor deze website.</value>
+  </data>
+  <data name="ModuleProviders.Text">
+    <value xml:space="preserve">Extentie URL providers</value>
+  </data>
+  <data name="moduleProvidersLabel.Help">
+    <value xml:space="preserve">Deze lijst geeft de huidige geinstalleerde extenties URL providers weer. Om een Extensie URL provider aan/uit te zetten, vink dan de "geactiveerd" optie aan. Om de specifieke instellingen van een provider te wijzigen, klik dan op 'bewerken' in het 'actie' menu.</value>
+  </data>
+  <data name="moduleProvidersLabel.Text">
+    <value xml:space="preserve">Extentie URL provider management</value>
+  </data>
+  <data name="NoProvidersInstalled.Text">
+    <value xml:space="preserve">Er zijn geen providers geinstalleerd.</value>
+  </data>
+  <data name="ProviderName.Header">
+    <value xml:space="preserve">Provider naam</value>
+  </data>
+  <data name="TabText.Text">
+    <value xml:space="preserve">Geavanceerde URL instellingen</value>
+  </data>
+</root>

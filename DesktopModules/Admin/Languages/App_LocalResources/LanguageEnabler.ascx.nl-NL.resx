@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Active.Header">
+    <value xml:space="preserve">Actief</value>
+  </data>
+  <data name="AddLanguage.Text">
+    <value xml:space="preserve">Nieuwe Taal Toevoegen</value>
+  </data>
+  <data name="AddMissingLanguages.Text">
+    <value xml:space="preserve">Voeg missende vertalingen toe</value>
+  </data>
+  <data name="allowUserCulture.Help">
+    <value xml:space="preserve">Wanneer ingeschakeld zal de gebruiker andere taal voor de interface kunnen kiezen dan er voor de content gebruikt wordt</value>
+  </data>
+  <data name="allowUserCulture.Text">
+    <value xml:space="preserve">Gebruikers toestaan om de interfacetaal te kiezen?</value>
+  </data>
+  <data name="Available.Text">
+    <value xml:space="preserve">Beschikbare Talen</value>
+  </data>
+  <data name="ChildrenExistWhenConvertingToNeutral.Text">
+    <value xml:space="preserve">Pagina kan niet worden omgezet naar de neutrale cultuur omdat er sub pagina's zijn.</value>
+  </data>
+  <data name="cmdDeleteTranslation.Text">
+    <value xml:space="preserve">Verwijder alle vertalingen voor deze taal</value>
+  </data>
+  <data name="Content.Header">
+    <value xml:space="preserve">Content Vertaling</value>
+  </data>
+  <data name="ContentLocalization.Tab">
+    <value xml:space="preserve">Content vertalingen</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Taal beheer</value>
+  </data>
+  <data name="CreateLanguage.Text">
+    <value xml:space="preserve">Taalpakket maken</value>
+  </data>
+  <data name="CreateLocalizedPages.Text">
+    <value xml:space="preserve">Maak pagina's in deze taal</value>
+  </data>
+  <data name="Culture.Header">
+    <value xml:space="preserve">Taal</value>
+  </data>
+  <data name="Delete.Header">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="DeleteTranslations.Confirm">
+    <value xml:space="preserve">U staat op het punt om alle vertalingen voor '&lt;b&gt;{0}&lt;/b&gt;' taal permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet u zeker dat u door wilt gaan?</value>
+  </data>
+  <data name="detectBrowserLable.Help">
+    <value xml:space="preserve">Moet de taal van de browser van de gebruiker gebruikt worden om de gewenste taal te detecteren?</value>
+  </data>
+  <data name="detectBrowserLable.Text">
+    <value xml:space="preserve">Browser taaldetectie inschakelen?</value>
+  </data>
+  <data name="Disable.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u de taal {0} wilt deactiveren?</value>
+  </data>
+  <data name="DisableLocalization.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u inhoud vertalingen wilt uitzetten voor deze website? Deze handeling zal alle vertaalde pagina's &lt;b&gt;verwijderen&lt;/b&gt; en  &lt;b&gt;kan niet&lt;/b&gt; worden teruggedraaid.</value>
+  </data>
+  <data name="DisableLocalization.Text">
+    <value xml:space="preserve">Deactiveer inhoud vertaling</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Wijzig deze taal</value>
+  </data>
+  <data name="EditPage.Text">
+    <value xml:space="preserve">Bewerken</value>
+  </data>
+  <data name="Enabled.Header">
+    <value xml:space="preserve">Ingeschakeld</value>
+  </data>
+  <data name="EnabledPublishedMessage.Text">
+    <value xml:space="preserve">-&lt;em&gt;Een taal moet zijn ingeschakeld voordat er in kan worden gepubliceerd en het de publicatie moet ongedaan gemaakt worden alvorens het kan worden uitgeschakeld&lt;/em&gt;</value>
+  </data>
+  <data name="EnableLocalization.Text">
+    <value xml:space="preserve">Vertaalde Content Inschakelen</value>
+  </data>
+  <data name="Fallback.Text">
+    <value xml:space="preserve">Uitwijk Taal</value>
+  </data>
+  <data name="GetNonTranslatedPages.Text">
+    <value xml:space="preserve">Geef pagina's weer welke nog niet zijn vertaald</value>
+  </data>
+  <data name="Host.Help">
+    <value xml:space="preserve">Wijzig resourcekeys voor de gastheer installatie</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="HostOnly.Text">
+    <value xml:space="preserve">SuperUser Gebruiker Vereist</value>
+  </data>
+  <data name="HostOnlyMessage.Text">
+    <value xml:space="preserve">Het beveiligingsmodel van DNN vereist dat nieuwe talen door gastheer gebruikers worden aangemaakt. Als een site beheerder kunt u bestaande talen onderhouden. Indien u meer over talen wilt weten dient u contact op te nemen met de SuperUser gebruiker van uw site.</value>
+  </data>
+  <data name="InstallAvailabeLanguage.Text">
+    <value xml:space="preserve">Installeer beschikbare talen</value>
+  </data>
+  <data name="InstallLanguage.Text">
+    <value xml:space="preserve">Installeer Taal Pakket</value>
+  </data>
+  <data name="Languages.Tab">
+    <value xml:space="preserve">Talen</value>
+  </data>
+  <data name="LanguageSettings.Text">
+    <value xml:space="preserve">Taal Instellingen</value>
+  </data>
+  <data name="LocalizablePages.Text">
+    <value xml:space="preserve">Aantal vertaalbare pagina's</value>
+  </data>
+  <data name="LocalizePages.Text">
+    <value xml:space="preserve">Aantal Pagina's</value>
+  </data>
+  <data name="MakeNeutral.Confirm">
+    <value xml:space="preserve">Deze handeling zal alle vertalingen voor deze pagina verwijderen. Alleen de standaard taal van de pagina zal over blijven. Weet u zeker dat u deze handeling wilt uitvoeren?</value>
+  </data>
+  <data name="MakeNeutral.Text">
+    <value xml:space="preserve">Converteer pagina naar neutrale taal</value>
+  </data>
+  <data name="MakeTranslatable.Text">
+    <value xml:space="preserve">Maak pagina vertaalbaar</value>
+  </data>
+  <data name="MarkAllPagesTranslated.Text">
+    <value xml:space="preserve">Markeer alle pagina's voor {0} als vertaald</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Met behulp van deze module kunnen talen beheerd worden</value>
+  </data>
+  <data name="NeutralMessage.Text">
+    <value xml:space="preserve">Dit is een "taal neutrale" pagina, dit houdt in dat deze pagina zichtbaar is binnen alle talen van de website. taal neutrale pagina's kunnen niet worden vertaald.</value>
+  </data>
+  <data name="NonLocalizedPagesTitle.Text">
+    <value xml:space="preserve">Niet vertaalde pagina's:</value>
+  </data>
+  <data name="Page.Help">
+    <value xml:space="preserve">Selecteer hier een pagina om de onderstaande informatie te filteren. </value>
+  </data>
+  <data name="Page.Text">
+    <value xml:space="preserve">Selecteer een pagina:</value>
+  </data>
+  <data name="Pages.Header">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="plEnabled.Help">
+    <value xml:space="preserve">Hieronder kunt u de talen voor deze website uit- en inschakelen</value>
+  </data>
+  <data name="plEnabled.Text">
+    <value xml:space="preserve">Ingeschakeld</value>
+  </data>
+  <data name="plLanguage.Help">
+    <value xml:space="preserve">Dit is een lijst met de beschikbare &lt;br /&gt;talen in deze installatie.</value>
+  </data>
+  <data name="plLanguage.Text">
+    <value xml:space="preserve">Taal</value>
+  </data>
+  <data name="plUrl.Help">
+    <value xml:space="preserve">Vink deze optie aan om taal parameters in de URL mogelijk te maken.</value>
+  </data>
+  <data name="plUrl.Text">
+    <value xml:space="preserve">Taal parameters in URL's activeren?</value>
+  </data>
+  <data name="Portal.Help">
+    <value xml:space="preserve">Wijzig resourcekeys voor deze website</value>
+  </data>
+  <data name="Portal.Text">
+    <value xml:space="preserve">Site</value>
+  </data>
+  <data name="PortalDefaultEnabled.Text">
+    <value xml:space="preserve">- &lt;em&gt;De standaard taal voor de site kan niet worden uitgeschakeld&lt;/em&gt;</value>
+  </data>
+  <data name="PortalDefaultPublished.Text">
+    <value xml:space="preserve">- &lt;em&gt;De publicatie van standaard taal voor deze site kan niet ongedaan worden gemaakt en kan niet worden uitgeschakeld&lt;/em&gt;</value>
+  </data>
+  <data name="Publish.Confirm">
+    <value xml:space="preserve">Wilt u alle vertaalde pagina's in de {0} taal publiceren?</value>
+  </data>
+  <data name="Publish.Header">
+    <value xml:space="preserve">Publiceren</value>
+  </data>
+  <data name="PublishTranslatedPages.Text">
+    <value xml:space="preserve">Publiceer pagina's in deze taal welke als Vertaald zijn gemarkeerd</value>
+  </data>
+  <data name="Settings.Tab">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Wijzig</value>
+  </data>
+  <data name="siteDefaultLabel.Help">
+    <value xml:space="preserve">U kunt hier de standaard taal voor deze site selecteren. Indien de taal nog niet is ingeschakeld, zal dit automatisch worden gedaan. Let op: wanneer content vertaling wordt ingeschakeld kan deze keuze niet meer ongedaan worden gemaakt.</value>
+  </data>
+  <data name="siteDefaultLabel.Text">
+    <value xml:space="preserve">Site Standaard:</value>
+  </data>
+  <data name="Static.Header">
+    <value xml:space="preserve">Statische Resources</value>
+  </data>
+  <data name="System.Help">
+    <value xml:space="preserve">Wijzig systeem resourcekeys</value>
+  </data>
+  <data name="System.Text">
+    <value xml:space="preserve">Systeem</value>
+  </data>
+  <data name="systemDefaultLabel.Help">
+    <value xml:space="preserve">De SystemDefault taal is de taal welke de applicatie gebruikt indien geen andere taal beschikbaar is. Dit is de terugval taal.</value>
+  </data>
+  <data name="systemDefaultLabel.Text">
+    <value xml:space="preserve">Systeem Standaard:</value>
+  </data>
+  <data name="Translated.Header">
+    <value xml:space="preserve">Vertaald</value>
+  </data>
+  <data name="TranslatedPages.Text">
+    <value xml:space="preserve">Vertaalde Pagina's</value>
+  </data>
+  <data name="TranslationStatus.Text">
+    <value xml:space="preserve">Klik op de link om naar de pagina met de samenvatting van de vertaling te gaan</value>
+  </data>
+  <data name="TranslationSummary.Text">
+    <value xml:space="preserve">Status Vertaling</value>
+  </data>
+  <data name="Unpublish.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u de taal {0} wilt deactiveren?</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="Verify.Text">
+    <value xml:space="preserve">Controleer Taal Taalbestanden</value>
+  </data>
+  <data name="ViewPage.Text">
+    <value xml:space="preserve">Weergeven</value>
+  </data>
+  <data name="viewTypeLabel.Help">
+    <value xml:space="preserve">Selecteer het weergave type voor de talen op deze pagina</value>
+  </data>
+  <data name="viewTypeLabel.Text">
+    <value xml:space="preserve">Weergave Type:</value>
+  </data>
+</root>

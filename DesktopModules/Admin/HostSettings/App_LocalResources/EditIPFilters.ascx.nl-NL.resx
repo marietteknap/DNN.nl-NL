@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Actions.Header">
+    <value xml:space="preserve">Acties</value>
+  </data>
+  <data name="CannotDeleteIPInUse.Text">
+    <value xml:space="preserve">U kunt dit filter niet verwijderen omdat u hiermee het huidige IP adres zou blokken</value>
+  </data>
+  <data name="CannotDeleteLocalhost.Text">
+    <value xml:space="preserve">U kunt geen blokkeer regel creëren voor localhost (127.0.0.1)</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Wijziging annuleren</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Filter verwijderen</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Filter bewerken</value>
+  </data>
+  <data name="IPAllow.Text">
+    <value xml:space="preserve">Toestaan</value>
+  </data>
+  <data name="IPDeny.Text">
+    <value xml:space="preserve">blokkeren</value>
+  </data>
+  <data name="IPFilter.Header">
+    <value xml:space="preserve">IP filter</value>
+  </data>
+  <data name="IPRange.Text">
+    <value xml:space="preserve">IP bereik</value>
+  </data>
+  <data name="IPSingle.Text">
+    <value xml:space="preserve">Enkel IP</value>
+  </data>
+  <data name="IPValidation.ErrorMessage">
+    <value xml:space="preserve">Gebruik een geldig IP adres/mask</value>
+  </data>
+  <data name="plFirstIP.Help">
+    <value xml:space="preserve">Dit is of een enkel IP om te filteren, of het wordt samen met de subnet mask gebruik om de range van de IP adressen te berekenen.</value>
+  </data>
+  <data name="plFirstIP.Text">
+    <value xml:space="preserve">Eerste IP</value>
+  </data>
+  <data name="plRuleSpecifity.Help">
+    <value xml:space="preserve">Bepaald of de regels van toepassing zijn op het enkele IP adres of op de gehele reeks van IP adressen</value>
+  </data>
+  <data name="plRuleSpecifity.Text">
+    <value xml:space="preserve">Regel Specificiteit</value>
+  </data>
+  <data name="plRuleType.Help">
+    <value xml:space="preserve">Bepaald of deze regel toegang toestaat of blokkeerd</value>
+  </data>
+  <data name="plRuleType.Text">
+    <value xml:space="preserve">Regel type</value>
+  </data>
+  <data name="plSubnet.Help">
+    <value xml:space="preserve">De subnet mask zal worden gecombineerd met het eerste IP adres om de reeks van te filteren IP adressen te berekenen. </value>
+  </data>
+  <data name="plSubnet.Text">
+    <value xml:space="preserve">mask </value>
+  </data>
+  <data name="saveRule.Text">
+    <value xml:space="preserve">Filter bijwerken</value>
+  </data>
+  <data name="valFirstIP.ErrorMessage">
+    <value xml:space="preserve">Een initieel  IP adres is vereist</value>
+  </data>
+</root>

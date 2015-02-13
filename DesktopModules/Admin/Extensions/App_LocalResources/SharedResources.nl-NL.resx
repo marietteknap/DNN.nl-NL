@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="deleteCredentials.Text">
+    <value xml:space="preserve">Wijziging op te slaan details</value>
+  </data>
+  <data name="deploy.Text">
+    <value xml:space="preserve">Installeer</value>
+  </data>
+  <data name="deploySuccess.Text">
+    <value xml:space="preserve">Uitbreiding - {0} - met succes geïnstalleerd op de site. Selecteer Installeren Uitbreiding om uw nieuwe extensie te installeren.</value>
+  </data>
+  <data name="Description.Help">
+    <value xml:space="preserve">Beschrijving van het pakket</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Beschrijving:</value>
+  </data>
+  <data name="download.Text">
+    <value xml:space="preserve">Download</value>
+  </data>
+  <data name="Email.Help">
+    <value xml:space="preserve">Het E-mailadres van de auteur van het pakket </value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mailadres:</value>
+  </data>
+  <data name="Email.Validation">
+    <value xml:space="preserve">Het e-mailadres moet geldig zijn</value>
+  </data>
+  <data name="extensionDescLabel.Help">
+    <value xml:space="preserve">De beschrijving van de extensie die u hebt geselecteerd voor de implementatie.</value>
+  </data>
+  <data name="extensionDescLabel.Text">
+    <value xml:space="preserve">Beschrijving:</value>
+  </data>
+  <data name="extensionNamelabel.Help">
+    <value xml:space="preserve">De naam van de extensie die u hebt geselecteerd voor de implementatie.</value>
+  </data>
+  <data name="extensionNamelabel.Text">
+    <value xml:space="preserve">Uitbreiding Naam:</value>
+  </data>
+  <data name="extensionTypeLabel.Help">
+    <value xml:space="preserve">De aard van de extensie die u hebt geselecteerd voor de implementatie.</value>
+  </data>
+  <data name="extensionTypeLabel.Text">
+    <value xml:space="preserve">Uitbreiding Type:</value>
+  </data>
+  <data name="feedEndpoint.Text">
+    <value xml:space="preserve">catalog.dotnetnuke.com</value>
+  </data>
+  <data name="fetchExtensions.Text">
+    <value xml:space="preserve">Fetch lijst met extensies</value>
+  </data>
+  <data name="FriendlyName.Help">
+    <value xml:space="preserve">De naam voor dit pakket</value>
+  </data>
+  <data name="FriendlyName.Required">
+    <value xml:space="preserve">De vriendelijke naam is verplicht.</value>
+  </data>
+  <data name="FriendlyName.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="Help.Text">
+    <value xml:space="preserve">Een verzoek is het punt te worden gemaakt voor een extern bestand - als je niet had verwacht om dit verzoek te maken selecteert u Annuleren om terug te keren naar de Extensions-pagina - anders kiezen uit een van de beschikbare opties hieronder.</value>
+  </data>
+  <data name="IconFile.Help">
+    <value xml:space="preserve">Het pictogram bestandsnaam voor dit pakket.</value>
+  </data>
+  <data name="IconFile.Text">
+    <value xml:space="preserve">Icoon Bestand:</value>
+  </data>
+  <data name="install.Text">
+    <value xml:space="preserve">Install Extensie</value>
+  </data>
+  <data name="License.Help">
+    <value xml:space="preserve">De licentie voor dit pakket.</value>
+  </data>
+  <data name="License.Text">
+    <value xml:space="preserve">Licentie:</value>
+  </data>
+  <data name="Name.Help">
+    <value xml:space="preserve">Het Pakket Naam (bijv. Bedrijfsnaam.naam)</value>
+  </data>
+  <data name="Name.Required">
+    <value xml:space="preserve">De naam is een verplicht veld</value>
+  </data>
+  <data name="Name.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="NoData.Text">
+    <value xml:space="preserve">Er zijn geen gegevens om weer te geven</value>
+  </data>
+  <data name="Organization.Help">
+    <value xml:space="preserve">De organisatie verantwoordelijk voor dit pakket</value>
+  </data>
+  <data name="Organization.Text">
+    <value xml:space="preserve">Organisatie:</value>
+  </data>
+  <data name="Owner.Help">
+    <value xml:space="preserve">De eigenaar van het pakket</value>
+  </data>
+  <data name="Owner.Text">
+    <value xml:space="preserve">Eigenaar:</value>
+  </data>
+  <data name="PackageErrors.Text">
+    <value xml:space="preserve">&lt;u&gt; De volgende pakketten zijn ongeldig: &lt;/ u&gt; &lt;br/&gt;</value>
+  </data>
+  <data name="PackageType.Help">
+    <value xml:space="preserve">De Pakkettype</value>
+  </data>
+  <data name="PackageType.Required">
+    <value xml:space="preserve">Het pakket type is een verplicht veld.</value>
+  </data>
+  <data name="PackageType.Text">
+    <value xml:space="preserve">Type:</value>
+  </data>
+  <data name="PurchasedHelp.Text">
+    <value xml:space="preserve">Hier kunt u de extensies kijken die u heeft gekocht in de store, en eventueel te downloaden en installeren op uw site. U moet uw inloggegevens voor de store invoeren om uw gekochte modules te kunnen selecteren.</value>
+  </data>
+  <data name="PurchasedTitle.Text">
+    <value xml:space="preserve">Gekochte Extensies</value>
+  </data>
+  <data name="ReleaseNotes.Help">
+    <value xml:space="preserve">De release notes voor deze versie</value>
+  </data>
+  <data name="ReleaseNotes.Text">
+    <value xml:space="preserve">Release Opmerkingen:</value>
+  </data>
+  <data name="setupCredentials.Text">
+    <value xml:space="preserve">Geeft uw inlog gegevens voor de store in</value>
+  </data>
+  <data name="StoreFile.Text">
+    <value xml:space="preserve">https://www.snowcovered.com/Snowcovered2/AppGalleryHandler.ashx?PortalID=0</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Implementeren en installeren Extension</value>
+  </data>
+  <data name="unexpectedRequest.Text">
+    <value xml:space="preserve">Werd een poging gedaan om een ​​onverwachte extern bestand te openen.</value>
+  </data>
+  <data name="updateCredentials.Text">
+    <value xml:space="preserve">Bijwerken Store credentials</value>
+  </data>
+  <data name="URL.Help">
+    <value xml:space="preserve">De auteurs URL</value>
+  </data>
+  <data name="URL.Text">
+    <value xml:space="preserve">URL: </value>
+  </data>
+  <data name="Version.Help">
+    <value xml:space="preserve">De versie van het pakket</value>
+  </data>
+  <data name="Version.Required">
+    <value xml:space="preserve">De versie is een verplicht veld</value>
+  </data>
+  <data name="Version.Text">
+    <value xml:space="preserve">Versie:</value>
+  </data>
+  <data name="Version.Validation">
+    <value xml:space="preserve">Een pakket moet een versienummer in de vorm van ##.##.##</value>
+  </data>
+  <data name="WebserviceFailure.Text">
+    <value xml:space="preserve">We kunnen geen verbinding maken met de webservice</value>
+  </data>
+  <data name="WebservicePermission.Text">
+    <value xml:space="preserve">Op deze site staat niet toe dat externe webservice aansluitingen</value>
+  </data>
+</root>

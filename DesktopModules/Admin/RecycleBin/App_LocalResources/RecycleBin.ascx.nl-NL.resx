@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="allLocales.Text">
+    <value xml:space="preserve">Toon pagina's en modules voor alle talen</value>
+  </data>
+  <data name="ChildTab.ErrorMessage">
+    <value xml:space="preserve">      &lt;b&gt;{0}&lt;/b&gt; De pagina kan niet hersteld worden als de hoofd pagina niet eerst hersteld is</value>
+  </data>
+  <data name="cmdDeleteModule.Help">
+    <value xml:space="preserve">Geselecteerde module permanent verwijderen</value>
+  </data>
+  <data name="cmdDeleteModule.Text">
+    <value xml:space="preserve">Verwijder Geselecteerde Module</value>
+  </data>
+  <data name="cmdDeleteTab.Help">
+    <value xml:space="preserve">Geselecteerde pagina verwijderen</value>
+  </data>
+  <data name="cmdDeleteTab.Text">
+    <value xml:space="preserve">Geselecteerde pagina verwijderen</value>
+  </data>
+  <data name="cmdEmpty.Text">
+    <value xml:space="preserve">Prullenmand legen</value>
+  </data>
+  <data name="cmdRestoreModule.Help">
+    <value xml:space="preserve">Herstel geselecteerde module(s) naar aangegeven pagina.</value>
+  </data>
+  <data name="cmdRestoreModule.Text">
+    <value xml:space="preserve">Herstel Geselecteerde Module(s)</value>
+  </data>
+  <data name="cmdRestoreTab.Help">
+    <value xml:space="preserve">Herstel geselecteerde pagina</value>
+  </data>
+  <data name="cmdRestoreTab.Text">
+    <value xml:space="preserve">Herstel geselecteerde pagina</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Prullenmand</value>
+  </data>
+  <data name="DeleteAll.Text">
+    <value xml:space="preserve">Weet u zeker dan u alle pagina's en alle modules wilt verwijderen?</value>
+  </data>
+  <data name="DeleteModule.Text">
+    <value xml:space="preserve">Weet u zeker dat u deze module permanent wilt verwijderen?</value>
+  </data>
+  <data name="DeleteTab.Text">
+    <value xml:space="preserve">Weet u zeker dat u deze pagina permanent wilt verwijderen?</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">      &lt;h1&gt;Over de prullenmand&lt;/h1&gt;
+      &lt;p&gt;De prullenmand kan gebruikt worden om gewiste pagina's en modules te herstellen of permanent te verwijderen.&lt;/p&gt;
+    </value>
+  </data>
+  <data name="Modules.Text">
+    <value xml:space="preserve">Modules</value>
+  </data>
+  <data name="NoTabSelected.Text">
+    <value xml:space="preserve">U heeft geen pagina's geselecteerd om te herstellen.</value>
+  </data>
+  <data name="ParentTab.ErrorMessage">
+    <value xml:space="preserve">      &lt;b&gt;{0}&lt;/b&gt; De pagina kan niet verwijderd worden als deze nog subpagina's bevat. Verwijder eerst de subpagina's</value>
+  </data>
+  <data name="RestoreTab.Text">
+    <value xml:space="preserve">Wilt u ook de Sub-pagina's van de geselecteerde pagina herstellen?</value>
+  </data>
+  <data name="singleLocale.Text">
+    <value xml:space="preserve">Toon pagina's en modules voor de huidige taal</value>
+  </data>
+  <data name="TabDeleted.ErrorMessage">
+    <value xml:space="preserve">&lt;b&gt;{0}&lt;/b&gt; de module kan niet worden hersteld tot dat de pagina waarom de module behoord eerst wordt hersteld.</value>
+  </data>
+  <data name="Tabs.Text">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+</root>

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddPage.Text">
+    <value xml:space="preserve">Pagina('s) Toevoegen</value>
+  </data>
+  <data name="Appearance.Tabname">
+    <value xml:space="preserve">Uiterlijk</value>
+  </data>
+  <data name="btnBulkCreate.Text">
+    <value xml:space="preserve">Pagina('s) Maken</value>
+  </data>
+  <data name="BulkCreateIntro.Text">
+    <value xml:space="preserve">Dit zal leiden tot een pagina per regel onder de geselecteerde pagina. Voor het maken van hiërarchieën, kunt u prepend lijnen met "&gt;".</value>
+  </data>
+  <data name="bulkPagesLabel.Text">
+    <value xml:space="preserve">Pagina's:</value>
+  </data>
+  <data name="CanNotDeleteHomeTab.Text">
+    <value xml:space="preserve">U moet de startpagina van de website niet verwijderen!</value>
+  </data>
+  <data name="CanNotDeleteSpecialTab.Text">
+    <value xml:space="preserve">Dit is een speciale tab en kan niet worden verwijderd!</value>
+  </data>
+  <data name="cmdCopySkin.Text">
+    <value xml:space="preserve">Kopieer de geselecteerde Skin naar Sub-pagina's</value>
+  </data>
+  <data name="cmdMore.Text">
+    <value xml:space="preserve">Meer instellingen</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Pagina Bijwerken</value>
+  </data>
+  <data name="Collapse.Text">
+    <value xml:space="preserve">Alle Nodes Inklappen</value>
+  </data>
+  <data name="Common.Tabname">
+    <value xml:space="preserve">Gemeen</value>
+  </data>
+  <data name="ConfirmDelete.Text">
+    <value xml:space="preserve">Dit verwijdert de geselecteerde pagina en alle onderliggende pagina\'s. Weet u het zeker?</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Pagina beheer</value>
+  </data>
+  <data name="DefaultContainer.Text">
+    <value xml:space="preserve">[Standaard Container]</value>
+  </data>
+  <data name="DefaultSkin.Text" lastModified="2015-01-09 12:27:00">
+    <value xml:space="preserve">[Standaard Thema]</value>
+  </data>
+  <data name="DeletePage.Text">
+    <value xml:space="preserve">Pagina verwijderen</value>
+  </data>
+  <data name="DesignCopied.Text" lastModified="2015-01-09 12:27:00">
+    <value xml:space="preserve">Het thema is toegepast op alle onderliggende pagina's</value>
+  </data>
+  <data name="DesignCopyError.Text" lastModified="2015-01-09 12:27:00">
+    <value xml:space="preserve">Er is een fout opgetreden bij het toepassen van het geselecteerde thema om alle childpages</value>
+  </data>
+  <data name="DisablePage.Text">
+    <value xml:space="preserve">Schakel link in de navigatie</value>
+  </data>
+  <data name="EditPage.Text">
+    <value xml:space="preserve">Pagina Instellingen</value>
+  </data>
+  <data name="EmptyTabName.Text">
+    <value xml:space="preserve">Tabblad Naam is leeg</value>
+  </data>
+  <data name="EnablePage.Text">
+    <value xml:space="preserve">Schakel link in de navigatie</value>
+  </data>
+  <data name="ExceededQuota.Text">
+    <value xml:space="preserve">Het is niet mogelijk om de pagina toe te voegen omdat het maximaal toegestane pagina's is bereikt. Gelieve contact op te nemen met uw hosting provider met vragen m.b.t. het verhogen van het maximaal aantal toegestane pagina's.</value>
+  </data>
+  <data name="Expand.Text">
+    <value xml:space="preserve">Alle Nodes Uitvouwen</value>
+  </data>
+  <data name="HidePage.Text">
+    <value xml:space="preserve">Voor navigatie Verbergen</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="InvalidTabName.Text">
+    <value xml:space="preserve">{0} is een ongeldige pagina titel!</value>
+  </data>
+  <data name="lblAdminOnly.Text">
+    <value xml:space="preserve">Zichtbaar voor beheerders</value>
+  </data>
+  <data name="lblAllowIndex.Help">
+    <value xml:space="preserve">Deze instelling bepaald of de pagina geïndexeerd mag worden door de zoek crawler. De functie maakt gebruik van de INDEX/NOINDEX waardes for de robots meta tag.</value>
+  </data>
+  <data name="lblAllowIndex.Text">
+    <value xml:space="preserve">Indexering toestaan:</value>
+  </data>
+  <data name="lblContainer.Help">
+    <value xml:space="preserve">De geselecteerde container zal worden toegepast op alle modules op deze pagina.</value>
+  </data>
+  <data name="lblContainer.Text">
+    <value xml:space="preserve">Standaard Container</value>
+  </data>
+  <data name="lblDescription.Help">
+    <value xml:space="preserve">Geef een beschrijving over deze pagina hier.</value>
+  </data>
+  <data name="lblDescription.Text">
+    <value xml:space="preserve">Pagina Beschrijving</value>
+  </data>
+  <data name="lblDisabled.Text">
+    <value xml:space="preserve">Pagina wordt uitgeschakeld</value>
+  </data>
+  <data name="lblDisabledPage.Help">
+    <value xml:space="preserve">Als de pagina is uitgeschakeld is het niet beschikbaar voor gebruikers van de site. U kunt deze optie gebruiken om content te onderdrukken dat u zou willen laten zien op een later tijdstip.</value>
+  </data>
+  <data name="lblDisabledPage.Text">
+    <value xml:space="preserve">Uitgeschakeld</value>
+  </data>
+  <data name="lblEveryone.Text">
+    <value xml:space="preserve">Pagina is voor iedereen zichtbaar</value>
+  </data>
+  <data name="lblHidden.Text">
+    <value xml:space="preserve">Pagina is verborgen in het menu</value>
+  </data>
+  <data name="lblHome.Text">
+    <value xml:space="preserve">Startpagina van de website</value>
+  </data>
+  <data name="lblHostOnly.Text">
+    <value xml:space="preserve">Beheren:</value>
+  </data>
+  <data name="lblIconLarge.Help">
+    <value xml:space="preserve">U kunt een groot pictogram kiezen dat in de console zal worden gebruikt.</value>
+  </data>
+  <data name="lblIconLarge.Text">
+    <value xml:space="preserve">Grote Icoon</value>
+  </data>
+  <data name="lblIconSmall.Help">
+    <value xml:space="preserve">U kunt kiezen voor een pictogram dat gebruikt kan worden in het menu.</value>
+  </data>
+  <data name="lblIconSmall.Text">
+    <value xml:space="preserve">Klein icoontje</value>
+  </data>
+  <data name="lblKeywords.Help">
+    <value xml:space="preserve">Geef enkele trefwoorden voor deze pagina (gescheiden door komma's). Deze sleutelwoorden worden gebruikt door zoekmachines te indexeren van uw site pagina's te helpen.</value>
+  </data>
+  <data name="lblKeywords.Text">
+    <value xml:space="preserve">Pagine Sleutelwoorden</value>
+  </data>
+  <data name="lblLegend.Text">
+    <value xml:space="preserve">Legenda</value>
+  </data>
+  <data name="lblMetaHead.Help">
+    <value xml:space="preserve">Voer eventueel tags (dat wil zeggen META tags) die moeten worden weergegeven in de "HEAD" tag van de HTML voor deze pagina.</value>
+  </data>
+  <data name="lblMetaHead.Text">
+    <value xml:space="preserve">Pagina Header Tags</value>
+  </data>
+  <data name="lblMetaRefresh.Help">
+    <value xml:space="preserve">Voer het interval te wachten tussen de automatische pagina refeshes. (Voorbeeld: Voer "60" voor 1 minuut of laat leeg om uit te schakelen.)</value>
+  </data>
+  <data name="lblMetaRefresh.Text">
+    <value xml:space="preserve">Ververs Interval (seconden)</value>
+  </data>
+  <data name="lblName.Help">
+    <value xml:space="preserve">Dit is de naam van de pagina. De tekst die u invoert, wordt weergegeven in het menusysteem.</value>
+  </data>
+  <data name="lblName.Text">
+    <value xml:space="preserve">Pagina Naam</value>
+  </data>
+  <data name="lblNoRecords.Text">
+    <value xml:space="preserve">Er zijn geen modules op de geselecteerde pagina.</value>
+  </data>
+  <data name="lblPageSSL.Help">
+    <value xml:space="preserve">Geef aan of deze pagina moet worden gedwongen om een ​​beveiligde verbinding (SSL) gebruiken. Deze optie wordt alleen ingeschakeld als de beheerder heeft ingeschakeld SSL in de site-instellingen.</value>
+  </data>
+  <data name="lblPageSSL.Text">
+    <value xml:space="preserve">Veilig</value>
+  </data>
+  <data name="lblPermanentRedirect.Help">
+    <value xml:space="preserve">Schakel dit selectievakje in als u wilt dat de klant dat deze pagina zou moeten worden beschouwd als permanent verplaatst melden. Dit zou de zoekmachines hun urls te passen om direct te koppelen aan de bron. Dit wordt genegeerd als de LinkType is Geen.</value>
+  </data>
+  <data name="lblPermanentRedirect.Text">
+    <value xml:space="preserve">Permanente Redirect</value>
+  </data>
+  <data name="lblRedirect.Text">
+    <value xml:space="preserve">Pagina redirection</value>
+  </data>
+  <data name="lblRegistered.Text">
+    <value xml:space="preserve">Zichtbaar voor geregistreerde gebruikers</value>
+  </data>
+  <data name="lblSecure.Text">
+    <value xml:space="preserve">Zichtbaar voor speciale rollen alleen</value>
+  </data>
+  <data name="lblSitemapPriority.Help">
+    <value xml:space="preserve">Voer de gewenste prioriteit (tussen 0 en 1,0). Dit helpt te bepalen hoe deze pagina is gerangschikt in Google met betrekking tot andere pagina's op uw site (0,5 is de standaardinstelling).</value>
+  </data>
+  <data name="lblSitemapPriority.Text">
+    <value xml:space="preserve">Sitemap Prioriteit</value>
+  </data>
+  <data name="lblSkin.Help" lastModified="2015-01-09 12:27:00">
+    <value xml:space="preserve">Het geselecteerde thema wordt toegepast op deze pagina.</value>
+  </data>
+  <data name="lblSkin.Text" lastModified="2015-01-09 12:27:00">
+    <value xml:space="preserve">Pagina thema</value>
+  </data>
+  <data name="lblTags.Help">
+    <value xml:space="preserve">Selecteer items in de drop-down naar deze pagina tag.</value>
+  </data>
+  <data name="lblTags.Text">
+    <value xml:space="preserve">Tags pagina</value>
+  </data>
+  <data name="lblTitle.Help">
+    <value xml:space="preserve">Voer een titel voor de pagina hier. De tekst die u invoert, wordt weergegeven in het browservenster titel.</value>
+  </data>
+  <data name="lblTitle.Text">
+    <value xml:space="preserve">Pagina Titel</value>
+  </data>
+  <data name="lblUrl.Help">
+    <value xml:space="preserve">Als u wilt dat deze pagina zich gedraagt als een navigatie link naar een andere bron, kunt u hier geeft u de Link URL waarde ingeven. Houdt u er rekening mee dat dit veld optioneel is.</value>
+  </data>
+  <data name="lblUrl.Text">
+    <value xml:space="preserve">Link</value>
+  </data>
+  <data name="lblVisible.Help">
+    <value xml:space="preserve">U moet kiezen over het al of niet in het navigatiemenu opnemen van de pagina. Als een pagina niet is opgenomen in het menu, kunt u nog steeds verwijzen naar het op basis van de URL van de pagina.</value>
+  </data>
+  <data name="lblVisible.Text">
+    <value xml:space="preserve">Inclusief In menu</value>
+  </data>
+  <data name="Link.Tabname">
+    <value xml:space="preserve">Link</value>
+  </data>
+  <data name="MakeHome.Text">
+    <value xml:space="preserve">Maak Homepagina</value>
+  </data>
+  <data name="Metatags.Tabname">
+    <value xml:space="preserve">Metatags</value>
+  </data>
+  <data name="Module.Header">
+    <value xml:space="preserve">Module</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt; Over Pagina's &lt;/ h1&gt; &lt;p&gt; De Admin gebruiker kan pagina's beheren in de site. &lt;/ p&gt;</value>
+  </data>
+  <data name="Modules.Tabname">
+    <value xml:space="preserve">Modules</value>
+  </data>
+  <data name="ModuleTitle.Header">
+    <value xml:space="preserve">Titel</value>
+  </data>
+  <data name="MovePageDown.Text">
+    <value xml:space="preserve">Omlaag</value>
+  </data>
+  <data name="MovePageUp.Text">
+    <value xml:space="preserve">Omhoog</value>
+  </data>
+  <data name="Options.Header">
+    <value xml:space="preserve">Opties</value>
+  </data>
+  <data name="PathDuplicateWithAlias.Text">
+    <value xml:space="preserve">Er bestaat al een site domein met hetzelfde pagina pad.</value>
+  </data>
+  <data name="Permissions.Tabname">
+    <value xml:space="preserve">Machtigingen</value>
+  </data>
+  <data name="root.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="SEO.Tabname">
+    <value xml:space="preserve">SEO</value>
+  </data>
+  <data name="ShowHostTabs.Text">
+    <value xml:space="preserve">SuperUser Pagina's</value>
+  </data>
+  <data name="ShowPage.Text">
+    <value xml:space="preserve">Tonen in de navigatie</value>
+  </data>
+  <data name="ShowPortalTabs.Text">
+    <value xml:space="preserve">Website pagina's</value>
+  </data>
+  <data name="Site.Text">
+    <value xml:space="preserve">Site</value>
+  </data>
+  <data name="TabCreated.Text">
+    <value xml:space="preserve">Pagina {0} Gemaakt op</value>
+  </data>
+  <data name="TabDeleted.Text">
+    <value xml:space="preserve">Pagina {0} Verwijderd</value>
+  </data>
+  <data name="TabDisabled.Text">
+    <value xml:space="preserve">Pagina {0} Uitgeschakeld</value>
+  </data>
+  <data name="TabEnabled.Text">
+    <value xml:space="preserve">Pagina {0} Ingeschakeld</value>
+  </data>
+  <data name="TabExists.Text">
+    <value xml:space="preserve">De door u gekozen pagina naam wordt al gebruikt door een andere pagina op hetzelfde niveau van de pagina hiërarchie.</value>
+  </data>
+  <data name="TabHidden.Text">
+    <value xml:space="preserve">Pagina {0} uitgesloten voor navigatie</value>
+  </data>
+  <data name="TabMadeHome.Text">
+    <value xml:space="preserve">Pagina {0} gemarkeerd als Home pagina</value>
+  </data>
+  <data name="TabMoved.Text">
+    <value xml:space="preserve">Pagina {0} Verplaatst</value>
+  </data>
+  <data name="TabRecycled.Text">
+    <value xml:space="preserve">Een pagina met deze naam bestaat in de Prullenbak. Voor het herstellen van deze pagina moet u gebruik maken van de Prullenbak.</value>
+  </data>
+  <data name="TabShown.Text">
+    <value xml:space="preserve">Pagina {0} afgebeeld in navigatie</value>
+  </data>
+  <data name="TabUpdated.Text">
+    <value xml:space="preserve">Pagina {0} is bijgewerkt</value>
+  </data>
+  <data name="valName.ErrorMessage">
+    <value xml:space="preserve">Pagina naam is vereist</value>
+  </data>
+  <data name="valPriority.ErrorMessage">
+    <value xml:space="preserve">Ongeldige waarde voor prioriteit</value>
+  </data>
+  <data name="valPriorityRequired.ErrorMessage">
+    <value xml:space="preserve">Prioriteit is vereist</value>
+  </data>
+  <data name="valRefresh.ErrorMessage">
+    <value xml:space="preserve">Ongeldig nummer</value>
+  </data>
+  <data name="ViewPage.Text">
+    <value xml:space="preserve">Pagina Weergave</value>
+  </data>
+</root>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CheckLanguage.Text">
+    <value xml:space="preserve">Gebruik de update service voor het zoeken naar beschikbare taalpakket updates.</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Extensies </value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="Download.Text">
+    <value xml:space="preserve">Download</value>
+  </data>
+  <data name="InstalledOnHost.Tooltip">
+    <value xml:space="preserve">Geïnstalleerd op host</value>
+  </data>
+  <data name="InstalledOnPortal.Tooltip">
+    <value xml:space="preserve">Geïnstalleerd op {0}</value>
+  </data>
+  <data name="installExtension.Text">
+    <value xml:space="preserve">Installeren</value>
+  </data>
+  <data name="Language.Type">
+    <value xml:space="preserve">Taal pakketten</value>
+  </data>
+  <data name="LanguageMessage.Text">
+    <value xml:space="preserve">Klik hier om het taalpakket te downloaden</value>
+  </data>
+  <data name="LanguagePacksDetail.Text">
+    <value xml:space="preserve">Taalpakketten geven de gebruikers de mogelijkheid om informatie in hun eigen taal te laten weergeven. Deze informatie bevat DNN veldnamen en hulp informatie, berichten zoals welkom E-mails of het opvragen van het wachtwoord, of data zoals correcte datum en tijd. Hier kunt u alle aanvullende taalpakketten zien die u heeft gecreëerd. Selecteer de aanvullende talen die u wenst te installeren voor gebruik op uw website.</value>
+  </data>
+  <data name="lblUpdate.Text">
+    <value xml:space="preserve">Deze applicatie bevat een Update Service. Deze Service geeft een icoon weer zodra er een nieuwe versie van een extensie beschikbaar is. Het icoon heeft de beschikbare versie aan of als er mogelijke beveiliging risico's zijn, Het is aan te raden te updaten naar de nieuwste versie van de extensie. Door op het icoon te klikken wordt u doorgestuurd naar de locatie waar u de nieuwe versie van de extensie kan downloaden door directe installatie.</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NoResults.Text">
+    <value xml:space="preserve">Er zijn geen extensies gevonden</value>
+  </data>
+  <data name="Version.Header">
+    <value xml:space="preserve">Versie</value>
+  </data>
+</root>

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdvancedSettings.Text">
+    <value xml:space="preserve">Geavanceerde instellingen</value>
+  </data>
+  <data name="Asynchronous.Text">
+    <value xml:space="preserve">Asynchroon</value>
+  </data>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Basis Instellingen</value>
+  </data>
+  <data name="cmdCancelPreview.Text">
+    <value xml:space="preserve">Annuleren Voorbeeld</value>
+  </data>
+  <data name="cmdPreview.Text">
+    <value xml:space="preserve">E-mail voorbeeld bekijken</value>
+  </data>
+  <data name="cmdSend.Text">
+    <value xml:space="preserve">Verstuur e-mail</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Nieuwsbrieven</value>
+  </data>
+  <data name="Heading.Text">
+    <value xml:space="preserve">Beste </value>
+  </data>
+  <data name="High.Text">
+    <value xml:space="preserve">Hoog</value>
+  </data>
+  <data name="Low.Text">
+    <value xml:space="preserve">Laag</value>
+  </data>
+  <data name="Message.Text">
+    <value xml:space="preserve">Bericht</value>
+  </data>
+  <data name="MessageSent.Text">
+    <value xml:space="preserve">Bericht is verstuurd</value>
+  </data>
+  <data name="MessagesSentCount.Text">
+    <value xml:space="preserve">{0} Berichten succesvol verzonden</value>
+  </data>
+  <data name="MessageValidation.Text">
+    <value xml:space="preserve">U moet een Onderwerp en een Bericht opgeven</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over nieuwsbrieven&lt;/h1&gt;
+&lt;p&gt;Beheerders bulk e-mail kunnen verzenden naar alle gebruikers die behoren tot een of meerdere geselecteerde &lt;strong&gt;rollen&lt;/strong&gt; en &lt;strong&gt;extra e-mailadressen&lt;/strong&gt; ook handmatig kunnen opgeven. In meertalige portalen, is er een &lt;strong&gt;Taalfilter&lt;/strong&gt; weergegeven, om taal specifieke inhoud verzenden.&lt;/p&gt;
+&lt;p&gt;De auteur kan een &lt;strong&gt;e-mailadres van de afzender&lt;/strong&gt; opgeven (standaard is genomen uit zijn eigen profiel) en optioneel een &lt;strong&gt;"ReplyTo" adres&lt;/strong&gt;. De &lt;strong&gt;indeling&lt;/strong&gt; (onbewerkte tekst of HTML) van de e-mail wordt bepaald door de editor gebruikt.&lt;/p&gt;
+&lt;p&gt;Tekst in het &lt;strong&gt;onderwerp&lt;/strong&gt; en het &lt;strong&gt;lichaam&lt;/strong&gt; kan bevatten tokens voor eigenschappen voor milieu objecten zoals Portal, gebruiker en datum/tijd, die krijgen door de huidige waarden, vervangen zal als &lt;strong&gt;Tokens vervangen&lt;/strong&gt; is ingeschakeld. &lt;strong&gt;Een bestand dat&lt;/strong&gt; kan worden opgegeven als &lt;strong&gt;prioriteit&lt;/strong&gt; en &lt;strong&gt;onderdrukken meerdere e-mails&lt;/strong&gt; verzonden naar hetzelfde adres of.&lt;/p&gt;
+&lt;p&gt;Zijn er 3 &lt;strong&gt;methoden verzenden&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Aan&lt;/strong&gt; het adres afzonderlijk naar elke geadresseerde, ter vervanging van alle beschikbare penningen stuurt&lt;/li&gt; &lt;li&gt;&lt;strong&gt;BCC&lt;/strong&gt; één e-mailbericht verzendt naar de afzender, met inbegrip van alle adressees als verborgen geadresseerden. &lt; br / &gt; alle individuele gebruikerstokens niet zal krijgen vervangen&lt;/li&gt; &lt;li&gt;&lt;strong&gt;RELAY&lt;/strong&gt; wordt gebruikt als aan, maar alle afzonderlijke e-mails verzenden naar het opgegeven adres RELAY krijgen. Moet u tokens gebruiken voor gebruikers mobiele telefoon of fax nummer om de boodschap geleverd.&lt;/li&gt;
+&lt;/ul&gt; &lt;p&gt;Als u &lt;strong&gt;synchroon&lt;/strong&gt; verzendt, moet u wachten totdat alle mails worden verzonden, voordat u kunt doorgaan. In de asynchrone modus, kunt u meteen doorgaan. Het succes van de verzenden uit zal worden geleverd als een verslag naar de "Uit" e-mailadres.&lt;/p&gt;</value>
+  </data>
+  <data name="NoMessagesSent.Text">
+    <value xml:space="preserve">Er zijn geen berichten verzonden. Een bevestigings e-mail is gestuurd naar {0} met een beschrijving van de fouten die gebeurde tijdens het proces van verzenden.</value>
+  </data>
+  <data name="NoMessagesSentPlusError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de e-mail: {0}</value>
+  </data>
+  <data name="NoRecipients.Text">
+    <value xml:space="preserve">Geen berichten werden verstuurd, omdat er geen ontvangers voor deze e-mail.</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normaal</value>
+  </data>
+  <data name="plAddressees.Text">
+    <value xml:space="preserve">Geadresseerden</value>
+  </data>
+  <data name="plAttachment.Help">
+    <value xml:space="preserve">Selecteer een bijlage voor dit bericht</value>
+  </data>
+  <data name="plAttachment.Text">
+    <value xml:space="preserve">Bijlage</value>
+  </data>
+  <data name="plEmail.Help">
+    <value xml:space="preserve">U kunt hier e-mail adressen opgeven, gescheiden met een puntkomma (;)</value>
+  </data>
+  <data name="plEmail.Text">
+    <value xml:space="preserve">Email lijst</value>
+  </data>
+  <data name="plFrom.Help">
+    <value xml:space="preserve">Geef het "Van" e-mail adres van het e-mail bericht.</value>
+  </data>
+  <data name="plFrom.Text">
+    <value xml:space="preserve">Van</value>
+  </data>
+  <data name="plLanguages.Help">
+    <value xml:space="preserve">Specificeer een filter voor de gebruikers o.b.v. de taal instelling  uit het profiel van de gebruiker.</value>
+  </data>
+  <data name="plLanguages.Text">
+    <value xml:space="preserve">Taal filter</value>
+  </data>
+  <data name="plNoDuplicates.Help">
+    <value xml:space="preserve">Activeer deze optie om dubbele e-mail adressen te verwijderen uit de lijst met geadresseerden.</value>
+  </data>
+  <data name="plNoDuplicates.Text">
+    <value xml:space="preserve">Geen dubbele adressen</value>
+  </data>
+  <data name="plPriority.Help">
+    <value xml:space="preserve">Kies de prioriteit van dit bericht</value>
+  </data>
+  <data name="plPriority.Text">
+    <value xml:space="preserve">Prioriteit</value>
+  </data>
+  <data name="plRelayAddress.Text">
+    <value xml:space="preserve">Relay-adres</value>
+  </data>
+  <data name="plReplaceTokens.Help">
+    <value xml:space="preserve">Bevat de tekst tokens die vervangen moeten worden? &lt;strong&gt;NB:&lt;/strong&gt; Tokens voor gebruikers worden alleen gebruikt als als verzend methode "TO" wordt gebruikt
+	</value>
+  </data>
+  <data name="plReplaceTokens.Text">
+    <value xml:space="preserve">Tokens vervangen?</value>
+  </data>
+  <data name="plReplyTo.Help">
+    <value xml:space="preserve">Voer het "Antwoord naar"-adres in voor het e-mailbericht.</value>
+  </data>
+  <data name="plReplyTo.Text">
+    <value xml:space="preserve">Antwoord naar</value>
+  </data>
+  <data name="plRoles.Help">
+    <value xml:space="preserve">selecteer de gebruiker of rollen die dit bericht moeten ontvangen, bv ''Gebruiker1', 'Beheerders' of 'Geregistreerde gebruikers'.</value>
+  </data>
+  <data name="plRoles.Text">
+    <value xml:space="preserve">Verzend naar gebruikers of rollen</value>
+  </data>
+  <data name="plSendAction.Help">
+    <value xml:space="preserve">Geef aan hoe het bericht verzonden moet worden</value>
+  </data>
+  <data name="plSendAction.Text">
+    <value xml:space="preserve">Verzend Actie</value>
+  </data>
+  <data name="plSendMethod.Help">
+    <value xml:space="preserve">Geef aan hoe deze e-mail verzonden moet worden</value>
+  </data>
+  <data name="plSendMethod.Text">
+    <value xml:space="preserve">Verzend Methode</value>
+  </data>
+  <data name="plSubject.Help">
+    <value xml:space="preserve">Geef het onderwerp van het bericht</value>
+  </data>
+  <data name="plSubject.Text">
+    <value xml:space="preserve">Onderwerp</value>
+  </data>
+  <data name="revEmailAddress.ErrorMessage">
+    <value xml:space="preserve">Het e-mailadres is ongeldig!</value>
+  </data>
+  <data name="SendBCC.Text">
+    <value xml:space="preserve">BCC: één e-mail naar een blinde distributielijst, niet gepersonaliseerd. Alle adressen komen in het BCC veld van het e-mail bericht te staan, ontvangers kunnen niet zien naar wie het bericht verstuurd is.</value>
+  </data>
+  <data name="SendRelay.Text">
+    <value xml:space="preserve">Relay: Een bericht per e-mailadres ( gepersonaliseerd ) naar een gespecificeerde relay server.</value>
+  </data>
+  <data name="SendTo.Text">
+    <value xml:space="preserve">AAN: één bericht per e-mail adres (gepersonaliseerd)</value>
+  </data>
+  <data name="Synchronous.Text">
+    <value xml:space="preserve">Synchroon</value>
+  </data>
+</root>

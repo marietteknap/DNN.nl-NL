@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Auth_System.Type">
+    <value xml:space="preserve">Authenticatie Systemen</value>
+  </data>
+  <data name="AuthSystem.Type">
+    <value xml:space="preserve">Authenticatie Systemen</value>
+  </data>
+  <data name="AvailableExtensions.Text">
+    <value xml:space="preserve">Beschikbare Extensies</value>
+  </data>
+  <data name="By.Text">
+    <value xml:space="preserve">Door</value>
+  </data>
+  <data name="Catalog.Text">
+    <value xml:space="preserve">Extensie Feed</value>
+  </data>
+  <data name="CatalogModule.Text">
+    <value xml:space="preserve">Module</value>
+  </data>
+  <data name="CatalogSearchTitle.Text">
+    <value xml:space="preserve">Zoeken naar extensies</value>
+  </data>
+  <data name="CatalogSkin.Text" lastModified="2015-01-06 16:53:27">
+    <value xml:space="preserve">Thema</value>
+  </data>
+  <data name="CheckLanguage.Text">
+    <value xml:space="preserve">Gebruik de Update Service om te controleren voor bijgewerkte Taal Pakketten voor extensies</value>
+  </data>
+  <data name="ClearSearch.Text">
+    <value xml:space="preserve">Zoeken Wissen</value>
+  </data>
+  <data name="Container.Type">
+    <value xml:space="preserve">Containers</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="CoreLanguagePack.Type">
+    <value xml:space="preserve">Core Taalpakketten</value>
+  </data>
+  <data name="CreateContainer.Action">
+    <value xml:space="preserve">Maak Nieuwe Container</value>
+  </data>
+  <data name="CreateExtension.Action">
+    <value xml:space="preserve">Maak Nieuwe Extensie</value>
+  </data>
+  <data name="CreateLanguagePack.Action">
+    <value xml:space="preserve">Maak Nieuwe Taal</value>
+  </data>
+  <data name="CreateModule.Action">
+    <value xml:space="preserve">Maak Nieuwe Module</value>
+  </data>
+  <data name="CreateSkin.Action" lastModified="2015-01-06 16:53:27">
+    <value xml:space="preserve">Maak Nieuw thema</value>
+  </data>
+  <data name="DashboardControl.Type">
+    <value xml:space="preserve">Dashboard Controls</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Verwijder dit pakket</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="DescriptionLabel.Text">
+    <value xml:space="preserve">Productbeschrijving</value>
+  </data>
+  <data name="DetailsLabel.Text">
+    <value xml:space="preserve">Details</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Wijzig deze Extensie</value>
+  </data>
+  <data name="EditSkins.Action" lastModified="2015-01-06 16:53:27">
+    <value xml:space="preserve">Beheren thema's</value>
+  </data>
+  <data name="ErrorLabel.Text">
+    <value xml:space="preserve">Fout ...</value>
+  </data>
+  <data name="EvoqConnector.Type" lastModified="2015-01-06 15:47:58">
+    <value xml:space="preserve">Evoq connectors</value>
+  </data>
+  <data name="ExpandAll.Text">
+    <value xml:space="preserve">Alles uitvouwen</value>
+  </data>
+  <data name="ExtensionDetail.Text">
+    <value xml:space="preserve">Meer details</value>
+  </data>
+  <data name="ExtensionInstall.Action">
+    <value xml:space="preserve">Wizard Installatie Extensies</value>
+  </data>
+  <data name="ExtensionLanguagePack.Type">
+    <value xml:space="preserve">Extensie Taalpakketten</value>
+  </data>
+  <data name="Extensions.Text">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="ExtensionsLabel.Text">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="ImportModule.Action">
+    <value xml:space="preserve">Importeer Module Definitie</value>
+  </data>
+  <data name="InstalledExtensions.Text">
+    <value xml:space="preserve">Geïnstalleerde Extensies</value>
+  </data>
+  <data name="InstalledOnHost.Tooltip">
+    <value xml:space="preserve">Geïnstalleerd op Gastheer</value>
+  </data>
+  <data name="InstalledOnPortal.Tooltip">
+    <value xml:space="preserve">Geïnstalleerd op {0}</value>
+  </data>
+  <data name="installExtension.Text">
+    <value xml:space="preserve">Installeren</value>
+  </data>
+  <data name="InstallExtensions.Action">
+    <value xml:space="preserve">Batch Extensies Installeren</value>
+  </data>
+  <data name="InUse.Header">
+    <value xml:space="preserve">In gebruik</value>
+  </data>
+  <data name="JavaScript_Library.Type">
+    <value xml:space="preserve">JavaScript bibliotheken</value>
+  </data>
+  <data name="Language.Header">
+    <value xml:space="preserve">Taal?</value>
+  </data>
+  <data name="Language.Text">
+    <value xml:space="preserve">Wijzig Taal bestanden</value>
+  </data>
+  <data name="Language.Type">
+    <value xml:space="preserve">Taalpakketten</value>
+  </data>
+  <data name="LanguageMessage.Text">
+    <value xml:space="preserve">Klik hier om het taalpakket op te halen</value>
+  </data>
+  <data name="LanguagePackInstall.Action">
+    <value xml:space="preserve">Installeer Taalpakket</value>
+  </data>
+  <data name="lblUpdate.Text">
+    <value xml:space="preserve">Deze applicatie bevat een update service welke een icoon toont indien een nieuwe versie van een extensie beschikbaar is. Het getoonde icoon zal een visuele indicatie bevatten indien een huidige geïnstalleerde extensie een potentieel beveiligingsrisico bevat. Indien een kwetsbaarheid in de beveiliging is geconstateerd wordt het ten zeerste aangeraden om naar de nieuwe versie van de extensie te upgraden. Indien u op het icoon klikt zult u naar een locatie worden gebracht waar u de extensie kunt ophalen zodat u deze onmiddelijk kunt installeren.</value>
+  </data>
+  <data name="Library.Type">
+    <value xml:space="preserve">Bibliotheken</value>
+  </data>
+  <data name="License.Text">
+    <value xml:space="preserve">Licentie:</value>
+  </data>
+  <data name="LicenseLabel.Text">
+    <value xml:space="preserve">Licentie</value>
+  </data>
+  <data name="ListExtensions.Text">
+    <value xml:space="preserve">Meer informatie over hoe u uw extensions &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;Hier&lt;/a&gt;</value>
+  </data>
+  <data name="LoadingLabel.Text">
+    <value xml:space="preserve">Laden...</value>
+  </data>
+  <data name="Module.Type">
+    <value xml:space="preserve">Modules</value>
+  </data>
+  <data name="ModuleInstall.Action">
+    <value xml:space="preserve">Installeer Module</value>
+  </data>
+  <data name="MoreExtensions.Text">
+    <value xml:space="preserve">Meer Extensies</value>
+  </data>
+  <data name="MoreInformation.Text">
+    <value xml:space="preserve">Meer Informatie</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NameAZ.Text">
+    <value xml:space="preserve">Naam: A-Z</value>
+  </data>
+  <data name="NameZA.Text">
+    <value xml:space="preserve">Naam: Z-A</value>
+  </data>
+  <data name="NoneLabel.Text">
+    <value xml:space="preserve">Geen</value>
+  </data>
+  <data name="NoResults.Text">
+    <value xml:space="preserve">Er zijn geen extensies gevonden</value>
+  </data>
+  <data name="NotSpecified.Text">
+    <value xml:space="preserve">Niet opgegeven</value>
+  </data>
+  <data name="OrderLabel.Text">
+    <value xml:space="preserve">Volgorde:</value>
+  </data>
+  <data name="plLocales.Help">
+    <value xml:space="preserve">Selecteer een taal uit de lijst om vast te stellen of er taalpakketten bestaan voor deze extensie.</value>
+  </data>
+  <data name="plLocales.Text">
+    <value xml:space="preserve">Taal</value>
+  </data>
+  <data name="plPackageTypes.Help">
+    <value xml:space="preserve">Selecteer het type extensie uit de lijst.</value>
+  </data>
+  <data name="plPackageTypes.Text">
+    <value xml:space="preserve">Type</value>
+  </data>
+  <data name="Portal.Header">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="PriceHighLow.Text">
+    <value xml:space="preserve">Prijs: Hoog - Laag</value>
+  </data>
+  <data name="PriceLowHigh.Text">
+    <value xml:space="preserve">Prijs: Laag - Hoog</value>
+  </data>
+  <data name="Provider.Type">
+    <value xml:space="preserve">Providers</value>
+  </data>
+  <data name="PurchasedExtensions.Text">
+    <value xml:space="preserve">Gekocht Extensies</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="SearchLabel.Help">
+    <value xml:space="preserve">Druk op Enter om te zoeken, zal Esc helder en Annuleren</value>
+  </data>
+  <data name="SearchLabel.Text">
+    <value xml:space="preserve">Zoeken:</value>
+  </data>
+  <data name="Skin.Type" lastModified="2015-01-06 16:53:27">
+    <value xml:space="preserve">Thema's</value>
+  </data>
+  <data name="SkinInstall.Action">
+    <value xml:space="preserve">Installeer Nieuwe Skin</value>
+  </data>
+  <data name="SkinObject.Type">
+    <value xml:space="preserve">Skin Objecten</value>
+  </data>
+  <data name="TagCloud.Text">
+    <value xml:space="preserve">Tag Cloud</value>
+  </data>
+  <data name="TagLabel.Text">
+    <value xml:space="preserve">Tag:</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Lijst met {0} geïnstalleerde extensies</value>
+  </data>
+  <data name="TreeHeader.Text">
+    <value xml:space="preserve">Geïnstalleerde Extensies</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Type</value>
+  </data>
+  <data name="TypeLabel.Help">
+    <value xml:space="preserve">Selecteer het type extensie</value>
+  </data>
+  <data name="TypeLabel.Text">
+    <value xml:space="preserve">Type:</value>
+  </data>
+  <data name="Upgrade.Header">
+    <value xml:space="preserve">Upgraden?</value>
+  </data>
+  <data name="UpgradeMessage.Text">
+    <value xml:space="preserve">Klik hier om de upgrade op te halen</value>
+  </data>
+  <data name="VendorLabel.Text">
+    <value xml:space="preserve">Verkoper:</value>
+  </data>
+  <data name="Version.Header">
+    <value xml:space="preserve">Versie</value>
+  </data>
+  <data name="Version.Text">
+    <value xml:space="preserve">Minimum Vereiste Versie:</value>
+  </data>
+  <data name="Widget.Type">
+    <value xml:space="preserve">Widgets</value>
+  </data>
+</root>

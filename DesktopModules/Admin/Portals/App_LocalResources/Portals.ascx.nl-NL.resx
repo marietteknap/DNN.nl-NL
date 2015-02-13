@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Nieuwe site toevoegen</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Website beheer</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Site verwijderen</value>
+  </data>
+  <data name="DeleteExpired.Action">
+    <value xml:space="preserve">Verwijderen vervallen sites</value>
+  </data>
+  <data name="DiskSpace.Header">
+    <value xml:space="preserve">Schijfruimte</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Bewerk deze site</value>
+  </data>
+  <data name="Expired.Text">
+    <value xml:space="preserve">Vervallen</value>
+  </data>
+  <data name="Expires.Header">
+    <value xml:space="preserve">Vervalt</value>
+  </data>
+  <data name="ExportTemplate.Action">
+    <value xml:space="preserve">Export website als sjabloon</value>
+  </data>
+  <data name="Filter.Text">
+    <value xml:space="preserve">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</value>
+  </data>
+  <data name="HostingFee.Header">
+    <value xml:space="preserve">Hosting vergoeding</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt; Over Site Management &lt;/ h1&gt; &lt;p&gt; De Super gebruiker kan de verschillende ouder en kind Sites te beheren binnen de installatie. Deze module stelt u in staat het toevoegen van een nieuwe site, wijzigen van een bestaande site, en verwijderen van een site. &lt;/ P&gt;</value>
+  </data>
+  <data name="Pages.Header">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="Portal Aliases.Header">
+    <value xml:space="preserve">Site aliassen</value>
+  </data>
+  <data name="PortalDeleted.Text">
+    <value xml:space="preserve">Site succesvol verwijderd</value>
+  </data>
+  <data name="PortalId.Header">
+    <value xml:space="preserve">Site ID</value>
+  </data>
+  <data name="Title.Header">
+    <value xml:space="preserve">Titel</value>
+  </data>
+  <data name="Users.Header">
+    <value xml:space="preserve">Gebruikers</value>
+  </data>
+</root>

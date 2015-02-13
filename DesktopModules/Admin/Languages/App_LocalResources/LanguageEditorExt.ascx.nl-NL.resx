@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_editresourcekey.Text">
+    <value xml:space="preserve">Taal Editor</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">
+      <h1>Over Talen</h1>
+      <p>Hoofdgebruikers kunnen door de applicatie ondersteunde talen beheren</p>
+    </value>
+  </data>
+  <data name="plDefault.Help">
+    <value xml:space="preserve">De standaardwaarde voor de resource key</value>
+  </data>
+  <data name="plDefault.Text">
+    <value xml:space="preserve">Standaardwaarde:</value>
+  </data>
+  <data name="plFile.Help">
+    <value xml:space="preserve">Het taalbestand dat de resource sleutel bevat</value>
+  </data>
+  <data name="plFile.Text">
+    <value xml:space="preserve">Taalbestand:</value>
+  </data>
+  <data name="plName.Help">
+    <value xml:space="preserve">De naam van de resource sleutel die wordt bewerkt</value>
+  </data>
+  <data name="plName.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="RequiredField.ErrorMessage">
+    <value xml:space="preserve">U moet een waarde invullen voor de vertaling</value>
+  </data>
+  <data name="Save.ErrorMessage">
+    <value xml:space="preserve">Een bestandsbewerking is mislukt. Controleer of de bestand toegangsbevoegdheden voor taalbestanden zodanig zijn ingesteld dat bestanden gewijzigd mogen worden.</value>
+  </data>
+</root>

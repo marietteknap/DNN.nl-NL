@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllPagesTranslatable.Help">
+    <value xml:space="preserve">Wanneer aangevinkt zullen alle pagina's uit de standaard taal vertaalbaar worden gemaakt. DotNetNuke maakt een kopie van alle vertaalbare pagina's in alle andere geselecteerde talen</value>
+  </data>
+  <data name="AllPagesTranslatable.Text">
+    <value xml:space="preserve">Maak pagina's vertaalbaar</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="changeDefaultLabel.Text">
+    <value xml:space="preserve">Website standaardtaal wijzigen:</value>
+  </data>
+  <data name="defaultCulture.Text">
+    <value xml:space="preserve">Huidige site standaard</value>
+  </data>
+  <data name="enableLocalization.Text">
+    <value xml:space="preserve">Vertaalde content stelt u in de gelegenheid om vertaalde versies van uw content weer te geven in plaats van alleen het tonen van statische tekst. Als de vertaalde inhoud is geactiveerd zal de standaard site cultuur permanent worden en kan &lt;strong&gt;&lt;em&gt;Niet meer worden gewijzigd&lt;/em&gt;&lt;/strong&gt;. &lt;br/&gt;&lt;br/&gt;Klik op annuleren als u de site standaard wilt aanpassen.</value>
+  </data>
+  <data name="header.Text">
+    <value xml:space="preserve">Vertaalbare inhoud inschakelen</value>
+  </data>
+  <data name="Processing.Text">
+    <value xml:space="preserve">In bewerking:</value>
+  </data>
+  <data name="ProcessingPage.Text">
+    <value xml:space="preserve">{0}: Pagina {1} van {2} - {3}</value>
+  </data>
+  <data name="Progress.Text">
+    <value xml:space="preserve">Voortgang</value>
+  </data>
+  <data name="siteDefaultDescription.Text">
+    <value xml:space="preserve">Indien vertaalbare inhoud is ingeschakeld zal de instelling voor de standaard taal permanent worden ingesteld en &lt;strong&gt;&lt;em&gt;dit kan niet meer door u worden gewijzigd&lt;/em&gt;&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;Klik op annuleren indien u de standaard taal wilt wijzigen.</value>
+  </data>
+  <data name="siteDefaultLabel.Text">
+    <value xml:space="preserve">Huidige standaardtaal:</value>
+  </data>
+  <data name="TotalLanguages.Text">
+    <value xml:space="preserve">Aantal Talen</value>
+  </data>
+  <data name="TotalPages.Text">
+    <value xml:space="preserve">Aantal Pagina's</value>
+  </data>
+  <data name="TotalProgress.Text">
+    <value xml:space="preserve">Totale Voortgang</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Vertaalbare inhoud inschakelen</value>
+  </data>
+</root>

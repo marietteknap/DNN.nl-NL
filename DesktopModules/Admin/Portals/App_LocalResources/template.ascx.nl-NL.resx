@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Basis instellingen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="cmdExport.Text">
+    <value xml:space="preserve">Sjabloon exporteren</value>
+  </data>
+  <data name="ControlTitle_template.Text">
+    <value xml:space="preserve">Sjabloon Exporteren</value>
+  </data>
+  <data name="DefaultLanguage.Text">
+    <value xml:space="preserve">{0} is de standaard taal van de geselecteerde site</value>
+  </data>
+  <data name="ErrorAncestorPages.Text">
+    <value xml:space="preserve">U moet alle hoofdpagina's selecteren vanuit het hoofdniveau om de sub pagina's mee te nemen.</value>
+  </data>
+  <data name="ErrorPages.Text">
+    <value xml:space="preserve">U moet tenminste één pagina selecteren die zal worden geëxporteerd.</value>
+  </data>
+  <data name="ExportedMessage.Text">
+    <value xml:space="preserve">Het nieuwe site sjabloon is opgeslagen in de map: &lt;b&gt;{0}&lt;/b&gt;</value>
+  </data>
+  <data name="lblAdminOnly.Text">
+    <value xml:space="preserve">Alleen zichtbaar voor beheerders</value>
+  </data>
+  <data name="lblDisabled.Text">
+    <value xml:space="preserve">Deze pagina is uitgeschakeld</value>
+  </data>
+  <data name="lblEveryone.Text">
+    <value xml:space="preserve">De pagina is zichtbaar voor iedereen</value>
+  </data>
+  <data name="lblFiles.Help">
+    <value xml:space="preserve">Selecteer deze optie als u alle site bestanden en mappen wilt meenemen tijdens het exporteren van de nieuwe template.</value>
+  </data>
+  <data name="lblFiles.Text">
+    <value xml:space="preserve">Inclusief bestanden?</value>
+  </data>
+  <data name="lblHidden.Text">
+    <value xml:space="preserve">Pagina is verborgen in menu</value>
+  </data>
+  <data name="lblHome.Text">
+    <value xml:space="preserve">Home pagina van de website</value>
+  </data>
+  <data name="lblLanguages.Help">
+    <value xml:space="preserve">De optie geeft u de mogelijkheid om te bepalen welke talen van de pagina's er worden meegenomen bij het exporteren een template.</value>
+  </data>
+  <data name="lblLanguages.Text">
+    <value xml:space="preserve">Pagina's van deze talen exporteren:</value>
+  </data>
+  <data name="lblModules.Help">
+    <value xml:space="preserve">Selecteer deze optie om module plaatsing rechten mee te exporteren in de template. Let er wel op dat als u deze optie gebruikt, het mogelijk benodigd is om ook de rollen mee te exporteren.</value>
+  </data>
+  <data name="lblModules.Text">
+    <value xml:space="preserve">Module plaatsing rechten mee exporteren?</value>
+  </data>
+  <data name="lblMultilanguage.Help">
+    <value xml:space="preserve">Als de site die geëxporteerd wordt inhoud vertalingen geactiveerd heeft kunt u beslissen of u een template wilt maken die meerdere talen bevat of enkel uit één taal bestaat.</value>
+  </data>
+  <data name="lblMultilanguage.Text">
+    <value xml:space="preserve">Site met meerdere talen exporteren?</value>
+  </data>
+  <data name="lblNote.Text">
+    <value xml:space="preserve">Aantekening: De standaard taal ({0}) zal altijd worden geëxporteerd </value>
+  </data>
+  <data name="lblNoteSingleLanguage.Text">
+    <value xml:space="preserve">Aantekening: De standaard taal is &lt;b&gt;{0}&lt;/b&gt;</value>
+  </data>
+  <data name="lblPages.Help">
+    <value xml:space="preserve">Selecteer de pagina's die moeten worden geëxporteerd in de template. &lt;br /&gt;&lt;b&gt;NB: &lt;/b&gt;Als u de template wilt gebruiken om een nieuwe site te creëren, U bij bij het exporteren alle pagina's moet exporteren, indien u de admin pagina's niet mee exporteert zal de site die is aangemaakt middels de template geen admin pagina's bevatten.</value>
+  </data>
+  <data name="lblPages.Text">
+    <value xml:space="preserve">Pagina's die worden geëxporteerd:</value>
+  </data>
+  <data name="lblProfile.Help">
+    <value xml:space="preserve">Selecteer deze optie als u de profiel definities wilt mee exporteren bij het maken van een nieuwe template.</value>
+  </data>
+  <data name="lblProfile.Text">
+    <value xml:space="preserve">Profiel definities meenemen?</value>
+  </data>
+  <data name="lblRedirect.Text">
+    <value xml:space="preserve">Pagina omleiding</value>
+  </data>
+  <data name="lblRegistered.Text">
+    <value xml:space="preserve">Zichtbaar voor geregistreerde gebruikers</value>
+  </data>
+  <data name="lblRoles.Help">
+    <value xml:space="preserve">Selecteer deze optie als u de rollen wilt mee exporteren bij het maken van een nieuwe template.</value>
+  </data>
+  <data name="lblRoles.Text">
+    <value xml:space="preserve">Rollen meenemen?</value>
+  </data>
+  <data name="lblSecure.Text">
+    <value xml:space="preserve">Alleen zichtbaar voor toegewezen rollen</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt; Over Sjablonen &lt;/ h1&gt; &lt;p&gt; Hiermee kunt u een website sjabloon exporteren dat u kunt gebruiken om nieuwe sites te bouwen. &lt;/ p&gt;</value>
+  </data>
+  <data name="plContent.Help">
+    <value xml:space="preserve">Als deze optie is aangevinkt, dan wordt de inhoud (tekst e.d.) ook geëxporteerd naar de nieuwe template.</value>
+  </data>
+  <data name="plContent.Text">
+    <value xml:space="preserve">Inclusief inhoud?</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">Geef een omschrijving voor het sjabloon.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Sjabloon Beschrijving:</value>
+  </data>
+  <data name="plPortals.Help">
+    <value xml:space="preserve">Selecteer de te exporteren Site</value>
+  </data>
+  <data name="plPortals.Text">
+    <value xml:space="preserve">Site:</value>
+  </data>
+  <data name="plTemplateName.Help">
+    <value xml:space="preserve">Geef een naam voor het sjabloonbestand </value>
+  </data>
+  <data name="plTemplateName.Text">
+    <value xml:space="preserve">Sjabloon bestandsnaam:</value>
+  </data>
+  <data name="PortalSetup.Text">
+    <value xml:space="preserve">Site Installatie</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Geavanceerde instellingen</value>
+  </data>
+  <data name="valDescription.ErrorMessage">
+    <value xml:space="preserve">Sjabloon Beschrijving is verplicht</value>
+  </data>
+  <data name="valFileName.ErrorMessage">
+    <value xml:space="preserve">Sjabloon Bestandsnaam is verplicht</value>
+  </data>
+</root>

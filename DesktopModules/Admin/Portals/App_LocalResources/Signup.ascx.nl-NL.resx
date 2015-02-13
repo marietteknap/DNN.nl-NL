@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddPortal.Text">
+    <value xml:space="preserve">Nieuwe site toevoegen</value>
+  </data>
+  <data name="AdminMissing.Text">
+    <value xml:space="preserve">Het admin.template bestand ontbreekt, en moet worden geupload naar de site.&lt;br /&gt;</value>
+  </data>
+  <data name="AutoGenerate.Text">
+    <value xml:space="preserve">Automatisch genereren</value>
+  </data>
+  <data name="Child.Text">
+    <value xml:space="preserve">Dochter</value>
+  </data>
+  <data name="ChildExists.Text">
+    <value xml:space="preserve">De naam voor de sub site die u heeft opgegeven bestaat al. Kies een andere sub site Naam.</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Site Maken</value>
+  </data>
+  <data name="ControlTitle_signup.Text">
+    <value xml:space="preserve">Site toevoegen</value>
+  </data>
+  <data name="CreateError.Text">
+    <value xml:space="preserve">Is een fout opgetreden tijdens het maken van uw site. Dit kan zijn veroorzaakt door een onjuist wachtwoord opgeven voor een bestaande gebruiker Account. Gelieve uw gegevens te controleren voordat u het opnieuw probeert.</value>
+  </data>
+  <data name="Customize.Text">
+    <value xml:space="preserve">Aanpassen</value>
+  </data>
+  <data name="DemoMessage.Text">
+    <value xml:space="preserve">Demo Site aanmelden kunt u uw eigen website en experiment te maken met de geavanceerde functies {0}. Op elk moment tijdens of na de proefperiode, kunt u uw Demo Site omzetten in een geregistreerd Site door in te loggen als de Administrator en het selecteren van de Vernieuwen/Uitbreiden van uw site abonnement op de Admin pagina. Geregistreerde sites hebben het extra voordeel van het gebruik van hun eigen domeinnaam (bijv. www.yourdomain.com) als hun webadres &lt;br /&gt; &lt;b&gt; * Let op:. &lt;/b&gt; De naam moet een eenvoudige naam voor uw site en kan geen spaties of leestekens. De URL van uw site zal in de volgende opmaak dienen te zijn&lt;b&gt;{1}/sitenaam &lt;/b&gt;&lt;br /&gt;</value>
+  </data>
+  <data name="DisallowedExtension.Warning">
+    <value xml:space="preserve">De template  bevat de volgende extenties die niet standaard zijn toegestaan - {0}. Omdat deze een geintegreerd onderdeel zijn van de template zijn deze extenties gekopieërd naar de website. Bekijk het logboek voor meer informatie.</value>
+  </data>
+  <data name="DuplicatePortalAlias.Text">
+    <value xml:space="preserve">De Site Alias ​​Naam die u heeft opgegeven bestaat al. Kies een andere site Alias.</value>
+  </data>
+  <data name="DuplicateWithTab.Text">
+    <value xml:space="preserve">Er bestaat al een pagina met de zelfde naam als deze site alias. Verander de site alias en probeer het opnieuw</value>
+  </data>
+  <data name="InvalidHomeFolder.Text">
+    <value xml:space="preserve">De home map die u selecteerde is ongeldig.</value>
+  </data>
+  <data name="InvalidName.Text">
+    <value xml:space="preserve">De Site Alias ​​mag geen spaties of leestekens bevatten.</value>
+  </data>
+  <data name="InvalidPassword.Text">
+    <value xml:space="preserve">De ingevulde wachtwoorden komen niet overeen</value>
+  </data>
+  <data name="InvalidTemplate.Text">
+    <value xml:space="preserve">{0} is geen geldig Site Sjabloon Bestand.</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Er kunnen binnen deze toepassing twee soorten portalen worden aangemaakt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Websites&lt;/b&gt; zijn sites die een unieke URL (bijv. &lt;b&gt;www.mijndomein.nl&lt;/b&gt;) 
+hebben. In het algemeen is het hiervoor noodzakelijk dat er een domeinnaam geregistreerd 
+wordt bij een daarvoor aangewezen partij. U kunt contact opnemen met uw hostingprovider 
+om de technische details hiervoor te laten regelen. Maak geen website 
+aan voordat alle dns instelling correct zijn, anders kunt u uw website niet 
+benaderen&lt;/li&gt;&lt;li&gt;&lt;b&gt;Subwebsites&lt;/b&gt; zijn websites die een domeinnaam van een website delen. In essentie betekent dit dat er een directory aangemaakt wordt op 
+de webserver waarmee het mogelijk wordt de site te benaderen met een url adres 
+dat naast de domeinnaam van een website de directorynaam bevat (bijv.
+&lt;b&gt;www.mijndomein.nl/directory&lt;/b&gt;). Een subwebsite can op elk moment geconverteerd 
+worden in een website door simpelweg de alias naam te wijzigen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;*NB: Nieuwe websites worden aangemaakt met de standaard instellingen zoals deze 
+in de Applicatie Instellingen zijn gedefinieerd (tarief, ruimte, demo periode), 
+of in het geselecteerde sjabloon. Als de websuite is aangemaakt, dan kunnen deze 
+eigenschappen aangepast via de optie "Site instellingen" in het menu "Website"&lt;/p&gt;</value>
+  </data>
+  <data name="Note.Text">
+    <value xml:space="preserve">&lt;strong&gt; * Opmerking: &lt;/strong&gt; Zodra uw site is gemaakt, moet u inloggen met de Administrator-gegevens zoals hieronder gespecificeerd.</value>
+  </data>
+  <data name="Parent.Text">
+    <value xml:space="preserve">Moeder</value>
+  </data>
+  <data name="plAnswer.Help">
+    <value xml:space="preserve">Geef het antwoord op de bovenstaande vraag. </value>
+  </data>
+  <data name="plAnswer.Text">
+    <value xml:space="preserve">Wachtwoord Antwoord:</value>
+  </data>
+  <data name="plConfirm.Help">
+    <value xml:space="preserve">Herhaal het wachtwoord om te controleren of het correct getypt is.</value>
+  </data>
+  <data name="plConfirm.Text">
+    <value xml:space="preserve">Bevestiging:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">Geef een omschrijving voor uw website.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Omschrijving:</value>
+  </data>
+  <data name="plEmail.Help">
+    <value xml:space="preserve">Geef een e-mail adres voor de beheerder van dit portaal</value>
+  </data>
+  <data name="plEmail.Text">
+    <value xml:space="preserve">E-mail:</value>
+  </data>
+  <data name="plFirstName.Help">
+    <value xml:space="preserve">Geef uw voornaam.</value>
+  </data>
+  <data name="plFirstName.Text">
+    <value xml:space="preserve">Voornaam:</value>
+  </data>
+  <data name="plHomeDirectory.Help">
+    <value xml:space="preserve">Geef de home directory op voor deze site</value>
+  </data>
+  <data name="plHomeDirectory.Text">
+    <value xml:space="preserve">Home Map:</value>
+  </data>
+  <data name="plKeyWords.Help">
+    <value xml:space="preserve">Geef een aantal sleutelwoorden, gescheiden met komma's. Deze sleutelwoorden worden toegevoegd aan de html pagina als metadata en zorgen ervoor dat zoek machines uw site beter kunnen indexeren.</value>
+  </data>
+  <data name="plKeyWords.Text">
+    <value xml:space="preserve">Sleutelwoorden:</value>
+  </data>
+  <data name="plLastName.Help">
+    <value xml:space="preserve">Geef uw achternaam.</value>
+  </data>
+  <data name="plLastName.Text">
+    <value xml:space="preserve">Achternaam:</value>
+  </data>
+  <data name="plPassword.Help">
+    <value xml:space="preserve">Geef een wachtwoord voor het beheerders account van deze website</value>
+  </data>
+  <data name="plPassword.Text">
+    <value xml:space="preserve">Wachtwoord:</value>
+  </data>
+  <data name="plPortalAlias.Help">
+    <value xml:space="preserve">Geef de alias op voor deze site</value>
+  </data>
+  <data name="plPortalAlias.Text">
+    <value xml:space="preserve">Site Alias:</value>
+  </data>
+  <data name="plPortalName.Help">
+    <value xml:space="preserve">Voer een naam in voor de site</value>
+  </data>
+  <data name="plPortalName.Text">
+    <value xml:space="preserve">Site Naam:</value>
+  </data>
+  <data name="plQuestion.Help">
+    <value xml:space="preserve">Geef de vraag op die moet worden gebruikt wanneer het wachtwoord wordt opgevraagd.</value>
+  </data>
+  <data name="plQuestion.Text">
+    <value xml:space="preserve">Wachtwoord Vraag:</value>
+  </data>
+  <data name="plSiteGroups.Help">
+    <value xml:space="preserve">U kunt optioneel uw nieuwe website aan een bestaande website groep toevoegen</value>
+  </data>
+  <data name="plSiteGroups.Text">
+    <value xml:space="preserve">Toevoegen aan website groep:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Kies een sjabloon voor de nieuwe Site.</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Sjabloon:</value>
+  </data>
+  <data name="plTitle.Help">
+    <value xml:space="preserve">Geef uw website een titel</value>
+  </data>
+  <data name="plTitle.Text">
+    <value xml:space="preserve">Titel:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Er zijn twee soorten van sites die kunnen worden gemaakt met behulp van deze applicatie (zie de module Hulp beschikbaar op de Action Menu voor meer details).</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Site Type:</value>
+  </data>
+  <data name="plUsername.Help">
+    <value xml:space="preserve">Geef een gebruikersnaam voor het beheerdersaccount voor deze website</value>
+  </data>
+  <data name="plUsername.Text">
+    <value xml:space="preserve">Gebruikersnaam Beheerder:</value>
+  </data>
+  <data name="PortalMissing.Text">
+    <value xml:space="preserve">Uw site sjabloon bestand ontbreekt en moet naar de site worden geüpload. &lt;br&gt;</value>
+  </data>
+  <data name="PortalSetup.Text">
+    <value xml:space="preserve">Een site opzetten</value>
+  </data>
+  <data name="SecuritySettings.Text">
+    <value xml:space="preserve">Beveiliging Instellingen</value>
+  </data>
+  <data name="SendMail.Error">
+    <value xml:space="preserve">Er is een fout opgetreden bij de verzending van de bevestiging e-mails - {0}. Echter, de website is gecreëerd. &lt;a href='{1}' {2}&gt; Klik hier om de nieuwe site te bezoeken &lt;/a&gt;</value>
+  </data>
+  <data name="UnknownSendMail.Error">
+    <value xml:space="preserve">Er is een fout opgetreden bij de verzending van de bevestiging e-mails. Echter, de website is gecreëerd. &lt;a href='{0}' {1}&gt; Klik hier om de nieuwe site te bezoeken &lt;/a&gt; </value>
+  </data>
+  <data name="useCurrentLabel.Help">
+    <value xml:space="preserve">Dit vakje aanvinken indien u wilt dat de SuperUser ook de Administrator is van deze site. Indien het vakje niet is aangevinkt kunt u ook credentials voor de Administrator opgeven.</value>
+  </data>
+  <data name="useCurrentLabel.Text">
+    <value xml:space="preserve">Gebruik Huidige Gebruiker Als Administrator:</value>
+  </data>
+  <data name="valConfirm.ErrorMessage">
+    <value xml:space="preserve">Wachtwoord bevestigen is verplicht.</value>
+  </data>
+  <data name="valEmail.ErrorMessage">
+    <value xml:space="preserve">Email is verplicht.</value>
+  </data>
+  <data name="valEmail2.ErrorMessage">
+    <value xml:space="preserve">Email adres is ongeldig</value>
+  </data>
+  <data name="valFirstName.ErrorMessage">
+    <value xml:space="preserve">Voornaam is een verplicht.</value>
+  </data>
+  <data name="ValidationResults.Text">
+    <value xml:space="preserve">Resultaat van validatie</value>
+  </data>
+  <data name="valLastName.ErrorMessage">
+    <value xml:space="preserve">Achternaam is een verplicht.</value>
+  </data>
+  <data name="valPassword.ErrorMessage">
+    <value xml:space="preserve">Wachtwoord is verplicht.</value>
+  </data>
+  <data name="valPortalAlias.ErrorMessage">
+    <value xml:space="preserve">Site Alias is verplicht.</value>
+  </data>
+  <data name="valPortalName.ErrorMessage">
+    <value xml:space="preserve">Titel Site is verplicht.</value>
+  </data>
+  <data name="valTemplate.ErrorMessage">
+    <value xml:space="preserve">Selecteer een sjabloonbestand</value>
+  </data>
+  <data name="valUsername.ErrorMessage">
+    <value xml:space="preserve">Gebruikersnaam is verplicht.</value>
+  </data>
+</root>

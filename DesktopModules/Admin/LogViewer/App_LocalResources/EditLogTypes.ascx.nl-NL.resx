@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Active.Header">
+    <value xml:space="preserve">Actief</value>
+  </data>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Voeg logboek configuratie toe</value>
+  </data>
+  <data name="ConfigAdded.Text">
+    <value xml:space="preserve">Logboek configuratie is toegevoegd.</value>
+  </data>
+  <data name="ConfigDeleted.Text">
+    <value xml:space="preserve">De geselecteerde logboek configuratie is verwijderd.</value>
+  </data>
+  <data name="ConfigUpdated.Text">
+    <value xml:space="preserve">Logboek configuratie is bijgewerkt.</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Logboek instellingen wijzigen</value>
+  </data>
+  <data name="DeleteError.Text">
+    <value xml:space="preserve">De geselecteerde logboek configuratie kon niet worden verwijderd. Verwijder eerst alle bestaande log regels van dit log type.</value>
+  </data>
+  <data name="Edit.EditText">
+    <value xml:space="preserve">Wijzigen</value>
+  </data>
+  <data name="EmailSettings.Text">
+    <value xml:space="preserve">E-mail </value>
+  </data>
+  <data name="FileName.Header">
+    <value xml:space="preserve">Bestandsnaam</value>
+  </data>
+  <data name="In.Text">
+    <value xml:space="preserve">in</value>
+  </data>
+  <data name="LogEntries.Text">
+    <value xml:space="preserve"> Logboek items</value>
+  </data>
+  <data name="LogEntry.Text">
+    <value xml:space="preserve"> Logboek item</value>
+  </data>
+  <data name="LogType.Header">
+    <value xml:space="preserve">Logboek type</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over het logboek&lt;/h1&gt;&lt;p&gt;Met deze module kunnen alle kritische gebeurtenissen binnen de applicatie bekeken worden. Tevens kan met behulp van het logboek auditing plaats vinden op veranderingen in de website.&lt;/p&gt;</value>
+  </data>
+  <data name="Occurence.Text">
+    <value xml:space="preserve"> Maal</value>
+  </data>
+  <data name="Occurences.Text">
+    <value xml:space="preserve"> Maal</value>
+  </data>
+  <data name="plEmailNotificationStatus.Help">
+    <value xml:space="preserve">Wil u dat er een bericht verzonden wordt als deze gebeurtenis optreedt?</value>
+  </data>
+  <data name="plEmailNotificationStatus.Text">
+    <value xml:space="preserve">E-mail meldingen ingesteld</value>
+  </data>
+  <data name="plFileName.Help">
+    <value xml:space="preserve">Voer de bestandsnaam van het logboek bestand in</value>
+  </data>
+  <data name="plFileName.Text">
+    <value xml:space="preserve">Bestandsnaam</value>
+  </data>
+  <data name="plIsActive.Help">
+    <value xml:space="preserve">Wilt u dat de logboek functie ingesteld is?</value>
+  </data>
+  <data name="plIsActive.Text">
+    <value xml:space="preserve">Logboek functie ingesteld</value>
+  </data>
+  <data name="plKeepMostRecent.Text">
+    <value xml:space="preserve">Bewaar meest recente</value>
+  </data>
+  <data name="plLogTypeKey.Help">
+    <value xml:space="preserve">Welk type melding is dit logboek type</value>
+  </data>
+  <data name="plLogTypeKey.Text">
+    <value xml:space="preserve">Logboek type</value>
+  </data>
+  <data name="plLogTypePortalID.Help">
+    <value xml:space="preserve">Aan welke website is deze logboek melding verbonden</value>
+  </data>
+  <data name="plLogTypePortalID.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="plMailFromAddress.Help">
+    <value xml:space="preserve">Afzender van de e-mail meldingen</value>
+  </data>
+  <data name="plMailFromAddress.Text">
+    <value xml:space="preserve">E-mail afzender</value>
+  </data>
+  <data name="plMailToAddress.Help">
+    <value xml:space="preserve">E-mail adres waar de e-mail meldingen naar toe gestuurd moeten worden</value>
+  </data>
+  <data name="plMailToAddress.Text">
+    <value xml:space="preserve">E-Mail geadresseerde</value>
+  </data>
+  <data name="plThreshold.Text">
+    <value xml:space="preserve">Drempelwaarde aantal gebeurtenissen</value>
+  </data>
+  <data name="Portal.Header">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Logboek Instellingen</value>
+  </data>
+  <data name="TimeType_1.Text">
+    <value xml:space="preserve">Seconden</value>
+  </data>
+  <data name="TimeType_2.Text">
+    <value xml:space="preserve">Minuten</value>
+  </data>
+  <data name="TimeType_3.Text">
+    <value xml:space="preserve">Uren</value>
+  </data>
+  <data name="TimeType_4.Text">
+    <value xml:space="preserve">Dagen</value>
+  </data>
+</root>

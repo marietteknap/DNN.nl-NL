@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdSend.Text">
+    <value xml:space="preserve">Verstuur notificatie</value>
+  </data>
+  <data name="ControlTitle_affiliate.Text">
+    <value xml:space="preserve">Affiliatie bewerken</value>
+  </data>
+  <data name="CPA.ErrorMessage">
+    <value xml:space="preserve">U moet een geldige CPA invullen</value>
+  </data>
+  <data name="CPC.ErrorMessage">
+    <value xml:space="preserve">U moet een geldige CPC invullen</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over verkopers&lt;/ h1&gt;&lt;p&gt;Beheerders kunnen de verkopers en Banners gekoppeld aan de site beheren. Deze module stelt u in staat om een ​​nieuwe verkoper toe te voegen, een bestaande te wijzigen of te verwijderen. &lt;/ P&gt;</value>
+  </data>
+  <data name="NotificationFailure.Text">
+    <value xml:space="preserve">Notificatie niet verzonden: {0}</value>
+  </data>
+  <data name="NotificationSuccess.Text">
+    <value xml:space="preserve">Notificatie verzonden</value>
+  </data>
+  <data name="plCPA.Help">
+    <value xml:space="preserve">Kosten per Acquisitie (CPA) is de commissie die uitbetaald wordt wanneer een door de affiliatie doorgestuurde bezoeker zich aanmeld voor uw website.</value>
+  </data>
+  <data name="plCPA.Text">
+    <value xml:space="preserve">Kosten per acquisitie ( CPA )</value>
+  </data>
+  <data name="plCPC.Help">
+    <value xml:space="preserve">Kosten per klik (CPC) is de commissie die betaald wordt wanneer een bezoeker uw site bezoekt via de affiliatie.</value>
+  </data>
+  <data name="plCPC.Text">
+    <value xml:space="preserve">Kosten per klik( CPC )</value>
+  </data>
+  <data name="plEndDate.Text">
+    <value xml:space="preserve">Einddatum</value>
+  </data>
+  <data name="plStartDate.Help">
+    <value xml:space="preserve">Door middel van het aangeven van een begin- en einddatum kunt u aangeven wat de begin- en einddata van dit affiliatie contract zijn.</value>
+  </data>
+  <data name="plStartDate.Text">
+    <value xml:space="preserve">Startdatum</value>
+  </data>
+</root>

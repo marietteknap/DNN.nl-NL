@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="APPLICATION_START.Text">
+    <value xml:space="preserve">APPLICATIE_START</value>
+  </data>
+  <data name="cmdRun.Text">
+    <value xml:space="preserve">Direct Uitvoeren</value>
+  </data>
+  <data name="ContentOptions.Action">
+    <value xml:space="preserve">Bekijk status geplande taken</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Bewerk taken</value>
+  </data>
+  <data name="Days.Text">
+    <value xml:space="preserve">Dagen</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value xml:space="preserve">De taak is verwijderd</value>
+  </data>
+  <data name="Hours.Text">
+    <value xml:space="preserve">Uren</value>
+  </data>
+  <data name="InvalidFrequencyAndRetry.Text">
+    <value xml:space="preserve">De waarde voor frequentie en herstart zijn ongeldig omdat de herstart inverval hoger ligt als de frequentie interval</value>
+  </data>
+  <data name="Minutes.Text">
+    <value xml:space="preserve">Minuten</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">
+      Over Geplande Taken
+      Met behulp van deze module kunt u aangeven welke taken op geplande intervallen uitgevoerd moeten worden. 
+    </value>
+  </data>
+  <data name="Months.Text">
+    <value xml:space="preserve">Maanden</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">Geen</value>
+  </data>
+  <data name="plAttachToEvent.Help">
+    <value xml:space="preserve">Voorbeeld: Kies "APPLICATION START" om deze taak te laten uitvoeren bij het starten van de webapplicatie. NB: geplande taken die uitgevoerd moeten worden tijdens "APPLICATION_END" worden niet op alle hosts betrouwbaar uitgevoerd.</value>
+  </data>
+  <data name="plAttachToEvent.Text">
+    <value xml:space="preserve">Uitvoeren bij gebeurtenis:</value>
+  </data>
+  <data name="plCatchUpEnabled.Help">
+    <value xml:space="preserve">Als deze optie is aangevinkt, dan zal de taak alsnog uitgevoerd worden als de webserver niet actief was op het oorspronkelijk geplande tijdstip.</value>
+  </data>
+  <data name="plCatchUpEnabled.Text">
+    <value xml:space="preserve">Alsnog uitvoeren:</value>
+  </data>
+  <data name="plEnabled.Help">
+    <value xml:space="preserve">Vink deze optie aan om de taak te activeren</value>
+  </data>
+  <data name="plEnabled.Text">
+    <value xml:space="preserve">Taak is actief</value>
+  </data>
+  <data name="plFriendlyName.Help">
+    <value xml:space="preserve">Geef een naam op voor de geplande taak.</value>
+  </data>
+  <data name="plFriendlyName.Text">
+    <value xml:space="preserve">Gebruiksvriendelijke Naam:</value>
+  </data>
+  <data name="plObjectDependencies.Help">
+    <value xml:space="preserve">Geef aan van welke tabellen of andere objecten deze taak afhankelijk is. Voorbeeld: "SiteLog,Users,UsersOnline"</value>
+  </data>
+  <data name="plObjectDependencies.Text">
+    <value xml:space="preserve">Object afhankelijkheden:</value>
+  </data>
+  <data name="plRetainHistoryNum.Help">
+    <value xml:space="preserve">Voorbeeld: selecteer "10" om de tien meest recente historie regels van uitgevoerde geplande taken te bewaren</value>
+  </data>
+  <data name="plRetainHistoryNum.Text">
+    <value xml:space="preserve">Lengte geplande taken historie:</value>
+  </data>
+  <data name="plRetryTimeLapse.Help">
+    <value xml:space="preserve">Voorbeeld: "5" en selecteer "Minuten" om de taak, als deze mislukt, elke 5 minuten opnieuw te proberen. </value>
+  </data>
+  <data name="plRetryTimeLapse.Text">
+    <value xml:space="preserve">Frequentie voor opnieuw proberen</value>
+  </data>
+  <data name="plScheduleStartDate.Help">
+    <value xml:space="preserve">Voer de start datum/tijd in voor de geplande taak. Opmerking: Als de server offline is als er andere taken lopen op het moment dat de geplande taak moet worden uitgevoerd, dan zal de geplande taak worden gedraait op het moment dat de server weer online is.</value>
+  </data>
+  <data name="plScheduleStartDate.Text">
+    <value xml:space="preserve">Schema start datum/tijd:</value>
+  </data>
+  <data name="plServers.Help">
+    <value xml:space="preserve">Geef een met komma's gescheiden lijst met servers die deze taak moeten uitvoeren.</value>
+  </data>
+  <data name="plServers.Text">
+    <value xml:space="preserve">Voer uit op Servers:</value>
+  </data>
+  <data name="plTimeLapse.Help">
+    <value xml:space="preserve">Voorbeeld: "5" en selecteer "Minuten" om de taak elke 5 minuten uit te voeren. Laat deze optie leeg om de timer voor deze taak uit te zetten</value>
+  </data>
+  <data name="plTimeLapse.Text">
+    <value xml:space="preserve">Interval:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Dit is de volledige klasse naam gevolgd door de assembly naam.  Bijvoorbeeld: "DotNetNuke.Entities.Users.PurgeUsersOnline, DOTNETNUKE"</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Volledige klasse naam en Assembly</value>
+  </data>
+  <data name="RetryTimeLapseRequired.ErrorMessage">
+    <value xml:space="preserve">U moet een herstart frequentie waarde ingeven</value>
+  </data>
+  <data name="RetryTimeLapseValidator.ErrorMessage">
+    <value xml:space="preserve">Herstart frequentie bereik is van 1 tot 999999</value>
+  </data>
+  <data name="RunNow.Text">
+    <value xml:space="preserve">Een item toegevoegd aan de wachtrij om direct uit te voeren</value>
+  </data>
+  <data name="ScheduleHistory.Action">
+    <value xml:space="preserve">Bekijk historie geplande taken</value>
+  </data>
+  <data name="Seconds.Text">
+    <value xml:space="preserve">Seconden</value>
+  </data>
+  <data name="TimeLapseRequired.ErrorMessage">
+    <value xml:space="preserve">U moet een frequentie waarde ingeven</value>
+  </data>
+  <data name="TimeLapseValidator.ErrorMessage">
+    <value xml:space="preserve">frequentie bereik is van 1 tot 999999</value>
+  </data>
+  <data name="TypeRequired.Text">
+    <value xml:space="preserve">Het type van het Schedule item is vereist.</value>
+  </data>
+  <data name="UpdateSuccess.Text">
+    <value xml:space="preserve">Uw aanpassingen zijn bewaard.</value>
+  </data>
+  <data name="Weeks.Text">
+    <value xml:space="preserve">Weken</value>
+  </data>
+  <data name="Years.Text">
+    <value xml:space="preserve">Jaren</value>
+  </data>
+</root>

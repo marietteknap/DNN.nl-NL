@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Title">
+    <value xml:space="preserve">Maak Nieuwe Module</value>
+  </data>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Folder Toevoegen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Maak Module</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Maak Folder</value>
+  </data>
+  <data name="Control.Text">
+    <value xml:space="preserve">Control</value>
+  </data>
+  <data name="CSharp.Text">
+    <value xml:space="preserve">C# (C sharp)</value>
+  </data>
+  <data name="Edit.Title">
+    <value xml:space="preserve">Wijzig Module</value>
+  </data>
+  <data name="FileExists.Text">
+    <value xml:space="preserve">De gekozen bestandsnaam bestaat al. Gebruik s.v.p. een andere naam.</value>
+  </data>
+  <data name="ImportControl.ErrorMessage">
+    <value xml:space="preserve">Er is een fout opgetreden bij het importeren van de module control, kijk svp voor meer informatie in het logboek</value>
+  </data>
+  <data name="InvalidFilename.Text">
+    <value xml:space="preserve">Bestandsnamen mogen geen ongeldige karakters bevatten</value>
+  </data>
+  <data name="LanguageError.Text">
+    <value xml:space="preserve">U moet een taal selecteren voor uw module control.</value>
+  </data>
+  <data name="Manifest.Text">
+    <value xml:space="preserve">Manifest</value>
+  </data>
+  <data name="MissingControl.Text">
+    <value xml:space="preserve">U moet een bestandsnaam opgeven voor de module control</value>
+  </data>
+  <data name="MissingFriendlyname.Text">
+    <value xml:space="preserve">U moet een naam opgeven voor de module </value>
+  </data>
+  <data name="MissingManifest.Text">
+    <value xml:space="preserve">U moet een manifest bestand opgeven (.dnn or .dnn5 file)</value>
+  </data>
+  <data name="ModuleControlTemplate.Text">
+    <value xml:space="preserve">&lt;%@ Control Language="{0}" ClassName="{1}" Inherits="DotNetNuke.Entities.Modules.PortalModuleBase" %&gt;
+&lt;h1&gt; Gefeliciteerd &lt;/h1&gt;
+&lt;p&gt; U heeft met succes uw module aangemaakt. U kunt de broncode van de module  bewerken via de optie "Broncode bekijken" in het Actiemenu&lt;/p&gt;
+&lt;script runat="server"&gt;
+
+&lt;/script&gt;</value>
+  </data>
+  <data name="ModuleFolder.Text">
+    <value xml:space="preserve">U moet een module folder selecteren. U kunt er desgewenst een aanmaken.</value>
+  </data>
+  <data name="New.Text">
+    <value xml:space="preserve">Nieuw</value>
+  </data>
+  <data name="NoControl.Text">
+    <value xml:space="preserve">U moet een Control selecteren uit de lijst met "Resources"</value>
+  </data>
+  <data name="NonuniqueName.Text">
+    <value xml:space="preserve">Er bestaat al een pakket met deze naam - geef svp een alternatieve naam op</value>
+  </data>
+  <data name="NonuniqueNameModule.Text">
+    <value xml:space="preserve">de module {0} is al geregistreerd in het systeem</value>
+  </data>
+  <data name="plAddPage.Help">
+    <value xml:space="preserve">Deze box aanvinken indien u een testpagina voor uw nieuwe module wilt aanmaken.</value>
+  </data>
+  <data name="plAddPage.Text">
+    <value xml:space="preserve">Testpagina Toevoegen?</value>
+  </data>
+  <data name="plCreate.Help">
+    <value xml:space="preserve">U kunt een nieuwe uit vele bronnen aanmaken. Selecteer welke methode te gebruiken. Nieuw - creëert een nieuwe module control, Control - creëert een module van een bestaande controle, Manifest - creëert een module van een manifest.</value>
+  </data>
+  <data name="plCreate.Text">
+    <value xml:space="preserve">Maak Module Van:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">U kunt een beschrijving voor uw module opgeven.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Beschrijving:</value>
+  </data>
+  <data name="plFile1.Help">
+    <value xml:space="preserve">U moet een resource selecteren om te gebruiken voor het maken van uw module.</value>
+  </data>
+  <data name="plFile1.Text">
+    <value xml:space="preserve">Bron:</value>
+  </data>
+  <data name="plFile2.Help">
+    <value xml:space="preserve">Geef een naam op voor uw nieuwe module control en bepaal de te gebruiken taal.</value>
+  </data>
+  <data name="plFile2.Text">
+    <value xml:space="preserve">Bestandnaam/Taal:</value>
+  </data>
+  <data name="plLang.Help">
+    <value xml:space="preserve">Bepaal de te gebruiken taal.</value>
+  </data>
+  <data name="plLang.Text">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="plModule1.Help">
+    <value xml:space="preserve">Selecteer de map die u wilt gebruiken voor uw module. U kunt een nieuwe map door op de knop Map toevoegen.</value>
+  </data>
+  <data name="plModule1.Text">
+    <value xml:space="preserve">Module Map:</value>
+  </data>
+  <data name="plModule2.Help">
+    <value xml:space="preserve">Geef een naam op voor de nieuwe module folder</value>
+  </data>
+  <data name="plModule2.Text">
+    <value xml:space="preserve">Folder Naam:</value>
+  </data>
+  <data name="plName.Help">
+    <value xml:space="preserve">Geef een Friendly Name op voor uw module.</value>
+  </data>
+  <data name="plName.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="plOwner1.Help">
+    <value xml:space="preserve">Module Ontwikkelaars worden aangemoedigd om een "unieke" map in DesktopModules voor de ontwikkeling, te gebruiken om mogelijke conflicten met andere ontwikkelaars te voorkomen. Selecteer de map die u wilt gebruiken voor uw Module ontwikkeling.</value>
+  </data>
+  <data name="plOwner1.Text">
+    <value xml:space="preserve">Eigenaar Folder:</value>
+  </data>
+  <data name="plOwner2.Help">
+    <value xml:space="preserve">Geef een naam op voor de eigenaar van de folder.</value>
+  </data>
+  <data name="plOwner2.Text">
+    <value xml:space="preserve">Folder Naam:</value>
+  </data>
+  <data name="TabExists.Text">
+    <value xml:space="preserve">De paginanaam bestaat al voor deze module. De module is gemaakt, maar de test pagina is niet gegenereerd.</value>
+  </data>
+  <data name="Template.Text">
+    <value xml:space="preserve">Sjabloon</value>
+  </data>
+  <data name="VisualBasic.Text">
+    <value xml:space="preserve">Visual Basic</value>
+  </data>
+</root>

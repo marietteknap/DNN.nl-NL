@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdVerify.Text">
+    <value xml:space="preserve">Verifieer taalbestanden</value>
+  </data>
+  <data name="ControlTitle_verify.Text">
+    <value xml:space="preserve">Taalbestanden verifiëren</value>
+  </data>
+  <data name="DuplicateEntries.Text">
+    <value xml:space="preserve">Bestanden met dubbele items: </value>
+  </data>
+  <data name="ErrorFiles.Text">
+    <value xml:space="preserve">Niet goed ingedeelde taalbestanden: </value>
+  </data>
+  <data name="Locale.Text">
+    <value xml:space="preserve">Regio/taal: </value>
+  </data>
+  <data name="MissingEntries.Text">
+    <value xml:space="preserve">Bestanden met ontbrekende items: </value>
+  </data>
+  <data name="MissingFiles.Text">
+    <value xml:space="preserve">Ontbrekende taalbestanden: </value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Met deze module kunt u alle geïnstalleerde taalpakketten controleren ten opzichte 
+van de standaard systeemtaal. Tijdens het verificatie proces worden alle systeem 
+taalbestanden vergeleken met de gelokaliseerde versie voor alle ondersteunde talen.
+&lt;/p&gt;
+&lt;p&gt;Met behulp van het rapport kunt u vast stellen welke problem nog opgelost moeten 
+worden. Dit kan met de &lt;strong&gt;Taaleditor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Er zijn drie verschillende kwesties die gevonden kunnen worden voor elke resource 
+file: &lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span class="SubHead"&gt;Ontbrekende taalbestanden: &lt;/span&gt;De vertaalde versie 
+	van een bepaald taalbestand ontbreekt. Dit probleem kan opgelost worden door 
+	in de taaleditor het taalbestand te selecteren waarvoor de fout werd gerapporteerd. 
+	Het gelokaliseerde bestand wordt dan automatisch aangemaakt. &lt;/li&gt;
+	&lt;li&gt;&lt;span class="SubHead"&gt;Bestanden met ontbrekende items: &lt;/span&gt;De vertaalde 
+	versie van een bepaald taalbestand mist enkele items die aanwezig zijn in het 
+	standaard systeem taalbestand. Dit probleem kan opgelost worden door in de taaleditor 
+	het taalbestand te selecteren waarvoor de fout werd gerapporteerd. U heeft dan 
+	de optie om de ontbrekende items automatisch toe te voegen. &lt;/li&gt;
+	&lt;li&gt;&lt;span class="SubHead"&gt;Bestanden met verouderde items:&lt;/span&gt; De vertaalde 
+	versie van een bepaald taalbestand bevat een aantal items die niet aanwezig 
+	zijn in het standaard systeem taalbestand. Dit probleem kan opgelost worden 
+	door in de taaleditor het taalbestand te selecteren waarvoor de fout werd gerapporteerd. 
+	Alle overbodige items worden dan automatisch verwijderd. &lt;/li&gt;
+&lt;/ul&gt;
+</value>
+  </data>
+  <data name="ObsoleteEntries.Text">
+    <value xml:space="preserve">Bestanden met verouderde items: </value>
+  </data>
+  <data name="OldFiles.Text">
+    <value xml:space="preserve">Bestanden ouder dan systeemstandaard:</value>
+  </data>
+</root>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddTerm.Text">
+    <value xml:space="preserve">Nieuw Toevoegen</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Wijzig Vocabulaire</value>
+  </data>
+  <data name="ControlTitle_editvocabulary.Text">
+    <value xml:space="preserve">Wijzig Vocabulaire</value>
+  </data>
+  <data name="CreateTerm.Text">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="CurrentTerm.Text">
+    <value xml:space="preserve">Wijzig Term</value>
+  </data>
+  <data name="DeleteTerm.Text">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="DeleteVocabulary.Text">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="Description.ToolTip">
+    <value xml:space="preserve">De beschrijving van de term</value>
+  </data>
+  <data name="NewTerm.Text">
+    <value xml:space="preserve">Maak Nieuwe Term</value>
+  </data>
+  <data name="ParentTerm.Text">
+    <value xml:space="preserve">Hoofd Term</value>
+  </data>
+  <data name="ParentTerm.ToolTip">
+    <value xml:space="preserve">De hoofd term voor deze hiërarchische term</value>
+  </data>
+  <data name="SaveTerm.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="SaveVocabulary.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="TermName.Required">
+    <value xml:space="preserve">De term naam is een verplicht veld</value>
+  </data>
+  <data name="TermName.Text">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="TermName.ToolTip">
+    <value xml:space="preserve">De naam van de term</value>
+  </data>
+  <data name="Terms.Text">
+    <value xml:space="preserve">Termen</value>
+  </data>
+  <data name="TermValidationError.Message">
+    <value xml:space="preserve">Er was een fout bij het valideren van de term. Termen moeten een naam bevatten.</value>
+  </data>
+  <data name="TermValidationError.MessageHeader">
+    <value xml:space="preserve">Term Validatie Fout</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Wijzig Vocabulaire</value>
+  </data>
+</root>

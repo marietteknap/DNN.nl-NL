@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About.Text">
+    <value xml:space="preserve">Over {0}</value>
+  </data>
+  <data name="Admin.Text">
+    <value xml:space="preserve">Bewerk</value>
+  </data>
+  <data name="CannotDeleteContainer.ErrorMessage">
+    <value xml:space="preserve">Deze set met containers kan niet worden verwijderd omdat deze momenteel in gebruik is.</value>
+  </data>
+  <data name="CannotDeleteSkin.ErrorMessage" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Deze set met thema's kan niet worden verwijderd omdat deze momenteel in gebruik is.</value>
+  </data>
+  <data name="cmdApply.Text">
+    <value xml:space="preserve">Toepassen</value>
+  </data>
+  <data name="cmdDelete.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Verwijder thema</value>
+  </data>
+  <data name="cmdParse.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Parse Thema Pakket</value>
+  </data>
+  <data name="cmdPreview.Text">
+    <value xml:space="preserve">Vooruitblik</value>
+  </data>
+  <data name="cmdRestore.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Herstel Standaard Thema</value>
+  </data>
+  <data name="ContainerUpload.Action">
+    <value xml:space="preserve">Container Uploaden</value>
+  </data>
+  <data name="ControlTitle_.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Thema bewerker</value>
+  </data>
+  <data name="ControlTitle_editskins.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Beheer Thema's</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="lblApply.Text">
+    <value xml:space="preserve">Toepassen op</value>
+  </data>
+  <data name="lblMessage.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">&lt;b&gt;LET OP:&lt;/b&gt;&amp;nbsp;&amp;nbsp;U moet de bestand beheerder gebruiken om uw thema of container pakket te uploaden.</value>
+  </data>
+  <data name="LegacySkin.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Dit is een Legacy Thema</value>
+  </data>
+  <data name="Localized.Text">
+    <value xml:space="preserve">Vertaald</value>
+  </data>
+  <data name="NoContainer.ErrorMessage">
+    <value xml:space="preserve">Er zijn geen container bestanden in deze folder</value>
+  </data>
+  <data name="NoSkin.ErrorMessage" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Er bestaan geen Thema bestanden in de folder</value>
+  </data>
+  <data name="ParseOptions.Help" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Portable vereist relatieve grafische referenties om het thema meer portable te maken maar vereist meer resources tijdens de uitvoering.</value>
+  </data>
+  <data name="ParseOptions.Text">
+    <value xml:space="preserve">Parse opties</value>
+  </data>
+  <data name="plContainers.Help">
+    <value xml:space="preserve">Selecteer het container pakket</value>
+  </data>
+  <data name="plContainers.Text">
+    <value xml:space="preserve">Containers</value>
+  </data>
+  <data name="plSkins.Help" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Selecteer het thema pakket</value>
+  </data>
+  <data name="plSkins.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Thema</value>
+  </data>
+  <data name="plType.Help" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Selecteer het type te tonen thema.</value>
+  </data>
+  <data name="plType.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Type Thema:</value>
+  </data>
+  <data name="Portable.Text">
+    <value xml:space="preserve">Draagbaar</value>
+  </data>
+  <data name="Portal.Text">
+    <value xml:space="preserve">Site</value>
+  </data>
+  <data name="Site.Text">
+    <value xml:space="preserve">Applicatie</value>
+  </data>
+  <data name="SkinDeleteFailure.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Alleen Super Gebruikers kunnen Gastheer Thema's verwijderen</value>
+  </data>
+  <data name="SkinUpload.Action" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Thema Uploaden</value>
+  </data>
+  <data name="UsePackageUnInstall.Text" lastModified="2015-01-09 11:22:56">
+    <value xml:space="preserve">Dit thema is onderdeel van een thema pakket. Gebruik de Verwijder Pakket optie in de lijst mij Thema in de hoofdlijst.</value>
+  </data>
+</root>

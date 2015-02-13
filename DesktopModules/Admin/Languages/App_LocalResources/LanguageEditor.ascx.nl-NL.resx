@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value xml:space="preserve">Verwijder Taalbestand</value>
+  </data>
+  <data name="cmdEdit.Text">
+    <value xml:space="preserve">Wijzig Taal</value>
+  </data>
+  <data name="cmdParent.Text">
+    <value xml:space="preserve">Ga Naar Hoofd Talen Pagina</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Taalbestand opslaan</value>
+  </data>
+  <data name="cmdView.Text">
+    <value xml:space="preserve">Toon Standaardwaarde</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Bestandsbeheer</value>
+  </data>
+  <data name="ControlTitle_editlanguage.Text">
+    <value xml:space="preserve">Taal Editor</value>
+  </data>
+  <data name="ControlTitle_editor.Text">
+    <value xml:space="preserve">Taal Editor</value>
+  </data>
+  <data name="DefaultValue.Text">
+    <value xml:space="preserve">Standaardwaarde</value>
+  </data>
+  <data name="Delete.ErrorMessage">
+    <value xml:space="preserve">De standaard Regio/taal instelling (en-US) kan niet verwijderd worden</value>
+  </data>
+  <data name="Deleted.Text">
+    <value xml:space="preserve">Bestand {0} is verwijderd</value>
+  </data>
+  <data name="DeleteItem.Text">
+    <value xml:space="preserve">Weet u zeker dat u dit vertaalde bestand wilt verwijderen?</value>
+  </data>
+  <data name="DisplayEnglish.Text">
+    <value xml:space="preserve">Gebruik Engelse naam</value>
+  </data>
+  <data name="DisplayNative.Text">
+    <value xml:space="preserve">Gebruik naam in taal </value>
+  </data>
+  <data name="DuplicateEntry.Text">
+    <value xml:space="preserve">Dit bestand bevat meer dan één item voor: &lt;b&gt;{0}&lt;/b&gt;. U wordt geadviseerd het bestand te bewerken en de duplicaten te verwijderen</value>
+  </data>
+  <data name="Exceptions.Text">
+    <value xml:space="preserve">Uitzonderingen</value>
+  </data>
+  <data name="FileSaved.Text">
+    <value xml:space="preserve">Taalbestand Succesvol Bijgewerkt</value>
+  </data>
+  <data name="GlobalResources.Text">
+    <value xml:space="preserve">Global Resources</value>
+  </data>
+  <data name="highlightLabel.Help">
+    <value xml:space="preserve">Schakel dit vakje aan om nog hangende vertalingen te markeren.</value>
+  </data>
+  <data name="highlightLabel.Text">
+    <value xml:space="preserve">Markeer In afwachting zijnde vertalingen</value>
+  </data>
+  <data name="HostSkins.Text" lastModified="2015-01-09 10:19:02">
+    <value xml:space="preserve">Host Thema's</value>
+  </data>
+  <data name="LocalResources.Text">
+    <value xml:space="preserve">Local Resources</value>
+  </data>
+  <data name="ModeHost.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="ModePortal.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="ModeSystem.Text">
+    <value xml:space="preserve">Systeem</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;div align="left"&gt;&lt;h1&gt;Over bestandsbeheer&lt;/h1&gt;&lt;p&gt;Beheerders kunnen bestanden beheren die opgeslagen zijn in hun uploadmap. 
+Met deze module kunnen nieuwe bestanden ge-upload, bestnn gedownload en bestanden 
+verwijderd. Hier kunt u ook zien hoeveel schijfruimte gebruikt wordt, en hoeveel 
+er nog beschikbaar is.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="NoRecords.Text">
+    <value xml:space="preserve">Er zijn geen records om te laten zien.</value>
+  </data>
+  <data name="Obsolete.Text">
+    <value xml:space="preserve">Deze bestanden bevatten items die niet meer gebruikt worden. Klik op "Bewaren" om deze items permanent te verwijderen.</value>
+  </data>
+  <data name="plEditingLanguage.Help">
+    <value xml:space="preserve">Dit is de geselecteerde taal voor welke u de resource keys aan het vertalen bent. Om een andere taal te selecteren moet annuleren kiezen onder aan het scherm.</value>
+  </data>
+  <data name="plEditingLanguage.Text">
+    <value xml:space="preserve">Geselecteerde Taal:</value>
+  </data>
+  <data name="plFolder.Help">
+    <value xml:space="preserve">Geselecteerde Map</value>
+  </data>
+  <data name="plFolder.Text">
+    <value xml:space="preserve">Geselecteerde Map</value>
+  </data>
+  <data name="plLocales.Help">
+    <value xml:space="preserve">Selecteer de taal</value>
+  </data>
+  <data name="plLocales.Text">
+    <value xml:space="preserve">Beschikbare Lokaliteiten:</value>
+  </data>
+  <data name="plMode.Help">
+    <value xml:space="preserve">Selecteer systeem om de basis file voor een taal te wijzigen; Gastheer zal een aangepaste versie van het vertaalde bestand voor deze installatie aanmaken.</value>
+  </data>
+  <data name="plMode.Text">
+    <value xml:space="preserve">Mode:</value>
+  </data>
+  <data name="plResources.Help">
+    <value xml:space="preserve">Kies het te wijzigen Taalbestand</value>
+  </data>
+  <data name="plResources.Text">
+    <value xml:space="preserve">Hulpbron:</value>
+  </data>
+  <data name="plSelected.Help">
+    <value xml:space="preserve">Toon het pad van het bestand dat momenteel wordt gewijzigd</value>
+  </data>
+  <data name="plSelected.Text">
+    <value xml:space="preserve">Geselecteerde Taalbestand:</value>
+  </data>
+  <data name="PortalSkins.Text" lastModified="2015-01-09 10:19:02">
+    <value xml:space="preserve">Site Thema's</value>
+  </data>
+  <data name="RequiredField.ErrorMessage">
+    <value xml:space="preserve">&lt;br /&gt;Dit is een verplicht veld</value>
+  </data>
+  <data name="ResourceName.Text">
+    <value xml:space="preserve">Hulpbron naam:</value>
+  </data>
+  <data name="ResourceUpdated.Text">
+    <value xml:space="preserve">Resource bestand is geupload</value>
+  </data>
+  <data name="Save.ErrorMessage">
+    <value xml:space="preserve">Een bestandsbewerking is mislukt. Controleer of de bestand toegangsbevoegdheden voor taalbestanden zodanig zijn ingesteld dat bestanden gewijzigd mogen worden.</value>
+  </data>
+  <data name="SaveWarning.Text">
+    <value xml:space="preserve">Alle niet bewaarde wijzigingen gaan verloren als u nu doorgaat. Weet u zeker dat u wilt doorgaan?</value>
+  </data>
+  <data name="SiteTemplates.Text">
+    <value xml:space="preserve">Website sjablonen</value>
+  </data>
+  <data name="Template.Text">
+    <value xml:space="preserve">Sjabloon</value>
+  </data>
+  <data name="Updated.Text">
+    <value xml:space="preserve">Bestand {0} is opgeslagen</value>
+  </data>
+  <data name="Value.Text">
+    <value xml:space="preserve">Vertaalde waarde</value>
+  </data>
+  <data name="WebControls.Text">
+    <value xml:space="preserve">Webcontrols</value>
+  </data>
+</root>

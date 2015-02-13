@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Admin.Text">
+    <value xml:space="preserve">Beheer</value>
+  </data>
+  <data name="AdminHelp.Text">
+    <value xml:space="preserve">In dit gedeelte kunt u de machtigingen voor deze module instellen. Klik tweemaal op een vinkbox om er voor te zorgen dat gebruikers in een rol deze module niet op een pagina kunnen plaatsen (Weiger Machtiging).</value>
+  </data>
+  <data name="Anonymous.Text">
+    <value xml:space="preserve">Anoniem</value>
+  </data>
+  <data name="BusinessControllerClass.Help">
+    <value xml:space="preserve">De volledig gekwalificeerde namespace van de klasse die de Modules functies implementeert (IPortable, ISearchable etc)</value>
+  </data>
+  <data name="BusinessControllerClass.Hint">
+    <value xml:space="preserve">Geef Business Controller Class</value>
+  </data>
+  <data name="BusinessControllerClass.Text">
+    <value xml:space="preserve">Business Controller Class:</value>
+  </data>
+  <data name="Category.Help">
+    <value xml:space="preserve">Selecteer de categorie Module voor deze module</value>
+  </data>
+  <data name="Category.Text">
+    <value xml:space="preserve">Module Categorie</value>
+  </data>
+  <data name="cmdAddControl.Text">
+    <value xml:space="preserve">Module Control Toevoegen</value>
+  </data>
+  <data name="cmdAddDefinition.Text">
+    <value xml:space="preserve">Definitie Toevoegen</value>
+  </data>
+  <data name="cmdCancelDefinition.Text">
+    <value xml:space="preserve">Annuleer definitie</value>
+  </data>
+  <data name="cmdCreateControl.Text">
+    <value xml:space="preserve">Module Control Maken</value>
+  </data>
+  <data name="cmdCreateDefinition.Text">
+    <value xml:space="preserve">Definitie Maken</value>
+  </data>
+  <data name="cmdDeleteControl.Text">
+    <value xml:space="preserve">Module Control Verwijderen</value>
+  </data>
+  <data name="cmdDeleteDefinition.Text">
+    <value xml:space="preserve">Definitie Verwijderen</value>
+  </data>
+  <data name="cmdSaveControl.Text">
+    <value xml:space="preserve">Module Control Bijwerken</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Desktop Module Bijwerken</value>
+  </data>
+  <data name="cmdUpdateControl.Text">
+    <value xml:space="preserve">Module Control Bijwerken</value>
+  </data>
+  <data name="cmdUpdateDefinition.Text">
+    <value xml:space="preserve">Definitie Bijwerken</value>
+  </data>
+  <data name="Control.Header">
+    <value xml:space="preserve">Control</value>
+  </data>
+  <data name="ControlPanel.Text">
+    <value xml:space="preserve">Control Paneel</value>
+  </data>
+  <data name="Controls.Text">
+    <value xml:space="preserve">Module Controls </value>
+  </data>
+  <data name="ctlPortals_Available.Text">
+    <value xml:space="preserve">Beschikbaar</value>
+  </data>
+  <data name="ctlPortals_Selected.Text">
+    <value xml:space="preserve">Toegekend</value>
+  </data>
+  <data name="DefaultCacheTime.Help">
+    <value xml:space="preserve">Dit is de standaard Cache Tijd om te worden gebruikt voor deze module Definition. Een standaard cache tijd van "-1" geeft aan dat de module niet ondersteunt output caching.</value>
+  </data>
+  <data name="DefaultCacheTime.Text">
+    <value xml:space="preserve">Standaard Cache Tijd:</value>
+  </data>
+  <data name="DefinitionName.Help">
+    <value xml:space="preserve">Een niet wijzigende naam voor de module definitie </value>
+  </data>
+  <data name="DefinitionName.Required">
+    <value xml:space="preserve">Een definitie naam is benodigd</value>
+  </data>
+  <data name="DefinitionName.Text">
+    <value xml:space="preserve">Definitie naam:</value>
+  </data>
+  <data name="Definitions.Text">
+    <value xml:space="preserve">Module Definities</value>
+  </data>
+  <data name="Dependencies.Help">
+    <value xml:space="preserve">U kunt een lijst van alle afhankelijkheden die de module heeft hier ingeven.</value>
+  </data>
+  <data name="Dependencies.Hint">
+    <value xml:space="preserve">Geef Afhankelijkheden in</value>
+  </data>
+  <data name="Dependencies.Text">
+    <value xml:space="preserve">Afhankelijkheden:</value>
+  </data>
+  <data name="DuplicateName.Text">
+    <value xml:space="preserve">U heeft een vriendelijke naam opgegeven welke al in gebruik is.  Vriendelijke namen moeten uniek zijn - Voer s.v.p. een andere naam in en probeer het opnieuw.</value>
+  </data>
+  <data name="FolderName.Help">
+    <value xml:space="preserve">Geef de naam van de map voor deze module</value>
+  </data>
+  <data name="FolderName.Text">
+    <value xml:space="preserve">Mapnaam:</value>
+  </data>
+  <data name="FriendlyName.Help">
+    <value xml:space="preserve">Voer een naam voor de module Definition.</value>
+  </data>
+  <data name="FriendlyName.Required">
+    <value xml:space="preserve">De vriendelijke naam is verplicht.</value>
+  </data>
+  <data name="FriendlyName.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="HostHelp.Text">
+    <value xml:space="preserve">Deze editor stelt u in de gelegenheid om de desktop module te configureren.</value>
+  </data>
+  <data name="IsPortable.Help">
+    <value xml:space="preserve">Identificeert of de module de IPortable-interface ondersteunt waardoor het content kan exporteren en importeren.</value>
+  </data>
+  <data name="IsPortable.Text" lastModified="2015-01-12 11:10:27">
+    <value xml:space="preserve">Is exporteerbaar?</value>
+  </data>
+  <data name="IsPremium.Help">
+    <value xml:space="preserve">Alle modules kunnen al dan niet worden toegewezen aan een website. Echter, tijdens het aanmaken van een nieuwe site worden "Premium" modules niet automatisch aan de website toegekend.</value>
+  </data>
+  <data name="IsPremium.Text">
+    <value xml:space="preserve">Is "Premium" module?</value>
+  </data>
+  <data name="IsSearchable.Help">
+    <value xml:space="preserve">Identificeert of de module de ISearchable-interface ondersteunt waardoor de inhoud ervan kan worden geïndexeerd.</value>
+  </data>
+  <data name="IsSearchable.Text">
+    <value xml:space="preserve">Is doorzoekbaar?</value>
+  </data>
+  <data name="IsUpgradeable.Help">
+    <value xml:space="preserve">Identificeert of de module de IUpgradable-interface ondersteunt zodat het aangepaste code kan uitvoeren wanneer opgewaardeerd.</value>
+  </data>
+  <data name="IsUpgradeable.Text">
+    <value xml:space="preserve">Is upgradable?</value>
+  </data>
+  <data name="ModuleControlInfo_ControlKey.Help">
+    <value xml:space="preserve">Voer een unieke sleutel in voor deze control</value>
+  </data>
+  <data name="ModuleControlInfo_ControlKey.Text">
+    <value xml:space="preserve">Control Sleutel:</value>
+  </data>
+  <data name="ModuleControlInfo_ControlSrc.Help">
+    <value xml:space="preserve">Voer de bron in voor deze control</value>
+  </data>
+  <data name="ModuleControlInfo_ControlSrc.Text">
+    <value xml:space="preserve">Control Bron:</value>
+  </data>
+  <data name="ModuleControlInfo_ControlTitle.Help">
+    <value xml:space="preserve">Voer de titel in voor deze control.</value>
+  </data>
+  <data name="ModuleControlInfo_ControlTitle.Text">
+    <value xml:space="preserve">Titel Control:</value>
+  </data>
+  <data name="ModuleControlInfo_ControlType.Help">
+    <value xml:space="preserve">Selecteer het beveiligings toegangstype voor deze control.</value>
+  </data>
+  <data name="ModuleControlInfo_ControlType.Text">
+    <value xml:space="preserve">Type Control:</value>
+  </data>
+  <data name="ModuleControlInfo_HelpURL.Help">
+    <value xml:space="preserve">U kunt een help URL voor dit control ingeven. Deze zal verschijnen in het actiemenu.</value>
+  </data>
+  <data name="ModuleControlInfo_HelpURL.Text">
+    <value xml:space="preserve">Help URL:</value>
+  </data>
+  <data name="ModuleControlInfo_IconFile.Help">
+    <value xml:space="preserve">Het URL naar het icoon van dit control</value>
+  </data>
+  <data name="ModuleControlInfo_IconFile.Text">
+    <value xml:space="preserve">Icoon Bestand:</value>
+  </data>
+  <data name="ModuleControlInfo_SupportsPartialRendering.Help">
+    <value xml:space="preserve">Deze indicator geeft aan of de module control gedeeltelijke AJAX verversing ondersteund.</value>
+  </data>
+  <data name="ModuleControlInfo_SupportsPartialRendering.Text">
+    <value xml:space="preserve">Gedeeltelijk Verversing Ondersteund:</value>
+  </data>
+  <data name="ModuleControlInfo_ViewOrder.Help">
+    <value xml:space="preserve">Geef de weergave volgorde in voor deze module control.</value>
+  </data>
+  <data name="ModuleControlInfo_ViewOrder.Text">
+    <value xml:space="preserve">Weergave Volgorde:</value>
+  </data>
+  <data name="ModuleName.Help">
+    <value xml:space="preserve">De naam van de module</value>
+  </data>
+  <data name="ModuleName.Text">
+    <value xml:space="preserve">Module Naam:</value>
+  </data>
+  <data name="ModuleSettings.Text">
+    <value xml:space="preserve">Module-instellingen</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">&lt;Geen&gt;</value>
+  </data>
+  <data name="NoPermission.Text">
+    <value xml:space="preserve">U bent niet gemachtigd om deze module op een pagina in deze website te plaatsen. Voor verdere info dient u contact op te nemen met uw hosting provider</value>
+  </data>
+  <data name="Permissions.Help">
+    <value xml:space="preserve">U kunt alle Code Access Security Machtigingen voor uw module hier weergeven.</value>
+  </data>
+  <data name="Permissions.Hint">
+    <value xml:space="preserve">Enter Code Toegangsmachtigingen</value>
+  </data>
+  <data name="Permissions.Text">
+    <value xml:space="preserve">Machtigingen:</value>
+  </data>
+  <data name="plPremium.Text">
+    <value xml:space="preserve">Aangewezen Premium Modules</value>
+  </data>
+  <data name="plSelectControl.Help">
+    <value xml:space="preserve">U kunt de te wijzigen module control selecteren vanuit een drop-down lijst.</value>
+  </data>
+  <data name="plSelectControl.Text">
+    <value xml:space="preserve">Selecteer Control:</value>
+  </data>
+  <data name="plSelectDefinition.Help">
+    <value xml:space="preserve">U kunt de te wijzigen definitie selecteren vanuit een drop-down lijst.</value>
+  </data>
+  <data name="plSelectDefinition.Text">
+    <value xml:space="preserve">Select Definitie:</value>
+  </data>
+  <data name="Shareable.Help">
+    <value xml:space="preserve">Identificeert of een module het delen van zichzelf over meerdere sites ondersteund.</value>
+  </data>
+  <data name="Shareable.Text">
+    <value xml:space="preserve">Module delen</value>
+  </data>
+  <data name="SkinObject.Text">
+    <value xml:space="preserve">Skin Object</value>
+  </data>
+  <data name="Source.Header">
+    <value xml:space="preserve">Bron</value>
+  </data>
+  <data name="Title.Header">
+    <value xml:space="preserve">Titel</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Desktop Module Instellingen</value>
+  </data>
+  <data name="View.Text">
+    <value xml:space="preserve">Weergave</value>
+  </data>
+</root>

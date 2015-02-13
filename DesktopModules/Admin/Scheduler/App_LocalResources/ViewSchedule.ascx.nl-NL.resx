@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Voeg item toe aan geplande taken</value>
+  </data>
+  <data name="ContentOptions.Action">
+    <value xml:space="preserve">Bekijk status geplande taken</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Geplande taken</value>
+  </data>
+  <data name="Day.Text">
+    <value xml:space="preserve">Dag</value>
+  </data>
+  <data name="Disabled.Text">
+    <value xml:space="preserve">Deactiveren</value>
+  </data>
+  <data name="Enabled.Header">
+    <value xml:space="preserve">Actief</value>
+  </data>
+  <data name="Frequency.Header">
+    <value xml:space="preserve">Frequentie</value>
+  </data>
+  <data name="History.Text">
+    <value xml:space="preserve">Bekijk Geschiedenis</value>
+  </data>
+  <data name="Hour.Text">
+    <value xml:space="preserve">Uur</value>
+  </data>
+  <data name="lnkHistory.Text">
+    <value xml:space="preserve">Historie</value>
+  </data>
+  <data name="Minute.Text">
+    <value xml:space="preserve">Minuut</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">
+      Over geplande taken
+      Met behulp van deze module kunt u aangeven welke taken op geplande intervallen uitgevoerd moeten worden. 
+    </value>
+  </data>
+  <data name="n/a.Text">
+    <value xml:space="preserve">n.v.t.</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NextStart.Header">
+    <value xml:space="preserve">Volgende start</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Help">
+    <value xml:space="preserve">Het aantal minuten dat de schedule zal wachten voordat de taken worden uitgevoerd nadat de website online komt. standaard is dit 1 minuut.</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Text">
+    <value xml:space="preserve">Vertraag planning bij start:</value>
+  </data>
+  <data name="plSchedulerMode.Help">
+    <value xml:space="preserve">De timer methode onderhoud een apparte thread om de geplande taak uit te voeren terwijl het werk proces actief is. Alternatief, de geplande taken worden uitgevoerd als er een HTTP verzoek wordt gedaan. U kunt het schema ook uitschakelen door deze te deactiveren.</value>
+  </data>
+  <data name="plSchedulerMode.Text">
+    <value xml:space="preserve">Planning mode:</value>
+  </data>
+  <data name="plServers.Help">
+    <value xml:space="preserve">De specifieke server (of alle) waar de geplande taak op moet worden uitgevoerd.</value>
+  </data>
+  <data name="plServers.Text">
+    <value xml:space="preserve">Servernaam:</value>
+  </data>
+  <data name="RequestMethod.Text">
+    <value xml:space="preserve">Request mode</value>
+  </data>
+  <data name="RetryTimeLapse.Header">
+    <value xml:space="preserve">Tijd tot volgende poging</value>
+  </data>
+  <data name="ScheduleAppStartDelayValidation.Text">
+    <value xml:space="preserve">Waarde moet in minutes!</value>
+  </data>
+  <data name="ScheduleHistory.Action">
+    <value xml:space="preserve">Bekijk historie geplande taken</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="Status.Text">
+    <value xml:space="preserve">Bekijk Status</value>
+  </data>
+  <data name="TimeLapsePrefix.Text">
+    <value xml:space="preserve">Elke</value>
+  </data>
+  <data name="TimerMethod.Text">
+    <value xml:space="preserve">Tijdmode</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Type</value>
+  </data>
+  <data name="ViewLog.Header">
+    <value xml:space="preserve">Logboek</value>
+  </data>
+</root>

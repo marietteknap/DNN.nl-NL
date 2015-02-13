@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_usagedetails.Text">
+    <value xml:space="preserve">Module GebruiksInfo</value>
+  </data>
+  <data name="FilterOptionHost.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="FilterOptionSelect.Text">
+    <value xml:space="preserve">&lt;selecteren&gt;</value>
+  </data>
+  <data name="grd.PagerSettings.FirstPageText">
+    <value xml:space="preserve">&lt;&lt; Eerste pagina   </value>
+  </data>
+  <data name="grd.PagerSettings.LastPageText">
+    <value xml:space="preserve">Laatste pagina&gt;&gt;   </value>
+  </data>
+  <data name="grd.PagerSettings.NextPageText">
+    <value xml:space="preserve">Volgende pagina&gt;   </value>
+  </data>
+  <data name="grd.PagerSettings.PreviousPageText">
+    <value xml:space="preserve">&lt; Vorige pagina</value>
+  </data>
+  <data name="lblFilterUsageList.Help">
+    <value xml:space="preserve">Selecteer superuser, of een specifieke website, uit de filterlijst om een lijst met pagina's weer te geven waar deze module op voorkomt.</value>
+  </data>
+  <data name="lblFilterUsageList.Text">
+    <value xml:space="preserve">Toon pagina's voor </value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Bekijk de GebruiksInfo voor een module pakket.&lt;/p&gt;</value>
+  </data>
+  <data name="Msg.InUseBy">
+    <value xml:space="preserve">De module bestaat op {0} {1} paginas.</value>
+  </data>
+  <data name="Msg.NotUsedBy">
+    <value xml:space="preserve">Deze module bestaat niet op {0} pagina's.</value>
+  </data>
+  <data name="Usage.Text">
+    <value xml:space="preserve">GebruiksInfo voor </value>
+  </data>
+</root>

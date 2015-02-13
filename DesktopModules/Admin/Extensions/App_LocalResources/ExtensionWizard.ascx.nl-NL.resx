@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="ControlTitle_newextension.Text">
+    <value xml:space="preserve">Nieuwe Extensie Wizard</value>
+  </data>
+  <data name="Core.Text">
+    <value xml:space="preserve">Hoofd Taal</value>
+  </data>
+  <data name="DuplicateName.Text">
+    <value xml:space="preserve">De naam - {0} - bestaat al. Geef s.v.p. een andere naam op en probeer het nogmaals.</value>
+  </data>
+  <data name="ExtensionLanguageHelp.Text">
+    <value xml:space="preserve">Let Op:Indien u een Taalpakket Extensie gaat maken dient de Extensie al gedefinieerd te zijn.</value>
+  </data>
+  <data name="Introduction.Help">
+    <value xml:space="preserve">De "Maak Nieuwe Extensie" Wizard stelt u in staat nieuw extensies te maken. Voer de benodigde informatie in bij elke stap en selecteer het type te maken Extensie.</value>
+  </data>
+  <data name="Introduction.Title">
+    <value xml:space="preserve">Maak Nieuwe Extensie</value>
+  </data>
+  <data name="IntroductionHelp.Text">
+    <value xml:space="preserve">In de eerste stap dient u een unieke naam voor deze nieuwe extensie op te geven, - het is aan te bevelen om het formaat Bedrijfsnaam. Naam om potentiële conflicten te vermijden indien u uw extensies wenst te verspreiden. Vervolgens, dien u een vriendelijke naam en een beschrijving voor de extensie op te geven en moet u een versie opgeven (of het standaard versienummer 0.0.0 zal worden gebruikt).</value>
+  </data>
+  <data name="LanguageHelp.Text">
+    <value xml:space="preserve">Let Op:Indien u een taalpakket gaat maken dient de taal gedefinieerd te zijn in de Beheer/Talen module.</value>
+  </data>
+  <data name="OwnerInfo.Help">
+    <value xml:space="preserve">In deze laatste stap kunt u optioneel informatie ingeven over de eigenaar van de extensie. Deze informatie is uiterst nuttig indien u wenst te besluiten om extensie te verspreiden.</value>
+  </data>
+  <data name="OwnerInfo.Title">
+    <value xml:space="preserve">Details Eigenaar</value>
+  </data>
+  <data name="Package.Text">
+    <value xml:space="preserve">Taal Extensie</value>
+  </data>
+  <data name="PackageType.Error">
+    <value xml:space="preserve">U moet een taalpakket type selecteren</value>
+  </data>
+  <data name="plExtensionType.Help">
+    <value xml:space="preserve">Selecteer het type extensie dat u wenst te maken</value>
+  </data>
+  <data name="plExtensionType.Text">
+    <value xml:space="preserve">Selecteer Extensie Type:</value>
+  </data>
+  <data name="plPackageType.Help">
+    <value xml:space="preserve">Selecteer s.v.p. of dit taalpakket het hoofd taalpakket is of een taalpakket voor een andere extensie.</value>
+  </data>
+  <data name="plPackageType.Text">
+    <value xml:space="preserve">Selecteer Taalpakket Type:</value>
+  </data>
+  <data name="Specific_CoreLanguagePack.Help">
+    <value xml:space="preserve">In deze stap dient u taalpakket specifieke details in te geven.</value>
+  </data>
+  <data name="Specific_CoreLanguagePack.Title">
+    <value xml:space="preserve">Specifieke Details Taalpakket</value>
+  </data>
+  <data name="Specific_ExtensionLanguagePack.Help">
+    <value xml:space="preserve">In deze stap dient u taalpakket specifieke details in te geven.</value>
+  </data>
+  <data name="Specific_ExtensionLanguagePack.Title">
+    <value xml:space="preserve">Specifieke Details Taalpakket</value>
+  </data>
+  <data name="Specific_Module.Help">
+    <value xml:space="preserve">In deze stap dient u module specifieke details in te geven.</value>
+  </data>
+  <data name="Specific_Module.Title">
+    <value xml:space="preserve">Specifieke Details Module</value>
+  </data>
+</root>

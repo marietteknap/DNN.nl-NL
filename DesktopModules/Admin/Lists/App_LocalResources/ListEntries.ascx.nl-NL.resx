@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnDown.AlternateText">
+    <value xml:space="preserve">Item naar beneden verplaatsen</value>
+  </data>
+  <data name="btnEdit.AlternateText">
+    <value xml:space="preserve">Item wijzigen</value>
+  </data>
+  <data name="btnUp.AlternateText">
+    <value xml:space="preserve">Item omhoog verplaatsen</value>
+  </data>
+  <data name="cmdAddEntry.Text">
+    <value xml:space="preserve">Item toevoegen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="cmdDeleteEntry.Text">
+    <value xml:space="preserve">Item verwijderen</value>
+  </data>
+  <data name="cmdDeleteList.Text">
+    <value xml:space="preserve">Lijst verwijderen</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Bewaren</value>
+  </data>
+  <data name="Entries.Text">
+    <value xml:space="preserve">ingaven</value>
+  </data>
+  <data name="ItemAlreadyPresent.Text">
+    <value xml:space="preserve">Item is al aanwezig</value>
+  </data>
+  <data name="plEnableSortOrder.Help">
+    <value xml:space="preserve">Vink deze optie aan om aangepaste sorteervolgorde voor deze lijst mogelijk te maken</value>
+  </data>
+  <data name="plEnableSortOrder.Text">
+    <value xml:space="preserve">Sorteervolgorde aanzetten:</value>
+  </data>
+  <data name="plEntryCount.Help">
+    <value xml:space="preserve">Aantal items</value>
+  </data>
+  <data name="plEntryCount.Text">
+    <value xml:space="preserve">Totaal:</value>
+  </data>
+  <data name="plEntryName.Help">
+    <value xml:space="preserve">Item naam</value>
+  </data>
+  <data name="plEntryName.Text">
+    <value xml:space="preserve">Item naam:</value>
+  </data>
+  <data name="plEntryText.Help">
+    <value xml:space="preserve">Weergegeven tekst</value>
+  </data>
+  <data name="plEntryText.Text">
+    <value xml:space="preserve">Item tekst:</value>
+  </data>
+  <data name="plEntryValue.Help">
+    <value xml:space="preserve">Item waarde</value>
+  </data>
+  <data name="plEntryValue.Text">
+    <value xml:space="preserve">Item waarde:</value>
+  </data>
+  <data name="plListName.Help">
+    <value xml:space="preserve">Lijst naam</value>
+  </data>
+  <data name="plListName.Text">
+    <value xml:space="preserve">Lijst naam:</value>
+  </data>
+  <data name="plListParent.Help">
+    <value xml:space="preserve">Moeder</value>
+  </data>
+  <data name="plListParent.Text">
+    <value xml:space="preserve">Moeder:</value>
+  </data>
+  <data name="plParentKey.Help">
+    <value xml:space="preserve">Hoofd</value>
+  </data>
+  <data name="plParentKey.Text">
+    <value xml:space="preserve">Hoofd:</value>
+  </data>
+  <data name="plSelectList.Help">
+    <value xml:space="preserve">Selecteer de hoofdlijst van deze lijst</value>
+  </data>
+  <data name="plSelectList.Text">
+    <value xml:space="preserve">Hoofdlijst:</value>
+  </data>
+  <data name="plSelectParent.Help">
+    <value xml:space="preserve">Selecteer Hoofd ingaven van deze lijst</value>
+  </data>
+  <data name="plSelectParent.Text">
+    <value xml:space="preserve">Hoofd ingaven:</value>
+  </data>
+  <data name="Text.Header">
+    <value xml:space="preserve">Tekst</value>
+  </data>
+  <data name="valEntryName.ErrorMessage">
+    <value xml:space="preserve">&lt;br/&gt;Naam is Verplicht</value>
+  </data>
+  <data name="valEntryText.ErrorMessage">
+    <value xml:space="preserve">&lt;br/&gt;Tekst is Verplicht</value>
+  </data>
+  <data name="valEntryValue.ErrorMessage">
+    <value xml:space="preserve">&lt;br/&gt;Waarde is Verplicht</value>
+  </data>
+  <data name="Value.Header">
+    <value xml:space="preserve">Waarde</value>
+  </data>
+</root>

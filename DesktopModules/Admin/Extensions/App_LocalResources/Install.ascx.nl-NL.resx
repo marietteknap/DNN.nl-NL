@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AcceptLicense.Help">
+    <value xml:space="preserve">Schakel dit vakje aan de voorwaarden van de licentie te accepteren.</value>
+  </data>
+  <data name="AcceptLicense.Text">
+    <value xml:space="preserve">Licentie accepteren?</value>
+  </data>
+  <data name="AcceptTerms.Text">
+    <value xml:space="preserve">U moet de licentie accepteren voordat u deze software kunt installeren.</value>
+  </data>
+  <data name="AzureCompact.Text">
+    <value xml:space="preserve">De extensie zonder SQL Azure compatibiliteit verificatie toch installeren?</value>
+  </data>
+  <data name="AzureCompactHelp.Text">
+    <value xml:space="preserve">De website gebruikt op dit moment SQL Azure als database server, en het pakket dat u nu probeert te installeren in niet geverifieerd voor gebruikt met SQL Azure.  Als er een module wordt geïnstalleerd die niet compatibel is  met SQL Azure, kan dit er voor zorgen dat er geen back-ups en restores kunnen plaatsvinden van de database, dit kan zorgen voor time-out excepties die niet worden gedetecteerd tijdens de installatie. U kunt de installatie voortzetten als u zelf heeft gecontroleerd of de module geschikt is voor gebruik met Azure SQL, Of u kunt op annuleren klikken en contact opnemen met de eigenaar van de extensie en deze vragen voor een geschikte versie van de extensie voor Azure SQL.</value>
+  </data>
+  <data name="AzureCompactMessage.Text">
+    <value xml:space="preserve">Dit pakket is niet geverifieerd op de compatibiliteit met SQL Azure.</value>
+  </data>
+  <data name="AzureCompactWarning.Text">
+    <value xml:space="preserve">Waarschuwing: U heeft een installatie pakket geselecteerd dat niet beschikt over een Azure SQl Database compatibiliteitsverificatie.</value>
+  </data>
+  <data name="BrowseFile.Text">
+    <value xml:space="preserve">Bladeren voor Bestand:</value>
+  </data>
+  <data name="BrowseFileHelp.Text">
+    <value xml:space="preserve">Gebruik de Bladeren knop om op uw lokale schijf een extensie pakket te selecteren welke u wenst te installeren, om vervolgens op de "Volgende" knop te drukken.</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="Container.Text">
+    <value xml:space="preserve">Container</value>
+  </data>
+  <data name="ControlTitle_install.Text">
+    <value xml:space="preserve">Installeer Extensie</value>
+  </data>
+  <data name="CoreLanguageError.Text">
+    <value xml:space="preserve">De standaard taal, waar dit taalpakket voor is gemaakt, is niet geïnstalleerd. Installeer het taalpakket voordat u taalpakketten voor de extensies installeert.</value>
+  </data>
+  <data name="DependencyError.Text">
+    <value xml:space="preserve">Dit taalpakket is gemaakt voor een extensie welke nog niet is geïnstalleerd.</value>
+  </data>
+  <data name="FileSizeRestriction.Text">
+    <value xml:space="preserve">Uw site is geconfigureerd met een maximale upload grootte van de {0} MB.</value>
+  </data>
+  <data name="IgnoreRestrictedFilesWarning.Text">
+    <value xml:space="preserve">WAARSCHUWING: U heeft er voor gekozen om de controle op bestandstypes te negeren. Deze actie kan een mogelijk risico voor uw site zijn en daarom moet u dit alleen doen als u een pakket installeert van een vertrouwde bron.</value>
+  </data>
+  <data name="IgnoreWhiteList.Text">
+    <value xml:space="preserve">Negeer Bestand Restricties?</value>
+  </data>
+  <data name="IgnoreWhiteListHelp.Text">
+    <value xml:space="preserve">Het installatieproces onderhoudt een lijst met toegestane bestanden die op uw site geïnstalleerd kunnen worden. Indien u zeker weet dat het pakket dat u gaat installeren van een betrouwbare bron afkomt kunt u er voor kiezen om deze lijst te negeren.</value>
+  </data>
+  <data name="InstallCustomPackage.Text">
+    <value xml:space="preserve">Nieuw {0} extensie installeren</value>
+  </data>
+  <data name="InstallError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van bestanden uit de tijdelijke map - zie hieronder</value>
+  </data>
+  <data name="InstallPackage.Text">
+    <value xml:space="preserve">Nieuw pakket installeren</value>
+  </data>
+  <data name="InstallResults.Help">
+    <value xml:space="preserve">Het pakket is succesvol geïnstalleerd - zie hieronder</value>
+  </data>
+  <data name="InstallResults.Title">
+    <value xml:space="preserve">Pakket geïnstalleerd</value>
+  </data>
+  <data name="Introduction.Help">
+    <value xml:space="preserve">DotNetNuke kan op verschillende manieren worden uitgebreid. Deze wizard helpt bij het uploaden en installeren van DotNetNuke extensies.</value>
+  </data>
+  <data name="Introduction.Title">
+    <value xml:space="preserve">Nieuw pakket installeren</value>
+  </data>
+  <data name="InvalidExt.Text">
+    <value xml:space="preserve">Ongeldige extensie - {0}</value>
+  </data>
+  <data name="InvalidFiles.Text">
+    <value xml:space="preserve">Dit pakket bevat bestanden met een ongeldige bestandsextensies ({0}).</value>
+  </data>
+  <data name="LegacySkin.Text" lastModified="2015-01-09 09:59:08">
+    <value xml:space="preserve">Legacy Thema/Container:</value>
+  </data>
+  <data name="LegacySkinHelp.Text" lastModified="2015-01-09 09:59:08">
+    <value xml:space="preserve">Legacy Thema's en Containers kunnen met behulp van dit installatieproces worden geïnstalleerd, maar omdat ze geen manifest bevatten dient u deze thema/container als legacy aan te merken (indien u niet zeker bent of de thema/containr een legacy thema/container is dan kunt u deze optie aanvinken).</value>
+  </data>
+  <data name="License.Help">
+    <value xml:space="preserve">Alvorens verder te gaan moet u akkoord met de voorwaarden van de vergunning voor deze uitbreiding. Lees de licentie en controleer de checkbox gemarkeerd met "Accept License?"</value>
+  </data>
+  <data name="License.Title">
+    <value xml:space="preserve">Bekijk Licentie</value>
+  </data>
+  <data name="LogTitle.Text">
+    <value xml:space="preserve">Installatie logs</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over the installatie wizard&lt;/h1&gt;&lt;p&gt;Deze wizard helpt bij het uploaden en installeren van DotNetNuke extensies.&lt;/p&gt;</value>
+  </data>
+  <data name="NoAzureCompactHelp.Text">
+    <value xml:space="preserve">Deze website gebruikt een Windows Azure SQL database voor de database opslag, en het pakket dat u nu wilt installeren is door de eigenaar gecontroleerd en is niet geschikt voor gebruikt met een Windows Azure SQL database. Klik op Annuleren om het installatie proces te stoppen.</value>
+  </data>
+  <data name="NoAzureCompactMessage.Text">
+    <value xml:space="preserve">Dit pakket is niet geschikt voor Windows Azure SQL Database.</value>
+  </data>
+  <data name="NoFile.Text">
+    <value xml:space="preserve">U moet eerst een bestand selecteren - klik de "Bladeren" knop om een bestand op uw locale computer te selecteren.</value>
+  </data>
+  <data name="NoManifest.Text">
+    <value xml:space="preserve">Dit pakket heeft geen manifest. Oude skins en containers bevatten geen manifesten. Indien dit een legacy skin of container is moet u de hieronder staande box aanvinken en het pakket opnieuw uploaden.</value>
+  </data>
+  <data name="None.Text" lastModified="2015-01-09 09:59:08">
+    <value xml:space="preserve">Geen thema of container</value>
+  </data>
+  <data name="PackageInfo.Help">
+    <value xml:space="preserve">De volgende informatie is gevonden in het pakket installatiebestand</value>
+  </data>
+  <data name="PackageInfo.Title">
+    <value xml:space="preserve">Pakketinformatie</value>
+  </data>
+  <data name="PackageInstalled.Text">
+    <value xml:space="preserve">Het pakket is reeds geïnstalleerd.</value>
+  </data>
+  <data name="ReleaseNotes.Help">
+    <value xml:space="preserve">U kunt de Release notities voor dit pakket doornemen.</value>
+  </data>
+  <data name="ReleaseNotes.Title">
+    <value xml:space="preserve">Release Notities</value>
+  </data>
+  <data name="RepairInstall.Text">
+    <value xml:space="preserve">Installatie herstellen?</value>
+  </data>
+  <data name="RepairInstallHelp.Text">
+    <value xml:space="preserve">Het installatieproces zal standaard niet eenzelfde pakket en/of versie overschrijven. Indien u een huidige geïnstalleerde versie wilt herstellen dan moet u deze box aanvinken.</value>
+  </data>
+  <data name="RepairInstallWarning.Text">
+    <value xml:space="preserve">WAARSCHUWING: U heeft gekozen voor het herstellen van de installatie van dit pakket. Dit betekent dat de bestaande bestanden zullen worden overschreven.</value>
+  </data>
+  <data name="Return.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="Skin.Text" lastModified="2015-01-09 09:59:08">
+    <value xml:space="preserve">Thema</value>
+  </data>
+  <data name="UploadPackage.Text">
+    <value xml:space="preserve">Pakket uploaden</value>
+  </data>
+  <data name="Warnings.Help">
+    <value xml:space="preserve">Indien u deze pagina kunt zien is dat als gevolg van het feit dat het installatieproces nog aanvullende informatie nodig heeft alvorens verder te kunnen gaan.</value>
+  </data>
+  <data name="Warnings.Title">
+    <value xml:space="preserve">Upload Resultaten</value>
+  </data>
+  <data name="ZipCriticalError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van het zip bestand</value>
+  </data>
+  <data name="ZipError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van het zip bestand - zie hieronder</value>
+  </data>
+</root>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="chkIncludeSource.Text">
+    <value xml:space="preserve">Inclusief Bron:</value>
+  </data>
+  <data name="ChooseAssemblies.Help">
+    <value xml:space="preserve">In deze stap kunt u assemblies toevoegen aan uw pakket. Als er een project bestand in de pakket map staat, zal de wizard proberen de assemblies in te sluiten, maar u kunt de assemblies toevoegen en/of verwijderen vanuit de lijst.</value>
+  </data>
+  <data name="ChooseAssemblies.Title">
+    <value xml:space="preserve">Selecteer de assemblies</value>
+  </data>
+  <data name="ChooseFiles.Help">
+    <value xml:space="preserve">In deze stap kunt u de bestanden kiezen om in uw pakket op te nemen. De wizard zal proberen vast te stellen welke bestanden op te nemen, maar u kunt bestanden aan de lijst toevoegen of verwijderen. Aanvullend kunt u beslissen of u de bron bestanden wilt bijsluiten door de aanvinkbox "Inclusief Bron" op te nemen.</value>
+  </data>
+  <data name="ChooseFiles.Title">
+    <value xml:space="preserve">Selecteer de bestanden</value>
+  </data>
+  <data name="cmdGetAssemblies.Text">
+    <value xml:space="preserve">Ververs Lijst</value>
+  </data>
+  <data name="cmdGetFiles.Text">
+    <value xml:space="preserve">Ververs Bestand lijst</value>
+  </data>
+  <data name="Complete.Text">
+    <value xml:space="preserve">Compleet Pakket (zip):</value>
+  </data>
+  <data name="ControlTitle_packagewriter.Text">
+    <value xml:space="preserve">Maak Pakket</value>
+  </data>
+  <data name="CreateManifest.Help">
+    <value xml:space="preserve">De wizard heeft manifest voor het pakket op basis van uw selecties gemaakt. Het manifest wordt in de hieronder staande tekstbox weergegeven. U kunt, voordat u het pakket maakt, het manifest wijzigen.
+</value>
+  </data>
+  <data name="CreateManifest.Title">
+    <value xml:space="preserve">Maak Manifest</value>
+  </data>
+  <data name="FinalStep.Help" lastModified="2015-01-09 10:01:31">
+    <value xml:space="preserve">De laatste stap is het maken van het pakket. Om een kopie van het manifest te maken moet u "Maak Manifest Bestand" aanvinken - het bestand zal worden aangemaakt in de map van het pakket. Ongeacht de instelling die u hier kiest zal het manifest worden opgeslagen in de database en zal het aan het pakket worden toegevoegd.
+Om een pakket te maken moet moet "Maak Pakket" aanvinken. Het pakket zal worden geplaatst in de relevante install map (Install/modules voor modules, install/thema's voor thema's etc)</value>
+  </data>
+  <data name="FinalStep.Title">
+    <value xml:space="preserve">Maak Pakket</value>
+  </data>
+  <data name="Introduction.Help">
+    <value xml:space="preserve">In deze wizard zult in staat worden gesteld om alle bestanden, die nodig zijn voor installatie in een andere DotNetNuke installatie, in te pakken.</value>
+  </data>
+  <data name="Introduction.Title">
+    <value xml:space="preserve">Maak Pakket</value>
+  </data>
+  <data name="InvalidManifestExtension.Text">
+    <value xml:space="preserve">Ongeldige Manifest Extensie - de extensie van het manifest moet zijn ".dnn".</value>
+  </data>
+  <data name="InvalidPackageName.Text">
+    <value xml:space="preserve">Ongeldige pakketnaam - de pakketnaam moet een ".zip" bestandsformaat hebben.</value>
+  </data>
+  <data name="LogTitle.Text">
+    <value xml:space="preserve">Pakket Creatie Logs</value>
+  </data>
+  <data name="Manifest.Text">
+    <value xml:space="preserve">Alleen Manifest (DNN):</value>
+  </data>
+  <data name="ManifestHelp.Text">
+    <value xml:space="preserve">
+      Deze wizard maakt een manifest voor uw extensie. U kunt uit een aantal opties kiezen. Indien u al eerder een manifest heeft gemaakt (handmatig of via deze wizard) kunt u kiezen om dat manifest te gebruiken door "Gebruik Bestaand Manifest" aan te vinken en het manifest te selecteren uit de drop-down lijst met manifesten die er op uw systeem voor deze extensie zijn gevonden.
+      Vervolgens kunt u kiezen om het manifest te herzien in de laatste stap van de wizard - indien u enkele kleine veranderingen in het manifest wilt aanbrengen voor het pakket in te pakken.
+    </value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">
+      Over Pakket Maker
+      Stelt u in staat om pakketten te maken.
+    </value>
+  </data>
+  <data name="NoFileName.Text">
+    <value xml:space="preserve">U moet een bestandsnaam voor het pakket opgeven</value>
+  </data>
+  <data name="plArchiveName.Help">
+    <value xml:space="preserve">Geef de naam op voor het archief bestand (zip).</value>
+  </data>
+  <data name="plArchiveName.Text">
+    <value xml:space="preserve">Archief Bestandsnaam:</value>
+  </data>
+  <data name="plBasePath.Help">
+    <value xml:space="preserve">De map waar de pakket bestanden kunnen worden gevonden</value>
+  </data>
+  <data name="plBasePath.Text">
+    <value xml:space="preserve">Map</value>
+  </data>
+  <data name="plBinFolder.Help">
+    <value xml:space="preserve">De map waar de pakket assemblies kunnen worden gevonden</value>
+  </data>
+  <data name="plBinFolder.Text">
+    <value xml:space="preserve">Assembly Map</value>
+  </data>
+  <data name="plChooseManifest.Help">
+    <value xml:space="preserve">U heeft gekozen om een bestaand manifest bestand te gebruiken, u dient nu aan te geven welke u wilt gebruiken.</value>
+  </data>
+  <data name="plChooseManifest.Text">
+    <value xml:space="preserve">Kies Manifest Bestand:</value>
+  </data>
+  <data name="plManifest.Help">
+    <value xml:space="preserve">Deze box aanvinken om een manifest aan te maken.</value>
+  </data>
+  <data name="plManifest.Text">
+    <value xml:space="preserve">Maak Manifest Bestand:</value>
+  </data>
+  <data name="plManifestName.Help">
+    <value xml:space="preserve">Geef de naam voor het manifest op.</value>
+  </data>
+  <data name="plManifestName.Text">
+    <value xml:space="preserve">Manifest Bestandsnaam:</value>
+  </data>
+  <data name="plPackage.Help">
+    <value xml:space="preserve">Vink deze box aan om een pakket (zip-bestand) te maken</value>
+  </data>
+  <data name="plPackage.Text">
+    <value xml:space="preserve">Maak Pakket:</value>
+  </data>
+  <data name="plReviewManifest.Help">
+    <value xml:space="preserve">Deze box aanvinken om het manifest te herzien voordat u een nieuw pakket maakt.</value>
+  </data>
+  <data name="plReviewManifest.Text">
+    <value xml:space="preserve">Manifest Herzien:</value>
+  </data>
+  <data name="plUseManifest.Help">
+    <value xml:space="preserve">Deze box aanvinken om het huidige manifest voor dit pakket te gebruiken.</value>
+  </data>
+  <data name="plUseManifest.Text">
+    <value xml:space="preserve">Gebruik Bestaand Manifest:</value>
+  </data>
+  <data name="Success.Text">
+    <value xml:space="preserve">Het pakket is gemaakt en kan worden terug gevonden in de folder {0}</value>
+  </data>
+  <data name="WriterResults.Help">
+    <value xml:space="preserve">De resultaten van de pakket creatie worden hieronder weergegeven.</value>
+  </data>
+  <data name="WriterResults.Title">
+    <value xml:space="preserve">Maak Pakket Resultaten</value>
+  </data>
+</root>

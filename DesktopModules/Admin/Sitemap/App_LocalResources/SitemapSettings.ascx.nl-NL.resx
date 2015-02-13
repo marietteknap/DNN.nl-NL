@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="1Day.Text">
+    <value xml:space="preserve">1 Dag</value>
+  </data>
+  <data name="2Days.Text">
+    <value xml:space="preserve">2 Dagen</value>
+  </data>
+  <data name="3Days.Text">
+    <value xml:space="preserve">3 Dagen</value>
+  </data>
+  <data name="4Days.Text">
+    <value xml:space="preserve">4 Dagen</value>
+  </data>
+  <data name="5Days.Text">
+    <value xml:space="preserve">5 Dagen</value>
+  </data>
+  <data name="6Days.Text">
+    <value xml:space="preserve">6 Dagen</value>
+  </data>
+  <data name="7Days.Text">
+    <value xml:space="preserve">7 Dagen</value>
+  </data>
+  <data name="cmdRefresh.Text">
+    <value xml:space="preserve">Ververs Pagina Prioriteiten</value>
+  </data>
+  <data name="cmdSaveAll.Text">
+    <value xml:space="preserve">Sitemap Configuratie Opslaan</value>
+  </data>
+  <data name="cmdSubmitToSearch.Text">
+    <value xml:space="preserve">Toevoegen</value>
+  </data>
+  <data name="cmdSubmitToSearch.ToolTip">
+    <value xml:space="preserve">Toevoegen</value>
+  </data>
+  <data name="cmdVerification.Text">
+    <value xml:space="preserve">Maken</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Zoekmachine Sitemap</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="DisableCaching.Text">
+    <value xml:space="preserve">Caching uitschakelen</value>
+  </data>
+  <data name="Edit.Cancel">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="Edit.Edit">
+    <value xml:space="preserve">Wijzigen</value>
+  </data>
+  <data name="Edit.Update">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="Enabled.Header">
+    <value xml:space="preserve">Ingeschakeld</value>
+  </data>
+  <data name="Keywords.Header">
+    <value xml:space="preserve">Pagina Sleutelwoorden</value>
+  </data>
+  <data name="lblCache.Help">
+    <value xml:space="preserve">Schakel deze optie als u de cache van de sitemap, zodat zij niet telkens wanneer ze wordt gevraagd wordt gegenereerd. Dit is speciaal nodig voor grote sites. Als uw site meer dan 50.000 URL's bevat zal de sitemap worden gecached met een standaard waarde van 1 dag. Stel deze waarde op 0 in om caching uit te schakelen.</value>
+  </data>
+  <data name="lblCache.Text">
+    <value xml:space="preserve">Aantal dagen om de Sitemap te cachen</value>
+  </data>
+  <data name="lblExcludePriority.Help">
+    <value xml:space="preserve">Deze optie kan worden gebruikt om bepaalde pagina's te verwijderen van de sitemap. Zo kunt u de prioriteit op -1 instellen om er voor te zorgen dat een pagina niet worden opgenomen in de gegenereerde sitemap.</value>
+  </data>
+  <data name="lblExcludePriority.Text">
+    <value xml:space="preserve">URLs uitsluiten met een prioriteit lager dan:</value>
+  </data>
+  <data name="lblIncludeHidden.Help">
+    <value xml:space="preserve">Indien aangevinkt worden verborgen pagina's (niet zichtbaar in het menu) ook in de sitemap opgenomen. Standaard zullen de verborgen pagina's niet worden opgenomen.</value>
+  </data>
+  <data name="lblIncludeHidden.Text">
+    <value xml:space="preserve">Verborgen Pagina's Opnemen?</value>
+  </data>
+  <data name="lblLevelPriority.Help">
+    <value xml:space="preserve">Indien aangevinkt, zal de prioriteit voor elke pagina worden berekend vanaf het hiërarchisch niveau van de pagina. Top level pagina's hebben een waarde van 1, tweede niveau 0.9, derde niveau 0.8, ... Deze instelling zal geen verandering in de waarde die is opgeslagen in de actuele pagina, maar het zal gebruik maken van de berekende waarde wanneer nodig.</value>
+  </data>
+  <data name="lblLevelPriority.Text">
+    <value xml:space="preserve">Baseer prioriteiten o.b.v. pagina niveaus?</value>
+  </data>
+  <data name="lblMinPagePriority.Help">
+    <value xml:space="preserve">Wanneer "pagina-niveau op basis van prioriteiten" wordt gebruikt, minimale prioriteit voor pagina's kunnen worden gebruikt om de laagste prioriteit die zal worden gebruikt op laag niveaus instellen</value>
+  </data>
+  <data name="lblMinPagePriority.Text">
+    <value xml:space="preserve">Minimum Prioriteit voor pagina's:</value>
+  </data>
+  <data name="lblSearchEngine.Help">
+    <value xml:space="preserve">Voeg uw site toe aan de geselecteerde zoekmachine om te indexeren.</value>
+  </data>
+  <data name="lblSearchEngine.Text">
+    <value xml:space="preserve">Zoekmachine:</value>
+  </data>
+  <data name="lblSiteMap.Help">
+    <value xml:space="preserve">Dien uw sitemap in bij Google voor een betere zoek optimalisatie. Klik op Verzenden om een Google Webmaster Tools account en controleer uw eigenaar van de site (met behulp van de Verificatie optie hieronder). Eenmaal geverifieerd, kunt u de Algemene sitemap optie toevoegen op de Google Sitemaps tab, en plak de Site Map URL weergegeven.</value>
+  </data>
+  <data name="lblSiteMap.Text">
+    <value xml:space="preserve">Sitemap URL:</value>
+  </data>
+  <data name="lblVerification.Help">
+    <value xml:space="preserve">Bij de ondertekening met Google Webmaster Tools dient u uw site te verifiëren op het eigenaarschap. Kies de "Upload een HTML-bestand" methode van de Google Verification scherm. Voer de bestandsnaam weergegeven (dwz google53c0cef435b2b81e.html) in het Verificatie tekstvak en klikt u op Maken. Terug naar Google en selecteert u de knop Controleren.</value>
+  </data>
+  <data name="lblVerification.Text">
+    <value xml:space="preserve">Verificatie:</value>
+  </data>
+  <data name="Level.Header">
+    <value xml:space="preserve">Niveau</value>
+  </data>
+  <data name="lnkResetCache.Text">
+    <value xml:space="preserve">Cache Wissen</value>
+  </data>
+  <data name="lnkTestSitemap.Text">
+    <value xml:space="preserve">Bekijk Huidige Sitemap</value>
+  </data>
+  <data name="MessageUpdated.Text">
+    <value xml:space="preserve">Uw configuratie is opgeslagen</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NoCacheToReset.Text">
+    <value xml:space="preserve">Geen Cache aanwezig om te resetten</value>
+  </data>
+  <data name="OverridePriority.Header">
+    <value xml:space="preserve">Prioriteit Overrulen</value>
+  </data>
+  <data name="PageTitle.Header">
+    <value xml:space="preserve">Tiel Pagina</value>
+  </data>
+  <data name="Priority.Header">
+    <value xml:space="preserve">Prioriteit</value>
+  </data>
+  <data name="ProviderDescription.Header">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="ProviderEnabled.Header">
+    <value xml:space="preserve">Ingeschakeld?</value>
+  </data>
+  <data name="ProviderName.Header">
+    <value xml:space="preserve">Naam Provider</value>
+  </data>
+  <data name="ProviderOverride.Header">
+    <value xml:space="preserve">Prioriteit Overrulen?</value>
+  </data>
+  <data name="ResetOK.Text">
+    <value xml:space="preserve">De Sitemap is succesvol gepurged</value>
+  </data>
+  <data name="SectionCoreSettings.Text">
+    <value xml:space="preserve">Basis Pagina URLs Instellingen</value>
+  </data>
+  <data name="SectionCoreSettingsLbl.Text">
+    <value xml:space="preserve">Wijzig de basis instellingen </value>
+  </data>
+  <data name="SectionGeneralSettings.Text">
+    <value xml:space="preserve">Algemene Sitemap Instellingen</value>
+  </data>
+  <data name="SectionGeneralSettingsLbl.Text">
+    <value xml:space="preserve">Configureer de instellingen die van toepassing zijn voor alle URLs in de Sitemap.</value>
+  </data>
+  <data name="SectionProviderSettings.Help">
+    <value xml:space="preserve">In dit gedeelte kunt u de beschikbare Sitemap providers voor de huidige portal bekijken en configureren. Controleer de "Ingeschakeld" checkbox als u URLs die door de provider zijn gegenereerd wilt opnemen in de finale sitemap. U kunt de prioriteit van alle providers overrulen en door de juiste aanvinkbox in te schakelen om vervolgens een nieuwe prioriteit in te stellen.</value>
+  </data>
+  <data name="SectionProviderSettings.Text">
+    <value xml:space="preserve">Geïnstalleerde Sitemap Providers</value>
+  </data>
+  <data name="SectionSubmissionSettings.Text">
+    <value xml:space="preserve">Site Toevoegen</value>
+  </data>
+  <data name="SectionSubmissionSettingsLbl.Text">
+    <value xml:space="preserve">In dit gedeelte kunt u uw site aan meerdere zoekmachines toevoegen.</value>
+  </data>
+  <data name="valPriority.Text">
+    <value xml:space="preserve">U moet een geldige waarde invoeren tussen 0.0 en 1.0.</value>
+  </data>
+</root>

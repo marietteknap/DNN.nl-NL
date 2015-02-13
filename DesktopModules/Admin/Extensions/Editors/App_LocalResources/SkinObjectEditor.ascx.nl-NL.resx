@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlKey.Help">
+    <value xml:space="preserve">Voer een sleutel voor het Skin Object. De sleutel moet uniek zijn.</value>
+  </data>
+  <data name="ControlKey.Text">
+    <value xml:space="preserve">Control-toets:</value>
+  </data>
+  <data name="ControlSrc.Help">
+    <value xml:space="preserve">Geef de bron voor deze controle. Als de controle is een gebruikerspaneel, voert u de bron ten opzichte van de website root.</value>
+  </data>
+  <data name="ControlSrc.Text">
+    <value xml:space="preserve">Controle Src:</value>
+  </data>
+  <data name="Help.Text">
+    <value xml:space="preserve">Deze editor stelt u in staat een skin object te configureren.</value>
+  </data>
+  <data name="HelpURL.Help">
+    <value xml:space="preserve">Voer een Help-URL voor deze controle</value>
+  </data>
+  <data name="HelpURL.Text">
+    <value xml:space="preserve">Help URL:</value>
+  </data>
+  <data name="IconFile.Help">
+    <value xml:space="preserve">Geef de url van een pictogram op voor dit control.</value>
+  </data>
+  <data name="IconFile.Text">
+    <value xml:space="preserve">Icoon Bestand:</value>
+  </data>
+  <data name="SupportsPartialRendering.Help">
+    <value xml:space="preserve">Schakel dit vakje in om aan te geven dat deze control gedeeltelijke AJAX weergave ondersteunt.</value>
+  </data>
+  <data name="SupportsPartialRendering.Text">
+    <value xml:space="preserve">Ondersteunt Gedeeltelijke Rendering:</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Instellingen Skin Object</value>
+  </data>
+</root>

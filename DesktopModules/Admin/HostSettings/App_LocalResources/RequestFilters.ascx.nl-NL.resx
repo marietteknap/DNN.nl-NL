@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Regel toevoegen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Annuleer bewerken</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Regel verwijderen</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Regel bewerken</value>
+  </data>
+  <data name="lblServerVarLink.Text">
+    <value xml:space="preserve">Ga naar &lt;a href="http://msdn.microsoft.com/en-us/library/ms524602(v=vs.90).aspx" class="CommandButton" target="_blank" &gt;MSDN&lt;/a&gt;  voor een overzicht van de beschikbare variabelen.</value>
+  </data>
+  <data name="lblWarning.Text">
+    <value xml:space="preserve">WAARSCHUWING: Het toevoegen van een incorrecte request filter regel kan er voor zorgen dat de DotNetNuke website niet meer functioneert. Als dit gebeurt kunt u handmatig het bestand DotNetNuke.config bewerken om de incorrecte regel te verwijderen. U vind dit bestand in de root van de applicatie.</value>
+  </data>
+  <data name="plAction.Help">
+    <value xml:space="preserve">Selecteer een actie die uitgevoerd moet worden als een binnenkomend verzoek aan deze regel voldoet</value>
+  </data>
+  <data name="plAction.Text">
+    <value xml:space="preserve">Actie</value>
+  </data>
+  <data name="plLocation.Help">
+    <value xml:space="preserve">Voer een URL in om de bezoeker te redirecten als het binnenkomende verzoek voldoet aan deze rol. Deze waarde wordt alleen gebruikt voor Redirect en PermanentRedirect acties.</value>
+  </data>
+  <data name="plLocation.Text">
+    <value xml:space="preserve">Locatie</value>
+  </data>
+  <data name="plOperator.Help">
+    <value xml:space="preserve">Selecteer de te gebruiken operator voor het vergelijken van binnenkomende verzoeken tegen de gespecificeerde server variabele en waarde.</value>
+  </data>
+  <data name="plOperator.Text">
+    <value xml:space="preserve">Operator</value>
+  </data>
+  <data name="plServerVar.Help">
+    <value xml:space="preserve">Specificeert de te gebruiken server variabele bij het filteren van binnenkomende verzoeken. Een complete lijst van server variabelen is te vinden via MSDN.</value>
+  </data>
+  <data name="plServerVar.Text">
+    <value xml:space="preserve">Server Variabele</value>
+  </data>
+  <data name="plValue.Help">
+    <value xml:space="preserve">Definieert de waarde van de server variabele die gebruikt wordt in deze regel. Als gebruik wordt gemaakt van een regular expression om de waarde te vergelijken, dan moet dit een geldige regular expression zijn, anders kan de waarde een door puntkomma gescheiden lijst met waardes zijn.</value>
+  </data>
+  <data name="plValue.Text">
+    <value xml:space="preserve">Controleer waarde</value>
+  </data>
+  <data name="saveRule.Text">
+    <value xml:space="preserve">Regel bijwerken</value>
+  </data>
+  <data name="unauthorized.Text">
+    <value xml:space="preserve">Het gebruiker account dat gebruikt wordt om de applicatie uit te voeren heeft niet genoeg rechten om het bestand DotNetNuke.config te wijzigen. Deze fout kan optreden als het bestand als "alleen lezen" is aangemerkt, of als het gebruikte applicatie account niet genoeg bevoegdheden heeft.</value>
+  </data>
+</root>

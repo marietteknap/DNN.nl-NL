@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddControl.ErrorMessage">
+    <value xml:space="preserve">Er is al een control met de zelfde sleutel en bron.</value>
+  </data>
+  <data name="Admin.Text">
+    <value xml:space="preserve">Beheerder</value>
+  </data>
+  <data name="Anonymous.Text">
+    <value xml:space="preserve">Anoniem</value>
+  </data>
+  <data name="ControlTitle_editcontrol.Text">
+    <value xml:space="preserve">Wijzig Module Control</value>
+  </data>
+  <data name="DuplicateKey.ErrorMessage">
+    <value xml:space="preserve">Er bestaat reeds een control met dezelfde sleutel in deze module definitie.</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Wijzig</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="MissingSource.ErrorMessage">
+    <value xml:space="preserve">U moet een bron waarde voor deze control specificeren.</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over Module Definities&lt;/h1&gt;&lt;p&gt;De gastheer gebruiker kan op het systeem geïnstalleerde modules onderhouden.&lt;/p&gt;</value>
+  </data>
+  <data name="plDefinition.Help">
+    <value xml:space="preserve">Dit is de naam van de module definitie</value>
+  </data>
+  <data name="plDefinition.Text">
+    <value xml:space="preserve">Definitie:</value>
+  </data>
+  <data name="plHelpURL.Help">
+    <value xml:space="preserve">U kunt een help URL ingeven voor dit control. Deze zal in het actiemenu worden weergegeven.</value>
+  </data>
+  <data name="plHelpURL.Text">
+    <value xml:space="preserve">Help URL:</value>
+  </data>
+  <data name="plIcon.Help" lastModified="2015-01-09 10:06:25">
+    <value xml:space="preserve">Kies een icoon voor deze control.  Dit zal, indien door het thema ondersteund, in de kop van de module worden weergegeven.</value>
+  </data>
+  <data name="plIcon.Text">
+    <value xml:space="preserve">Icoon:</value>
+  </data>
+  <data name="plKey.Help">
+    <value xml:space="preserve">Geef een unieke naam op om deze control binnen deze module te identificeren</value>
+  </data>
+  <data name="plKey.Text">
+    <value xml:space="preserve">Sleutel:</value>
+  </data>
+  <data name="plModule.Help">
+    <value xml:space="preserve">Dit is de vriendelijke naam van de module.</value>
+  </data>
+  <data name="plModule.Text">
+    <value xml:space="preserve">Module:</value>
+  </data>
+  <data name="plSource.Help">
+    <value xml:space="preserve">Selecteer het bron bestand of geef de typenaam voor deze control op.</value>
+  </data>
+  <data name="plSource.Text">
+    <value xml:space="preserve">Bron:</value>
+  </data>
+  <data name="plSourceFolder.Help">
+    <value xml:space="preserve">Selecteer de bronmap voor het control.</value>
+  </data>
+  <data name="plSourceFolder.Text">
+    <value xml:space="preserve">Bronmap:</value>
+  </data>
+  <data name="plSupportsPartialRendering.Help">
+    <value xml:space="preserve">Deze indicator geeft aan of de module control gedeeltelijke AJAX weergave ondersteund.</value>
+  </data>
+  <data name="plSupportsPartialRendering.Text">
+    <value xml:space="preserve">Gedeeltelijke Weergave Ondersteund?</value>
+  </data>
+  <data name="plTitle.Help" lastModified="2015-01-09 10:06:25">
+    <value xml:space="preserve">Geef de titel in voor dit control.  Dit zal in de kop van de module, indien door het thema ondersteund, worden getoond.</value>
+  </data>
+  <data name="plTitle.Text">
+    <value xml:space="preserve">Titel:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Kies het control type uit de lijst.</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Type:</value>
+  </data>
+  <data name="plViewOrder.Help">
+    <value xml:space="preserve">Geef de weergave volgorde in voor de control in de lijst met controls voor deze definitie.</value>
+  </data>
+  <data name="plViewOrder.Text">
+    <value xml:space="preserve">Weergave Volgorde:</value>
+  </data>
+  <data name="Skin.Text">
+    <value xml:space="preserve">Skin Object</value>
+  </data>
+  <data name="supportsModalPopUpsLabel.Help">
+    <value xml:space="preserve">Deze vlag geeft aan of de module controle modale pop-ups ondersteunt.</value>
+  </data>
+  <data name="supportsModalPopUpsLabel.Text">
+    <value xml:space="preserve">Ondersteunt Popups:</value>
+  </data>
+  <data name="View.Text">
+    <value xml:space="preserve">Weergave</value>
+  </data>
+</root>

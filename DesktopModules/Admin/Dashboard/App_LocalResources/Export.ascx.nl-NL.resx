@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Maak XML Bestand</value>
+  </data>
+  <data name="ControlTitle_export.Text">
+    <value xml:space="preserve">Exporteer Dashboard</value>
+  </data>
+  <data name="plFileName.Help">
+    <value xml:space="preserve">Geef een naam op voor het XML bestand</value>
+  </data>
+  <data name="plFileName.Text">
+    <value xml:space="preserve">Naam Bestand:</value>
+  </data>
+  <data name="Success.Text">
+    <value xml:space="preserve">Dashboard succesvol als XML geëxporteerd. Het bestand - {0} - kan worden terug gevonden in de Gastheer Root map in bestandsbeheer.</value>
+  </data>
+  <data name="valFileName.Error">
+    <value xml:space="preserve">Een bestand is een verplicht veld</value>
+  </data>
+</root>

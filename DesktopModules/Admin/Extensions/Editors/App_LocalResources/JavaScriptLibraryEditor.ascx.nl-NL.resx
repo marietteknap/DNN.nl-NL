@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BodyBottom.Text">
+    <value xml:space="preserve">Onderkant Body</value>
+  </data>
+  <data name="BodyTop.Text">
+    <value xml:space="preserve">Bovenkant Body</value>
+  </data>
+  <data name="CDNLabel.Help">
+    <value xml:space="preserve">De URL naar de standaard CDN die gebruikt moet worden voor de bibliotheek. Deze kan worden overschreven door een aangepaste URL op te geven.</value>
+  </data>
+  <data name="CDNLabel.Text">
+    <value xml:space="preserve">Standaard CDN:</value>
+  </data>
+  <data name="CustomCDNLabel.Help">
+    <value xml:space="preserve">De URL naar de aangepaste CDN die gebruikt moet worden voor de bibliotheek in plaats van de standaard CDN.</value>
+  </data>
+  <data name="CustomCDNLabel.Text">
+    <value xml:space="preserve">Aangepaste CDN:</value>
+  </data>
+  <data name="DependOnPackagesLabel.Help">
+    <value xml:space="preserve">Geeft een lijst weer met alle pakketten waar dit pakket afhankelijk van is.</value>
+  </data>
+  <data name="DependOnPackagesLabel.Text">
+    <value xml:space="preserve">Afhankelijk van:</value>
+  </data>
+  <data name="FileNameLabel.Help">
+    <value xml:space="preserve">De bestandsnaam van het javascript bestand.</value>
+  </data>
+  <data name="FileNameLabel.Text">
+    <value xml:space="preserve">Bestandsnaam:</value>
+  </data>
+  <data name="LibraryNameLabel.Help">
+    <value xml:space="preserve">De naam van de Javascript bibliotheek (e.g. "JQuery")</value>
+  </data>
+  <data name="LibraryNameLabel.Text">
+    <value xml:space="preserve">Bibliotheeknaam:</value>
+  </data>
+  <data name="LocationLabel.Help">
+    <value xml:space="preserve">De voorkeurslocatie voor het renderen van het script.  Er zijn drie mogelijkheden: In de Head van pagina, aan de bovenkant van de pagina body, of aan de onderkant van de pagina body.</value>
+  </data>
+  <data name="LocationLabel.Text">
+    <value xml:space="preserve">Voorkeurslocatie:</value>
+  </data>
+  <data name="ObjectNameLabel.Help">
+    <value xml:space="preserve">De naam van het JavaScript object wat gebruikt wordt om de bibliotheek methodes aan te roepen.</value>
+  </data>
+  <data name="ObjectNameLabel.Text">
+    <value xml:space="preserve">Object naam:</value>
+  </data>
+  <data name="PageHead.Text">
+    <value xml:space="preserve">Pagina Head</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">JavaScript bibliotheek instellingen</value>
+  </data>
+  <data name="UsedByPackagesLabel.Help">
+    <value xml:space="preserve">Geeft een lijst weer van alle pakketten die dit pakket gebruiken.</value>
+  </data>
+  <data name="UsedByPackagesLabel.Text">
+    <value xml:space="preserve">Gebruikt door:</value>
+  </data>
+  <data name="VersionLabel.Help">
+    <value xml:space="preserve">De versie van de JavaScript bibliotheek.</value>
+  </data>
+  <data name="VersionLabel.Text">
+    <value xml:space="preserve">Bibliotheek versie:</value>
+  </data>
+</root>

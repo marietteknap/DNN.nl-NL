@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HostInfo_CachingProvider.Help">
+    <value xml:space="preserve">De standaard caching provider voor deze site.</value>
+  </data>
+  <data name="HostInfo_CachingProvider.Text">
+    <value xml:space="preserve">Caching Provider:</value>
+  </data>
+  <data name="HostInfo_DataProvider.Help">
+    <value xml:space="preserve">De standaard data provider voor deze site.</value>
+  </data>
+  <data name="HostInfo_DataProvider.Text">
+    <value xml:space="preserve">Data Provider:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlEnabled.Help">
+    <value xml:space="preserve">Toont of Vriendelijke URLs voor deze site zijn ingeschakeld.</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlEnabled.Text">
+    <value xml:space="preserve">Friendly URLs Ingeschakeld:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlProvider.Help">
+    <value xml:space="preserve">De standaard vriendelijke URL provider voor deze site.</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlProvider.Text">
+    <value xml:space="preserve">Vriendelijke Url provider:</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlType.Help">
+    <value xml:space="preserve">Toont het type Friendly URLs voor deze site.</value>
+  </data>
+  <data name="HostInfo_FriendlyUrlType.Text">
+    <value xml:space="preserve">Type Friendly URL:</value>
+  </data>
+  <data name="HostInfo_HostGUID.Help">
+    <value xml:space="preserve">De unieke identifier van de site.</value>
+  </data>
+  <data name="HostInfo_HostGUID.Text">
+    <value xml:space="preserve">SuperUser GUID:</value>
+  </data>
+  <data name="HostInfo_HtmlEditorProvider.Help">
+    <value xml:space="preserve">De standaard HTML provider voor deze site.</value>
+  </data>
+  <data name="HostInfo_HtmlEditorProvider.Text">
+    <value xml:space="preserve">Html Editor Provider:</value>
+  </data>
+  <data name="HostInfo_JQueryUIVersion.Help">
+    <value xml:space="preserve">Dit is de versie van jQuery UI die in deze DotNetNuke installatie wordt uitgevoerd.</value>
+  </data>
+  <data name="HostInfo_JQueryUIVersion.Text">
+    <value xml:space="preserve">jQuery UI versie:</value>
+  </data>
+  <data name="HostInfo_JQueryVersion.Help">
+    <value xml:space="preserve">Dit is de versie van jQuery die in deze DotNetNuke installatie wordt uitgevoerd.</value>
+  </data>
+  <data name="HostInfo_JQueryVersion.Text">
+    <value xml:space="preserve">jQuery Versie:</value>
+  </data>
+  <data name="HostInfo_LoggingProvider.Help">
+    <value xml:space="preserve">De standaard logging provider voor deze site.</value>
+  </data>
+  <data name="HostInfo_LoggingProvider.Text">
+    <value xml:space="preserve">Logging Provider:</value>
+  </data>
+  <data name="HostInfo_Permissions.Help">
+    <value xml:space="preserve">De Code Access Security (CAS) bevoegdheden voor deze site.</value>
+  </data>
+  <data name="HostInfo_Permissions.Text">
+    <value xml:space="preserve">CAS Bevoegdheden:</value>
+  </data>
+  <data name="HostInfo_Product.Help">
+    <value xml:space="preserve">De applicatie die u draait</value>
+  </data>
+  <data name="HostInfo_Product.Text">
+    <value xml:space="preserve">Product:</value>
+  </data>
+  <data name="HostInfo_SchedulerMode.Help">
+    <value xml:space="preserve">De timer methode onderhoud een gescheiden thread om geplande taken uit te voeren wanneer de worker process actief is. De request methode voert taken uit wanneer HTTP verzoeken worden uitgevoerd. U kunt de planner ook uitschakelen door Uitgeschakeld te selecteren.</value>
+  </data>
+  <data name="HostInfo_SchedulerMode.Text">
+    <value xml:space="preserve">Modus Taakplanning:</value>
+  </data>
+  <data name="HostInfo_Version.Help">
+    <value xml:space="preserve">De versie van product.</value>
+  </data>
+  <data name="HostInfo_Version.Text">
+    <value xml:space="preserve">Versie:</value>
+  </data>
+  <data name="HostInfo_WebFarmEnabled.Help">
+    <value xml:space="preserve">Deze instelling stelt vast of de site opereert in Web Farm modus.</value>
+  </data>
+  <data name="HostInfo_WebFarmEnabled.Text">
+    <value xml:space="preserve">Web Farm Ingeschakeld:</value>
+  </data>
+  <data name="plHost.Help">
+    <value xml:space="preserve">Toont geselecteerde instellingen die alle portalen in deze installatie beïnvloeden.</value>
+  </data>
+  <data name="plHost.Text">
+    <value xml:space="preserve">DotNetNuke SuperUser Instellingen:</value>
+  </data>
+</root>

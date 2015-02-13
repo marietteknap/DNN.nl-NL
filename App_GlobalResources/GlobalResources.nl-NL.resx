@@ -1,0 +1,1184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="//AboutUs.String">
+    <value xml:space="preserve">Over ons</value>
+  </data>
+  <data name="//AboutUs//StyleGuide.String">
+    <value xml:space="preserve">Stijl gids</value>
+  </data>
+  <data name="//ActivityFeed.String">
+    <value xml:space="preserve">Activiteitenoverzicht</value>
+  </data>
+  <data name="//ActivityFeed//Friends.String">
+    <value xml:space="preserve">Vrienden</value>
+  </data>
+  <data name="//ActivityFeed//Messages.String">
+    <value xml:space="preserve">Berichten</value>
+  </data>
+  <data name="//ActivityFeed//MyProfile.String">
+    <value xml:space="preserve">Mijn profiel</value>
+  </data>
+  <data name="//Admin.String">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="//Admin//AdvancedSettings.String">
+    <value xml:space="preserve">Geavanceerde Configuratie Instellingen</value>
+  </data>
+  <data name="//Admin//AdvancedURLManagement.String">
+    <value xml:space="preserve">Geavanceerd URL management</value>
+  </data>
+  <data name="//Admin//ContentStaging.String">
+    <value xml:space="preserve">Content Staging</value>
+  </data>
+  <data name="//Admin//DevicePreviewManagement.String">
+    <value xml:space="preserve">Device Vooruitblik Management</value>
+  </data>
+  <data name="//Admin//Extensions.String">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="//Admin//FileManagement.String">
+    <value xml:space="preserve">Bestandsmanager</value>
+  </data>
+  <data name="//Admin//FileManager.String">
+    <value xml:space="preserve">Bestandsbeheer</value>
+  </data>
+  <data name="//Admin//GoogleAnalytics.String">
+    <value xml:space="preserve">Google Analytics</value>
+  </data>
+  <data name="//Admin//GoogleAnalyticsPro.String">
+    <value xml:space="preserve">Google Analytics Pro</value>
+  </data>
+  <data name="//Admin//Languages.String">
+    <value xml:space="preserve">Talen</value>
+  </data>
+  <data name="//Admin//Lists.String">
+    <value xml:space="preserve">Lijsten</value>
+  </data>
+  <data name="//Admin//LogViewer.String">
+    <value xml:space="preserve">Logboek</value>
+  </data>
+  <data name="//Admin//Newsletters.String">
+    <value xml:space="preserve">Nieuwsbrieven</value>
+  </data>
+  <data name="//Admin//Pages.String">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="//Admin//RecycleBin.String">
+    <value xml:space="preserve">Prullenmand</value>
+  </data>
+  <data name="//Admin//SearchAdmin.String">
+    <value xml:space="preserve">Zoek Admin</value>
+  </data>
+  <data name="//Admin//SearchEngineSiteMap.String">
+    <value xml:space="preserve">Zoekmachine sitemap</value>
+  </data>
+  <data name="//Admin//SecurityRoles.String">
+    <value xml:space="preserve">Toegangsrollen</value>
+  </data>
+  <data name="//Admin//SharePointConnector.String">
+    <value xml:space="preserve">SharePoint Koppeling</value>
+  </data>
+  <data name="//Admin//SiteLog.String">
+    <value xml:space="preserve">Website Log</value>
+  </data>
+  <data name="//Admin//SiteRedirectionManagement.String">
+    <value xml:space="preserve">Beheer site omleidingen</value>
+  </data>
+  <data name="//Admin//SiteSettings.String">
+    <value xml:space="preserve">Website Instellingen</value>
+  </data>
+  <data name="//Admin//SiteWizard.String">
+    <value xml:space="preserve">Website Wizard</value>
+  </data>
+  <data name="//Admin//Skins.String">
+    <value xml:space="preserve">Skins</value>
+  </data>
+  <data name="//Admin//Solutions.String">
+    <value xml:space="preserve">Oplossingen Verkenner</value>
+  </data>
+  <data name="//Admin//Tabs.String">
+    <value xml:space="preserve">Pagina's </value>
+  </data>
+  <data name="//Admin//Taxonomy.String">
+    <value xml:space="preserve">Taxonomie</value>
+  </data>
+  <data name="//Admin//UserAccounts.String">
+    <value xml:space="preserve">Gebruikersaccounts</value>
+  </data>
+  <data name="//Admin//UserSwitcher.String">
+    <value xml:space="preserve">Gebruikerswisselaar</value>
+  </data>
+  <data name="//Admin//Vendors.String">
+    <value xml:space="preserve">Verkopers</value>
+  </data>
+  <data name="//ContactUs.String">
+    <value xml:space="preserve">Neem Contact met ons op</value>
+  </data>
+  <data name="//GettingStarted.String">
+    <value xml:space="preserve">Aan de slag</value>
+  </data>
+  <data name="//Home.String">
+    <value xml:space="preserve">Home</value>
+  </data>
+  <data name="//Host.String">
+    <value xml:space="preserve">Applicatie</value>
+  </data>
+  <data name="//Host//ConfigurationManager.String">
+    <value xml:space="preserve">Beheer configuratie</value>
+  </data>
+  <data name="//Host//Dashboard.String">
+    <value xml:space="preserve">Dashboard</value>
+  </data>
+  <data name="//Host//DeviceDetectionManagement.String">
+    <value xml:space="preserve">Beheer apparaat herkenning</value>
+  </data>
+  <data name="//Host//Extensions.String">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="//Host//FileManagement.String">
+    <value xml:space="preserve">Bestandsbeheer</value>
+  </data>
+  <data name="//Host//HostSettings.String">
+    <value xml:space="preserve">Applicatie Instellingen</value>
+  </data>
+  <data name="//Host//HTMLEditorManager.String">
+    <value xml:space="preserve">Beheer HTML Editor</value>
+  </data>
+  <data name="//Host//Languages.String">
+    <value xml:space="preserve">Talen</value>
+  </data>
+  <data name="//Host//Lists.String">
+    <value xml:space="preserve">Lijsten</value>
+  </data>
+  <data name="//Host//ModuleDefinitions.String">
+    <value xml:space="preserve">Module Definities</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures.String">
+    <value xml:space="preserve">Professionele functies</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ActivateYourLicense.String">
+    <value xml:space="preserve">Activeer uw licentie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
+    <value xml:space="preserve">Geavanceerd URL management</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String">
+    <value xml:space="preserve">Applicatie Integriteit</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String">
+    <value xml:space="preserve">Site monitor</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String">
+    <value xml:space="preserve">Kennisbank (Engelstalig)</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//LicenseManagement.String">
+    <value xml:space="preserve">Licentiebeheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ManageWebServers.String">
+    <value xml:space="preserve">Webserver beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//MySupportTickets.String">
+    <value xml:space="preserve">Mijn support tickets</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String">
+    <value xml:space="preserve">Zoekmachine beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SecurityCenter.String">
+    <value xml:space="preserve">Beveiligingscentrum</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SharePointConnector.String">
+    <value xml:space="preserve">SharePoint Connector</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SiteGroups.String">
+    <value xml:space="preserve">Site Groepen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String">
+    <value xml:space="preserve">Software en documentatie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SpecialOffers.String">
+    <value xml:space="preserve">Aanbiedingen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String">
+    <value xml:space="preserve">Technische ondersteuning</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//UserSwitcher.String">
+    <value xml:space="preserve">Andere gebruiker</value>
+  </data>
+  <data name="//Host//Schedule.String">
+    <value xml:space="preserve">Taak schema's</value>
+  </data>
+  <data name="//Host//SearchAdmin.String">
+    <value xml:space="preserve">Zoek Beheerders</value>
+  </data>
+  <data name="//Host//SiteManagement.String">
+    <value xml:space="preserve">Site Beheer</value>
+  </data>
+  <data name="//Host//Skins.String">
+    <value xml:space="preserve">Skins</value>
+  </data>
+  <data name="//Host//SQL.String">
+    <value xml:space="preserve">SQL</value>
+  </data>
+  <data name="//Host//SuperuserAccounts.String">
+    <value xml:space="preserve">SuperUser Accounts</value>
+  </data>
+  <data name="//Host//Vendors.String">
+    <value xml:space="preserve">Verkopers</value>
+  </data>
+  <data name="//Host//WhatsNew.String">
+    <value xml:space="preserve">Wat zijn de nieuwe features</value>
+  </data>
+  <data name="//Modules.Text">
+    <value xml:space="preserve">Modules</value>
+  </data>
+  <data name="//NewsPromotions.String">
+    <value xml:space="preserve">Nieuws en promoties</value>
+  </data>
+  <data name="//OurProducts.String">
+    <value xml:space="preserve">Onze producten</value>
+  </data>
+  <data name="//Pages.Text">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="//SearchResults.String">
+    <value xml:space="preserve">Zoekresultaten</value>
+  </data>
+  <data name="//Tools.Text">
+    <value xml:space="preserve">Tools</value>
+  </data>
+  <data name="//UserProfile.String">
+    <value xml:space="preserve">Gebruikersprofiel</value>
+  </data>
+  <data name="403_3.Error">
+    <value xml:space="preserve">    &lt;div style="height: 100%; width: 90%;"&gt;
+        &lt;h3&gt;
+            DotNetNuke Configuratie fout&lt;/h3&gt;
+        &lt;p&gt;
+            {0}&lt;/p&gt;
+        &lt;p&gt;
+            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
+            zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&lt;/p&gt;
+        &lt;p&gt;
+            Met behulp van Windows Verkenner, bladert u naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en beveiliging uit het menu (let op dat als u gebruik
+            maakt van Windows XP moet u mogelijk &lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&gt;
+                eenvoudig delen van bestanden uitschakelen&lt;/a&gt; voordat deze opties worden weergegeven).
+            Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
+            in.&lt;/p&gt;
+        &lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;
+            &lt;li&gt;&lt;strong&gt;Bij gebruik van Windows 2000 - IIS5&lt;/strong&gt;&lt;br /&gt;
+                &lt;ol style="list-style-type: circle;"&gt;
+                    &lt;li&gt;het account [SERVER]\ASPNET moet Lees, Schrijf en Aanpassen rechten hebben op de
+                        gehele applicatie directory.&lt;/li&gt;
+                &lt;/ol&gt;
+                &lt;br /&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Bij gebruik van Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7&lt;/strong&gt;
+                &lt;br /&gt;
+                &lt;ol style="list-style-type: circle;"&gt;
+                    &lt;li&gt;Het account NT AUTHORITY\NETWORK SERVICE&amp;nbsp; moet Lees, Schrijf en Aanpassen rechten
+                        hebben op de gehele applicatie directory.&lt;/li&gt;
+                &lt;/ol&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Bij gebruik van Windows 7 of Windows 2008r2 met IIS7.5&lt;/strong&gt;&lt;br /&gt;
+                &lt;ol style="list-style-type: circle;"&gt;
+                    &lt;li&gt;The IIS AppPool\AppPoolIdentity virtuele user moet Lees, Schrijf en Aanpassen rechten
+                        hebben op de gehele applicatie directory.&lt;/li&gt;
+                &lt;/ol&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;
+            &lt;img alt="Afbeelding die toont dat de beveiligingsinstellingen voor de hoofdmap van de website moet worden ingesteld op Lezen, Schrijven en Modify voor de ASPNET of NT AUTHORITY / NETWORK SERVICE accounts."
+                src="images/403-3.gif" /&gt;&lt;/p&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="404.Error">
+    <value xml:space="preserve">    &lt;div style="height: 100%; width: 90%;"&gt;
+        &lt;p style="color: red; font-weight: bold;"&gt;
+            Domeinnaam {0} bestaat niet in de database&lt;/p&gt;
+        &lt;p&gt;
+            DotNetNuke 
+            ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
+            kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
+            uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&lt;/p&gt;
+        &lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
+            &lt;li&gt;&lt;strong&gt;Web Server Processingver Processing&lt;/strong&gt;&lt;br /&gt;
+                &lt;ul style="list-style-type: disc;"&gt;
+                    &lt;li&gt;Zodra de webserver een request ontvangt van de client, wordt the extensie waar 
+                        de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
+                        gedefinieer in IIS.&lt;/li&gt;
+                    &lt;li&gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
+                        in IIS gedefinieerde applicatie die dit request kan afhandelen (In IIS6 nis dit 
+                        aspnet_asapi.dll voor ASP.NET requests)&lt;/li&gt;
+                    &lt;li&gt;aspnet_isapi.dll&amp;nbsp; behandelt het request in een vaste volgorde, beginnend 
+                        bij Application_BeginRequest&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;HttpModule.URLRewrite OnBeginRequest ( UrlRewriteModule.cs)&lt;/strong&gt;&lt;br /&gt;
+                &lt;ul style="list-style-type: disc;"&gt;
+                    &lt;li&gt;De opgevraagde URL wordt opgedeeld op basis van de slash (&amp;quot;/&amp;quot;)&lt;/li&gt;
+                    &lt;li&gt;Uit de relevante delen wordt een domeinnaam opgesteld&lt;br /&gt;
+                        &lt;br /&gt;Voorbeelden:
+                        &lt;br /&gt;
+                        &lt;br /&gt;URL: http://www.domain.com/default.aspx = 
+                        Domeinnaam: www.domain.com&lt;br /&gt;URL: http://209.75.24.131/default.aspx = 
+                        Domeinnaam: 209.75.24.131&lt;br /&gt;URL: http://localhost/DotNetNuke/default.aspx = 
+                        Domeinnaam: localhost/DotNetNuke&lt;br /&gt;URL: http://www.domain.com/virtualdirectory/default.aspx = 
+                        DomeinnaaURL: http://www.domain.com/directory/default.aspx = 
+                        Domeinnaam: www.domain.com/directory&lt;br /&gt;
+                        &lt;br /&gt;&lt;/li&gt;
+                    &lt;li&gt;Met behulp van de domeinnaam wordt het bijpassende record uit de PortalAlias 
+                        tabel opgezocht.
+                        &lt;br /&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="500.Error">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="ActivatingLicense.Text">
+    <value xml:space="preserve">Licentie activeren</value>
+  </data>
+  <data name="AddFollowerRequestBody.Text">
+    <value xml:space="preserve">U wordt nu gevolgd door {0}</value>
+  </data>
+  <data name="AddFollowerRequestSubject.Text">
+    <value xml:space="preserve">{0} volgt u nu</value>
+  </data>
+  <data name="AddFriendRequestBody.Text">
+    <value xml:space="preserve">{0} wil vrienden worden met u</value>
+  </data>
+  <data name="AddFriendRequestSubject.Text">
+    <value xml:space="preserve">{0} wil vrienden worden</value>
+  </data>
+  <data name="ApplicationUpgrades.Text">
+    <value xml:space="preserve">Applicatie Upgrades</value>
+  </data>
+  <data name="AspNetHostingPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist Full Trust.</value>
+  </data>
+  <data name="Authentication.String">
+    <value xml:space="preserve">Authenticatie</value>
+  </data>
+  <data name="BannerType.Banner.String">
+    <value xml:space="preserve">Banner</value>
+  </data>
+  <data name="BannerType.Block.String">
+    <value xml:space="preserve">Blok</value>
+  </data>
+  <data name="BannerType.Button.String">
+    <value xml:space="preserve">Knop</value>
+  </data>
+  <data name="BannerType.MicroButton.String">
+    <value xml:space="preserve">MicroKnop</value>
+  </data>
+  <data name="BannerType.Script.String">
+    <value xml:space="preserve">Script</value>
+  </data>
+  <data name="BannerType.Skyscraper.String">
+    <value xml:space="preserve">Wolkenkrabber</value>
+  </data>
+  <data name="BannerType.Text.String">
+    <value xml:space="preserve">Tekst</value>
+  </data>
+  <data name="Browse Folder.Permission">
+    <value xml:space="preserve">Bladeren door bestanden in map</value>
+  </data>
+  <data name="Can Deploy.Permission">
+    <value xml:space="preserve">Module inzetten</value>
+  </data>
+  <data name="ClearCache.Action">
+    <value xml:space="preserve">Verversen</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error">
+    <value xml:space="preserve">De ingevoerde pagina URL bevat ongeldige karakters welke niet gebruikt kunnen worden binnen een URL of ongeldig zijn voor gebruikt binnen een URL. Deze karakters zijn verwijderd. Klik op "Bijwerken" om de aangepaste URL op te slaan. &lt;br&gt; [Note: de lijst met ongeldige tekens is als volgt: &lt;&gt;\?:&amp;=+|%#]</value>
+  </data>
+  <data name="DeleteModule.Action">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="DeLocalize.Action">
+    <value xml:space="preserve">Vertaling ongedaan maken</value>
+  </data>
+  <data name="DraggingHintText.Text">
+    <value xml:space="preserve">Beweeg de muis over de drop zone.</value>
+  </data>
+  <data name="DragModuleHint.Text">
+    <value xml:space="preserve">Versleep deze module naar een nieuwe locatie</value>
+  </data>
+  <data name="DropModuleHint.Text">
+    <value xml:space="preserve">Laat de muisknop los om de module hier te plaatsen.</value>
+  </data>
+  <data name="DropModuleTarget.Text">
+    <value xml:space="preserve">Plaats module hier</value>
+  </data>
+  <data name="Edit Tab.Permission">
+    <value xml:space="preserve">Pagina bewerken</value>
+  </data>
+  <data name="Edit.Permission">
+    <value xml:space="preserve">Module bewerken</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text">
+    <value xml:space="preserve">Beste [Custom:0],
+
+Uw account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
+Gebruik de volgende URL om te linken naar onze site:
+
+[Custom:1]
+Dank u,
+
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Affiliatie bevestiging</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text">
+    <value xml:space="preserve">Banner: [Custom:0]
+Omschrijving: [Custom:1]
+Afbeelding: [Custom:2]
+CPM/Kosten: [Custom:3]
+Aantal weergaves: [Custom:4]
+Startdatum: [Custom:5]
+Einddatum: [Custom:6]
+Aantal keer bekeken: [Custom:7]
+Aantal doorkliks: [Custom:8]</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text">
+    <value xml:space="preserve">[Custom:0]</value>
+  </data>
+  <data name="EMAIL_BODY_FORMAT.Text">
+    <value xml:space="preserve">Onderwerp: {0}
+    
+{1}
+
+Gelieve deze e-mail niet te beantwoorden.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Html_Body.Text">
+    <value xml:space="preserve">&lt;h1&gt;Nieuwsbrief verzendrapport&lt;/h1&gt;
+    Verzenden gestart op: [Custom:0]&lt;br /&gt;
+    Aantal ontvangers: [Custom:1]&lt;br /&gt;
+    Email berichten: [Custom:2]&lt;br /&gt;
+    Verzenden compleet op: [Custom:3]&lt;br /&gt;
+    [Custom:4|Aantal fouten: {0}&lt;br /&gt;]
+    &lt;br /&gt;
+    Status Report: &lt;br /&gt;
+           &lt;pre&gt;[Custom:5]&lt;/pre&gt;
+    [Custom:6|&lt;hr /&gt;&lt;strong&gt;Ontvangers:&lt;/strong&gt;&lt;br /&gt;{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Subject.Text">
+    <value xml:space="preserve">Nieuwsbrief verzendrapport voor '{0}'.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Text_Body.Text">
+    <value xml:space="preserve">Verzenden gestart op:       [Custom:0]
+Aantal ontvangers:          [Custom:1]
+Email berichten:            [Custom:2]
+Verzenden compleet op:      [Custom:3]
+
+[Custom:4|Aantal fouten:    {0}
+]Status Report:
+[Custom:5]
+--------------------------------
+[Custom:6|Ontvangers:
+===========
+{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Body.Text">
+    <value xml:space="preserve">Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendcapaciteit rapport voor mislukte berichten en de afzenders inbak voor teruggekomen berichten.</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Subject.Text">
+    <value xml:space="preserve">Bulkmail '{0}' ingediend</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text">
+    <value xml:space="preserve">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+    &lt;style type="text/css"&gt;
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }        
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
+&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
+    &lt;tr&gt;
+        &lt;td align="center" valign="top"&gt;
+            &lt;!-- // Begin Template Preheader \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
+                &lt;tr align="right"&gt;
+                    &lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" &gt;
+                            &lt;tr&gt;
+                                &lt;td align="right"&gt;
+                                    &lt;p&gt;Problem viewing email? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Click here to view online.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template Preheader \\ --&gt;
+            &lt;!-- // Begin Template body \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Header \\ --&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="headerContent"&gt;
+                                    &lt;a href="[SITEURL]"&gt;
+                                        &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
+                                        &lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&gt;
+                                    &lt;/a&gt;
+
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Sub Header \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
+                                    &lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;Notifications&lt;/h2&gt;
+                                &lt;/td&gt;&lt;!--close subHeaderContent--&gt;
+                                &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
+                                    &lt;p style="color:#fff;"&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Sub Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
+                        &lt;!-- // Begin Template Body \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="bodyContent"&gt;
+                                    &lt;!-- // Begin Module: Standard Content \\ --&gt;
+                                    &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td valign="top"&gt;
+                                                [MESSAGEBODY]
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                    &lt;!-- // End Module: Standard Content \\ --&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Body \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="footerContent"&gt;
+                                    &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td align="center"&gt;
+                                                &lt;a href="[UNSUBSCRIBEURL]" &gt; Manage your Subscriptions&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;
+                                                &lt;a href="http://www.twitter.com/" &gt; Follow us on Twitter&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;
+                                                &lt;a href="http://www.facebook.com/" &gt; Become a fan on Facebook&lt;/a&gt;
+
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;&lt;!-- // End Template Body \\ --&gt;
+            &lt;!-- // Begin Template footer \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
+                &lt;tr&gt;
+                    &lt;td valign="top" class="bodyFooterContent"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;
+
+                            &lt;tr&gt;
+                                &lt;td align="center"&gt;
+                                    &lt;p&gt;Copyright 2013 &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; All rights reserved.&lt;/p&gt;
+                                    &lt;p&gt;If you wish to no longer receive emails in the future, please &lt;a href="[UNSUBSCRIBEURL]"&gt;unsubscribe&lt;/a&gt; here.&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template footer \\ --&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;!-- wrapper table --&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text">
+    <value xml:space="preserve">&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;[CONTENT]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text">
+    <value xml:space="preserve">Beste [Profile:FullName],
+
+U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
+
+Website Addres: [Portal:URL]
+Gebruikersnaam: [User:Username]
+
+Link naar wachtwoord reset pagina: http://[Portal:URL]/default.aspx?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken]
+
+Met vriendelijke groet,
+[Portal:PortalName]
+
+*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Wachtwoord opvragen</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
+    <value xml:space="preserve">Geachte [User:DisplayName]], 
+	
+	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
+	
+	Contacteer the sitebeheerder op het volgende emailadres - [Portal:Email]
+	
+	Met vriendelijke groet,[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Password bijgewerkt</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+Uw web is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+Maak alstublieft gebruik van de gelegenheid om de website nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
+
+Dank u voor het gebruik van onze diensten
+
+[Host:HostTitle]
+</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text">
+    <value xml:space="preserve">[Host:HostTitle] Aanmelding Demo Website</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text">
+    <value xml:space="preserve">Beste [Profile:FullName],
+
+Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
+
+Sincerely,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Profiel bijgewerkt</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu ook deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Ingangsdatum: [Custom:2]
+Verloopdatum: [Custom:3]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text">
+    <value xml:space="preserve">Geachte [User:DisplayName],
+
+Uw account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Datum Ingang: [Custom:2]
+Datum Verlopen: [Custom:3]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount Bijgewerkt</value>
+  </data>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text">
+    <value xml:space="preserve">[Host:HostTitle] SMTP Configuratie Test</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" lastModified="2015-01-06 14:01:16">
+    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;Ga terug&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel weergeven&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" lastModified="2015-01-06 14:01:16">
+    <value xml:space="preserve">&lt;p&gt;&lt;a href="{0}"&gt;Accepteren&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel weergeven&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SUBJECT_FORMAT.Text">
+    <value xml:space="preserve">Nieuw bericht van {0}</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text">
+    <value xml:space="preserve">Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+
+Dank U,
+
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount afgesloten</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text">
+    <value xml:space="preserve">Datum: [Date:Current]
+Voornaam: [Profile:FirstName]
+Achternaam: [Profile:LastName]
+Street: [Profile:Street]
+Huisnummer: [Profile:Unit]
+Postcode: [Profile:PostalCode]
+Plaats: [Profile:City]
+Regio/Provincie: [Profile:Region]
+Land: [Profile:Country]
+Telefoon: [Profile:Telephone]
+E-mail: [Membership:Email]
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text">
+    <value xml:space="preserve">Beste  [User:DisplayName],
+
+Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Uw accountgegevens zullen worden gecontroleerd door de website beheerder, u ontvangt een bericht als uw account geactiveerd is.
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],
+
+U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+U bent van harte welkom!
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+U kunt de volgende link gebruiken om de registratie af te ronden: 
+
+http://[Portal:URL]/default.aspx?ctl=Login&amp;username=[Membership:UserName]&amp;verificationcode=[User:VerificationCode]
+
+U bent van harte welkom!
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text">
+    <value xml:space="preserve">Datum: [Date:Current]
+Voornaam: [Profile:FirstName]
+Achternaam: [Profile:LastName]
+Street: [Profile:Street]
+Huisnummer: [Profile:Unit]
+Postcode: [Profile:PostalCode]
+Plaats: [Profile:City]
+Regio/Provincie: [Profile:Region]
+Land: [Profile:Country]
+Telefoon: [Profile:Telephone]
+E-mail: [Membership:Email]
+</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],
+
+U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
+
+Gebruik de volgende informatie om in te loggen:
+
+Website Adres: [Portal:URL]
+Naam Gebruiker :   [User:Username]
+
+Met vriendelijke groet,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Wachtwoord bijgewerkt</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text">
+    <value xml:space="preserve">Datum: [Custom:0]
+Naam Verkoper: [Custom:1]
+Voornaam: [Custom:2]
+Achternaam: [Custom:3]
+Straat: [Custom:5]
+Huisnummer: [Custom:4]
+Postcode: [Custom:9]
+Plaats: [Custom:6]
+Regio: [Custom:7]
+Land: [Custom:8]
+Telefoon: [Custom:10]
+Fax: [Custom:11]
+GSM: [Custom:12]
+E-mail: [Custom:13]
+Website: [Custom:14]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text">
+    <value xml:space="preserve">Beste [Custom:0] [Custom:1],
+
+Uw bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
+
+Dank u,
+
+[Portal.PortalName]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EnglishName.Text">
+    <value xml:space="preserve">Engelse naam</value>
+  </data>
+  <data name="Error.Text">
+    <value xml:space="preserve">Er is een fout opgetreden.</value>
+  </data>
+  <data name="ExecutingScript.Text">
+    <value xml:space="preserve">Script uitvoeren</value>
+  </data>
+  <data name="ExportModule.Action">
+    <value xml:space="preserve">Inhoud exporteren</value>
+  </data>
+  <data name="GeneralUpgrades.Text">
+    <value xml:space="preserve">Uitvoeren van algemene Upgrades</value>
+  </data>
+  <data name="ImportModule.Action">
+    <value xml:space="preserve">Inhoud importeren</value>
+  </data>
+  <data name="License.Text">
+    <value xml:space="preserve">&lt;p&gt;DotNetNuke&amp;reg; - http://www.dotnetnuke.com&lt;br /&gt;
+Copyright (c) 2002-2014&lt;br/&gt;
+    by DotNetNuke Corporation&lt;/p&gt;
+    &lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+    to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;
+    &lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+    of the Software.&lt;/p&gt;
+    &lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+    DEALINGS IN THE SOFTWARE.&lt;/p&gt;</value>
+  </data>
+  <data name="Localize.Action">
+    <value xml:space="preserve">Vertaal</value>
+  </data>
+  <data name="LogClicks.Text">
+    <value xml:space="preserve">Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
+  </data>
+  <data name="LogEnd.Text">
+    <value xml:space="preserve">Einde</value>
+  </data>
+  <data name="LogStart.Text">
+    <value xml:space="preserve">Start</value>
+  </data>
+  <data name="Manage.Text">
+    <value xml:space="preserve">Beheren</value>
+  </data>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text">
+    <value xml:space="preserve">Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+  </data>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" lastModified="2015-01-06 15:03:07">
+    <value xml:space="preserve">Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
+  </data>
+  <data name="ModuleGenericActions.Action">
+    <value xml:space="preserve">Beheer</value>
+  </data>
+  <data name="ModuleHelp.Action">
+    <value xml:space="preserve">Help</value>
+  </data>
+  <data name="ModulePermissions.Action">
+    <value xml:space="preserve">Machtigingen</value>
+  </data>
+  <data name="ModuleSettings.Action">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="ModuleSpecificActions.Action">
+    <value xml:space="preserve">Wijzigen</value>
+  </data>
+  <data name="MoveBottom.Action">
+    <value xml:space="preserve">Onderste</value>
+  </data>
+  <data name="MoveDown.Action">
+    <value xml:space="preserve">Omlaag</value>
+  </data>
+  <data name="MovePane.Action">
+    <value xml:space="preserve">Naar</value>
+  </data>
+  <data name="MoveRoot.Action">
+    <value xml:space="preserve">Verplaats</value>
+  </data>
+  <data name="MoveTop.Action">
+    <value xml:space="preserve">Bovenste</value>
+  </data>
+  <data name="MoveToPane.Action">
+    <value xml:space="preserve">Naar {0}</value>
+  </data>
+  <data name="MoveUp.Action">
+    <value xml:space="preserve">Omhoog</value>
+  </data>
+  <data name="NativeName.Text">
+    <value xml:space="preserve">Oorspronkelijke Naam</value>
+  </data>
+  <data name="NeutralCulture.Text">
+    <value xml:space="preserve">Neutrale taal</value>
+  </data>
+  <data name="NoErrorsSending.Text">
+    <value xml:space="preserve">Geen fouten opgetreden tijdens versturen</value>
+  </data>
+  <data name="NoLoginControl.Text">
+    <value xml:space="preserve">U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+  </data>
+  <data name="OnlineHelp.Action">
+    <value xml:space="preserve">Online help</value>
+  </data>
+  <data name="PortalLinks.Text">
+    <value xml:space="preserve">Portal koppelingen</value>
+  </data>
+  <data name="PrintModule.Action">
+    <value xml:space="preserve">Afdrukken</value>
+  </data>
+  <data name="PurgeCacheUnsupported.Text">
+    <value xml:space="preserve">Deze caching provider gebruikt the PurgeCache functionaliteit niet</value>
+  </data>
+  <data name="ReflectionPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist reflectie rechten.</value>
+  </data>
+  <data name="Relationship_Added.Text">
+    <value xml:space="preserve">Heeft relatie toegevoegd {0}</value>
+  </data>
+  <data name="Relationship_Deleted.Text">
+    <value xml:space="preserve">Heeft relatie verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="Relationship_Updated.Text">
+    <value xml:space="preserve">Geüpdate Relatie {0}</value>
+  </data>
+  <data name="RelationshipType_Added.Text">
+    <value xml:space="preserve">RelatieType Toegevoegd {0}</value>
+  </data>
+  <data name="RelationshipType_Deleted.Text">
+    <value xml:space="preserve">RelatieType Verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="RelationshipType_Updated.Text">
+    <value xml:space="preserve">Geüpdate RelatieType {0}</value>
+  </data>
+  <data name="Return.Text">
+    <value xml:space="preserve">Terug naar website</value>
+  </data>
+  <data name="SearchCrawler Admin.String">
+    <value xml:space="preserve">Zoekmachine beheer</value>
+  </data>
+  <data name="SkinLoadError.Text">
+    <value xml:space="preserve">Skin {0}, kan niet worden geladen. Fout: {1}&lt;br /&gt;</value>
+  </data>
+  <data name="SyndicateModule.Action">
+    <value xml:space="preserve">Syndicatie</value>
+  </data>
+  <data name="TokenReplaceRestrictedProperty.Text">
+    <value xml:space="preserve">Fout bij toegang tot  [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
+  </data>
+  <data name="TokenReplaceUnknownObject.Text">
+    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
+  </data>
+  <data name="TokenReplaceUnknownProperty.Text">
+    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
+  </data>
+  <data name="TrackClicks.Text">
+    <value xml:space="preserve">Het aantal keer dat link is aangeklikt bijhouden </value>
+  </data>
+  <data name="Translate.Action">
+    <value xml:space="preserve">Markeer als vertaald</value>
+  </data>
+  <data name="UnhandledError.Text">
+    <value xml:space="preserve">Er is een niet afgehandelde fout opgetreden.</value>
+  </data>
+  <data name="UnTranslate.Action">
+    <value xml:space="preserve">Markeer als niet vertaald</value>
+  </data>
+  <data name="UrlPathNotUnique.Error">
+    <value xml:space="preserve">De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+  </data>
+  <data name="UserRelationship_Added.Text">
+    <value xml:space="preserve">Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Deleted.Text">
+    <value xml:space="preserve">Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Updated.Text">
+    <value xml:space="preserve">Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Added.Text">
+    <value xml:space="preserve">Toegevoegd UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Deleted.Text">
+    <value xml:space="preserve">Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Updated.Text">
+    <value xml:space="preserve">Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="View Folder.Permission">
+    <value xml:space="preserve">Open bestanden in map</value>
+  </data>
+  <data name="View Tab.Permission">
+    <value xml:space="preserve">Pagina Weergave</value>
+  </data>
+  <data name="View.Permission">
+    <value xml:space="preserve">Module bekijken</value>
+  </data>
+  <data name="ViewSource.Action">
+    <value xml:space="preserve">Broncode bekijken</value>
+  </data>
+  <data name="WebPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist web rechten.</value>
+  </data>
+  <data name="Write to Folder.Permission">
+    <value xml:space="preserve">Schrijf bestanden in map</value>
+  </data>
+</root>

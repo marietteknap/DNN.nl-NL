@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Actions.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Akties</value>
+  </data>
+  <data name="AddStopWords.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Word toevoegen</value>
+  </data>
+  <data name="AddSynonymsGroup.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Synoniemen groep toevoegen</value>
+  </data>
+  <data name="btnReIndex.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Content her-indexeren</value>
+  </data>
+  <data name="ControlTitle_.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Zoek admin</value>
+  </data>
+  <data name="DefaultStopwordGroup.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">en,zijn,maar,voor,in,niet,zoals,dat,het,hun,daar,deze,zij,dit,was,zal,met</value>
+  </data>
+  <data name="DefaultSynonymGroup.Text">
+    <value xml:space="preserve">dnn,dotnetnuke</value>
+  </data>
+  <data name="General.Text" lastModified="2015-01-12 11:29:32">
+    <value xml:space="preserve">Algemeen</value>
+  </data>
+  <data name="introIgnoreWords.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Bij het uitvoeren van een zoekactie wilt u bepaalde woorden vermijden omdat deze de uitkomst van de zoekresultaten nadelig kunnen beinvloeden. Deze functie geeft u de mogelijkheid om woorden toe te voegen die tijdens het uitvoeren van een zoekaktie zullen worden genegeerd.</value>
+  </data>
+  <data name="introSynonyms.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Vaak weet u niet precies wat u zoekt op het moment dat u een zoekactie uitvoerd. Soms gebruiken we synoniemen in de hoop dat we de gewenste term tegenkomen. Deze functie geeft u de mogelijkheid om deze synoniemen aan te maken tussen termen.</value>
+  </data>
+  <data name="lblStopwordsCultureList.Help" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Selecteer een taal voor de genegeerde zoekworden</value>
+  </data>
+  <data name="lblStopwordsCultureList.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Selecteer taal:</value>
+  </data>
+  <data name="lblSynonymsCultureList.Help" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Selecteer een taal voor de synoniemengroep</value>
+  </data>
+  <data name="lblSynonymsCultureList.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Selecteer taal:</value>
+  </data>
+  <data name="MessageReIndexWarning.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">&lt;div align="left"&gt;
+        &lt;p&gt;&lt;b&gt;Her-indexering&lt;/b&gt; Verwijderd de bestande inhoud van de index database en voert een complete her-indexering uit.&lt;br/&gt;
+        Een her-indexering wordt uitgevoerd als onderdeel van de geplande taak van de search crawler(s). &lt;br/&gt;De search crawler(s) Dient handmatig onder Host te worden uitgevoerd &gt; Plaats her-indexering direct in uitvoeringsschema. De her-indexering wordt alleen voor de huidige site uitgevoerd.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Waarschuwing&lt;/b&gt; - Deze handeling dient te worden uitgevoerd buiten de spitsuren gezien het proces CPU intensief kan zijn.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ModifiedBy.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Aangepast door</value>
+  </data>
+  <data name="ModifiedOn.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Aangepast op</value>
+  </data>
+  <data name="NoStopWords.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Er zijn geen woorden gevonden die moeten worden genegeerd binnen het door u geselecteerde portaal/taal instelling.</value>
+  </data>
+  <data name="ReIndexConfirmationCancel.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="ReIndexConfirmationMessage.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Een her-indexering heeft als gevolg dat bestaande inhoud uit de index database wordt verwijderd. Een her-indexering wordt uitgevoerd door search crawler(s) en zijn afhankelijk van de frequentie waarin zijn worden uitgevoerd. Weet u zeker dat u door wilt gaan?</value>
+  </data>
+  <data name="ReIndexConfirmationTitle.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Bevestig her-indexering</value>
+  </data>
+  <data name="ReIndexConfirmationYes.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Doorgaan</value>
+  </data>
+  <data name="StopWords.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Te negeren worden</value>
+  </data>
+  <data name="Synonyms.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Synoniemen</value>
+  </data>
+  <data name="SynonymsTagDuplicated.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Wordt al gebruikt in een andere synoniemengroep</value>
+  </data>
+  <data name="SynonymsTagRequired.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Er is tenminste één synoniemen label vereist</value>
+  </data>
+  <data name="SynonymsTags.Text" lastModified="2015-01-12 12:51:26">
+    <value xml:space="preserve">Synoniemen labels</value>
+  </data>
+</root>

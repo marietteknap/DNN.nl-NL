@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CannotDeleteContainer.ErrorMessage">
+    <value xml:space="preserve">Deze containerset kan niet worden verwijderd omdat deze momenteel wordt gebruikt</value>
+  </data>
+  <data name="CannotDeleteProvider.ErrorMessage">
+    <value xml:space="preserve">Deze provider kan niet worden verwijderd omdat deze momenteel wordt gebruikt</value>
+  </data>
+  <data name="CannotDeleteSkin.ErrorMessage" lastModified="2015-01-09 10:04:26">
+    <value xml:space="preserve">Dit thema kan niet worden verwijderd omdat deze momenteel wordt gebruikt</value>
+  </data>
+  <data name="cmdReturn.Text">
+    <value xml:space="preserve">Terug</value>
+  </data>
+  <data name="cmdUninstall.Text">
+    <value xml:space="preserve">Extensie Verwijderen</value>
+  </data>
+  <data name="ControlTitle_uninstall.Text">
+    <value xml:space="preserve">Extensie Verwijderen</value>
+  </data>
+  <data name="LogTitle.Text">
+    <value xml:space="preserve">Logbestand Extensie Verwijderen</value>
+  </data>
+  <data name="ModuleHelp.Text" lastModified="2015-01-09 10:04:26">
+    <value xml:space="preserve">&lt;h1&gt; Over Extensie Verwijderen&lt;/h1&gt;&lt;p&gt;Hiermee kunt u extensies verwijderen.&lt;/p&gt;      </value>
+  </data>
+  <data name="plDelete.Help">
+    <value xml:space="preserve">Schakel dit vakje om de bestanden geassocieerd met deze extensie te verwijderen</value>
+  </data>
+  <data name="plDelete.Text">
+    <value xml:space="preserve">Bestanden verwijderen?</value>
+  </data>
+</root>

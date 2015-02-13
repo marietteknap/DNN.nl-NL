@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdDeleteModule.Text">
+    <value xml:space="preserve">De module permanent verwijderen</value>
+  </data>
+  <data name="cmdRestoreModule.Text">
+    <value xml:space="preserve">Herstel deze module op de pagina</value>
+  </data>
+  <data name="CopyModule.Text">
+    <value xml:space="preserve">Module kopiëren</value>
+  </data>
+  <data name="Default.Text">
+    <value xml:space="preserve">[Standaard taal]</value>
+  </data>
+  <data name="Delete.Header">
+    <value xml:space="preserve">Verwijder deze vertaalde pagina</value>
+  </data>
+  <data name="DeleteTranslation.Confirm">
+    <value xml:space="preserve">U staat op het punt om de vertalingen permanent te &lt;b&gt;Verwijderen&lt;/b&gt; van de '&lt;b&gt;{0}&lt;/b&gt;' vertaling van deze pagina. Weet u dit zeker?</value>
+  </data>
+  <data name="Detached.Header">
+    <value xml:space="preserve">Ontkoppeld? Klik hier om alle modules te koppelen/ontkoppelen. </value>
+  </data>
+  <data name="Detached.Text">
+    <value xml:space="preserve">Ontkoppeld {0}</value>
+  </data>
+  <data name="ModuleColHeader.Text">
+    <value xml:space="preserve">Pagina modules</value>
+  </data>
+  <data name="ModuleDeleted.Text">
+    <value xml:space="preserve">Deze module is verwijderd en bestaat in de prullenbak.</value>
+  </data>
+  <data name="ModuleInfo.Text">
+    <value xml:space="preserve">Module: {0}&lt;br/&gt;ModuleTitel: {1}&lt;br/&gt;Pane: {2}</value>
+  </data>
+  <data name="ModuleInfoForNonAdmins.Text">
+    <value xml:space="preserve">U heeft onvoldoende rechten om de titel van deze module te mogen wijzigen</value>
+  </data>
+  <data name="ModuleTitle.Text">
+    <value xml:space="preserve">Module Titel</value>
+  </data>
+  <data name="NeutralCulture.Text">
+    <value xml:space="preserve">Neutrale Culture</value>
+  </data>
+  <data name="NotActive.Text">
+    <value xml:space="preserve">[Taal is niet actief]</value>
+  </data>
+  <data name="NotTranslated.Text">
+    <value xml:space="preserve">Niet vertaald {0}</value>
+  </data>
+  <data name="PageDescription.Text">
+    <value xml:space="preserve">Pagina beschrijving</value>
+  </data>
+  <data name="PageName.Text">
+    <value xml:space="preserve">Pagina naam</value>
+  </data>
+  <data name="PageTitle.Text">
+    <value xml:space="preserve">Pagina titel</value>
+  </data>
+  <data name="PublishedPageTooltip.Text">
+    <value xml:space="preserve">Pagina gepubliceerd?</value>
+  </data>
+  <data name="Reference.Text">
+    <value xml:space="preserve">Referentie {0} </value>
+  </data>
+  <data name="ReferenceDefault.Text">
+    <value xml:space="preserve">Referentie standaard taal {0}</value>
+  </data>
+  <data name="Settings.Header">
+    <value xml:space="preserve">Pagina instellingen</value>
+  </data>
+  <data name="Translated.Header">
+    <value xml:space="preserve">Vertaald? Klik hier om alle modules te markeren als vertaald.</value>
+  </data>
+  <data name="Translated.Text">
+    <value xml:space="preserve">Vertaald {0}</value>
+  </data>
+  <data name="TranslatedPageTooltip.Text">
+    <value xml:space="preserve">Pagina is vertaald?</value>
+  </data>
+  <data name="View.Header">
+    <value xml:space="preserve">Pagina weergeven</value>
+  </data>
+</root>

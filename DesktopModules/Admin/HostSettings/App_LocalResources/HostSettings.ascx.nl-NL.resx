@@ -1,0 +1,1136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="15Seconds.Text">
+    <value xml:space="preserve">15 seconden</value>
+  </data>
+  <data name="30Seconds.Text">
+    <value xml:space="preserve">30 seconden</value>
+  </data>
+  <data name="45Seconds.Text">
+    <value xml:space="preserve">45 seconden</value>
+  </data>
+  <data name="60Seconds.Text">
+    <value xml:space="preserve">60 seconden</value>
+  </data>
+  <data name="AdvancedSettings.Text">
+    <value xml:space="preserve">Geavanceerde Instellingen</value>
+  </data>
+  <data name="AdvancedSettingsHelp.Text">
+    <value xml:space="preserve">Geavanceerde instellingen voor uw SuperUser account bekijken en wijzigen</value>
+  </data>
+  <data name="AlwaysUse.Text">
+    <value xml:space="preserve">Alle URL's.</value>
+  </data>
+  <data name="Appearance.Text">
+    <value xml:space="preserve">Uiterlijk</value>
+  </data>
+  <data name="Authentication.Text">
+    <value xml:space="preserve">Authenticatie instellingen</value>
+  </data>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Basis Instellingen</value>
+  </data>
+  <data name="BasicSettingsHelp.Text">
+    <value xml:space="preserve">Basis instellingen voor uw SuperUser account bekijken en wijzigen</value>
+  </data>
+  <data name="btnCompactSearchIndex.Text">
+    <value xml:space="preserve">Compacte index</value>
+  </data>
+  <data name="btnHostSearchReindex.Text">
+    <value xml:space="preserve">Her indexeer host inhoud</value>
+  </data>
+  <data name="CdnSettings.Text">
+    <value xml:space="preserve">CDN Instellingen</value>
+  </data>
+  <data name="CharacterSubListLabel.Help">
+    <value xml:space="preserve">Selecteer de karakters die worden gebruikt bij het aaneenschakelen van URL's.</value>
+  </data>
+  <data name="CharacterSubListLabel.Text">
+    <value xml:space="preserve">Karakters:</value>
+  </data>
+  <data name="ClearCache.Text">
+    <value xml:space="preserve">Cache legen</value>
+  </data>
+  <data name="ClientResourceManagement.Text">
+    <value xml:space="preserve">Client resourcemanagement</value>
+  </data>
+  <data name="cmdRestart.Text">
+    <value xml:space="preserve">Applicatie herstarten</value>
+  </data>
+  <data name="CompactIndexConfirmationCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="CompactIndexConfirmationMessage.Text">
+    <value xml:space="preserve">Een compacte index kan veel CPU kracht vragen en kan tot twee keer zo groot worden als de huidige index voor verwerking. Het comprimeren wordt gedaan door de site zoek crawler en is afhankelijk dan de schema planning van dit proces. Weet u zeker dat u deze instellingen wilt doorvoeren?</value>
+  </data>
+  <data name="CompactIndexConfirmationTitle.Text">
+    <value xml:space="preserve">Bevestig compressie</value>
+  </data>
+  <data name="CompactIndexConfirmationYes.Text">
+    <value xml:space="preserve">Doorgaan</value>
+  </data>
+  <data name="Configuration.Text">
+    <value xml:space="preserve">Configuratie</value>
+  </data>
+  <data name="ConnectionLimitValidation.Text">
+    <value xml:space="preserve">Alleen getallen van 1 tot 2147483647!</value>
+  </data>
+  <data name="ContainerUpload.Text">
+    <value xml:space="preserve">Container uploaden</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Instellingen voor SuperUser</value>
+  </data>
+  <data name="CrmIncrementCrmVersionButton.Text">
+    <value xml:space="preserve">Increment versie</value>
+  </data>
+  <data name="Database.Text">
+    <value xml:space="preserve">Database</value>
+  </data>
+  <data name="DebugEnabled.Text">
+    <value xml:space="preserve">Debug modus is ingeschakeld op het niveau van de toepassing (dit is opgegeven in het bestand web.config). Dit betekent dat bestanden niet worden samengevoegd, zelfs als bestand combineren hier of op het niveau van de host is ingeschakeld.</value>
+  </data>
+  <data name="DebugEnabled.Title">
+    <value xml:space="preserve">Belangrijke opmerking met betrekking tot de toepassing debug-modus</value>
+  </data>
+  <data name="Disk.Text">
+    <value xml:space="preserve">Schijf</value>
+  </data>
+  <data name="EditSkinPreview.Text" lastModified="2015-01-09 09:13:19">
+    <value xml:space="preserve">Voorbeeld bewerken van het Thema en Container</value>
+  </data>
+  <data name="EmailErrorMessage.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het verzenden van de testmail. De foutmelding is:&lt;br /&gt;{0}</value>
+  </data>
+  <data name="EmailSentMessage.Text">
+    <value xml:space="preserve">E-mail succesvol verzonden from {0} to {0}</value>
+  </data>
+  <data name="EmailTest.Text">
+    <value xml:space="preserve">Test SMTP-instellingen</value>
+  </data>
+  <data name="EmptyString.Text">
+    <value xml:space="preserve">&lt;&lt;Lege string&gt;&gt;</value>
+  </data>
+  <data name="ExtensionLabel.Help">
+    <value xml:space="preserve">Voer de extensie in, inclusief de periode prefix. De standaard extensie is .aspx.</value>
+  </data>
+  <data name="ExtensionLabel.Text">
+    <value xml:space="preserve">Te gebruiken extensies (standaard is .aspx):</value>
+  </data>
+  <data name="FileSystem.Text">
+    <value xml:space="preserve">Bestandssysteem</value>
+  </data>
+  <data name="FrameworkDownLevel.Text">
+    <value xml:space="preserve">Let op: U draait een oudere versie van het .NET Framework. Het DotNetNuke platform vereisen het .NET Framework versie 4.0 of hoger. </value>
+  </data>
+  <data name="FriendlyUrl.Text">
+    <value xml:space="preserve">Instellingen voor Vriendelijke URL's</value>
+  </data>
+  <data name="HeavyCaching.Text">
+    <value xml:space="preserve">Veel cache</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">SuperUser</value>
+  </data>
+  <data name="HostDetails.Text">
+    <value xml:space="preserve">Details voor SuperUser</value>
+  </data>
+  <data name="HostEmail.Error">
+    <value xml:space="preserve">E-mailadres is ongeldig</value>
+  </data>
+  <data name="Html5Doctype.Text">
+    <value xml:space="preserve">HTML 5</value>
+  </data>
+  <data name="IncrementCrmVersionButton.Text">
+    <value xml:space="preserve">Increment Site versie</value>
+  </data>
+  <data name="IncrementCrmVersionConfirm.Text">
+    <value xml:space="preserve">&lt;p&gt;Deze actie zal alle bezoekers van de site dwingen een nieuwe versies van CSS en JavaScript-bestanden te downloaden. U moet dit alleen doen als u zeker weet dat de bestanden zijn gewijzigd en er zeker van wilt zijn dat wijzigingen worden weergegeven op de browser van de client.&lt;/p&gt;&lt;p&gt;Weet u zeker dat u het versienummer voor uw site wilt verhogen?&lt;/p&gt;</value>
+  </data>
+  <data name="IncrementCrmVersionError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het verhogen van de Client Resource versie.</value>
+  </data>
+  <data name="IPFilters.Text">
+    <value xml:space="preserve">Login IP filters</value>
+  </data>
+  <data name="IPFiltersDisabled.Text">
+    <value xml:space="preserve">Login IP filtering is op dit moment uitgeschakeld. Als u deze wilt activeren vink dan de optie "Activeer IP controle" aan onder lidmaatschap beheer.</value>
+  </data>
+  <data name="IPFiltersDisabled.Title">
+    <value xml:space="preserve">Belangrijke notitie aangaande IP Filtering</value>
+  </data>
+  <data name="IPFiltersInfo.Text">
+    <value xml:space="preserve">Bij het toevoegen van IP adressen aan het IP filter, Kunnen gebruikers niet kun eigen IP adres toegevoegen waardoor zij zichzelf zouden kunnen uitsluiten.</value>
+  </data>
+  <data name="IPFiltersInfo.Title">
+    <value xml:space="preserve">Belangrijke notitie aangaande IP filtering instellingen</value>
+  </data>
+  <data name="Items.Text">
+    <value xml:space="preserve">Items </value>
+  </data>
+  <data name="JQuery.Text">
+    <value xml:space="preserve">jQuery-instellingen</value>
+  </data>
+  <data name="lblCustomAnalyzer.Help">
+    <value xml:space="preserve">&lt;p&gt;Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om inhoud te indexeren . Als u een aangepaste  analyzer wilt gebruiken, Type dan de volledige naam in van de analyzer class in dit veld.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Opmerking: &lt;/b&gt;als je wilt dat bestaande content wordt geindexeerd met de aangepaste analyzer, Ga dan naar "Admin &gt; zoek beheer" binnen iedere website die u wilt herindexeren en klik op de  "Herindexeren van inhoud" knop.&lt;/p&gt; </value>
+  </data>
+  <data name="lblCustomAnalyzer.Text">
+    <value xml:space="preserve">Aangepaste analyser type:</value>
+  </data>
+  <data name="lblGetMoreInformation.Text">
+    <value xml:space="preserve">Meer informatie</value>
+  </data>
+  <data name="lblIndexWordMaxLength.Help">
+    <value xml:space="preserve">Vul de maximale woordlengte in die zal worden meegenomen in de index.</value>
+  </data>
+  <data name="lblIndexWordMaxLength.Text">
+    <value xml:space="preserve">Maximale woordlengte:</value>
+  </data>
+  <data name="lblIndexWordMinLength.Help">
+    <value xml:space="preserve">Vul de minimale woordlengte in die zal worden meegenomen in de index.</value>
+  </data>
+  <data name="lblIndexWordMinLength.Text">
+    <value xml:space="preserve">Minimale woordlengte:</value>
+  </data>
+  <data name="lblSearchIndexActiveDocuments.Help">
+    <value xml:space="preserve">Het aantal actieve documenten in de bestandsindex zoekfunctie</value>
+  </data>
+  <data name="lblSearchIndexActiveDocuments.Text">
+    <value xml:space="preserve">Actieve documenten:</value>
+  </data>
+  <data name="lblSearchIndexDbSize.Help">
+    <value xml:space="preserve">Het totaal aantal zoekindex database bestanden.</value>
+  </data>
+  <data name="lblSearchIndexDbSize.Text">
+    <value xml:space="preserve">Zoekindex grote:</value>
+  </data>
+  <data name="lblSearchIndexDeletedDocuments.Help">
+    <value xml:space="preserve">Het aantal verwijderde documenten in de zoekindex bestanden. </value>
+  </data>
+  <data name="lblSearchIndexDeletedDocuments.Text">
+    <value xml:space="preserve">Verwijderde documenten:</value>
+  </data>
+  <data name="lblSearchIndexLastModifiedOn.Help">
+    <value xml:space="preserve">De laatste modificatie datum van de zoekindex bestanden</value>
+  </data>
+  <data name="lblSearchIndexLastModifiedOn.Text">
+    <value xml:space="preserve">Laatste modificatie op:</value>
+  </data>
+  <data name="lblSearchIndexPath.Help">
+    <value xml:space="preserve">De locatie waar de zoekindex is opgeslagen. Deze locatie kan handmatig worden aangepast door een host setting "zoek_indexfolder" aan te maken in de database. Het wordt aangeraden de applicatiepool eerste te stoppen alvorens deze aanpassing door te voeren. De inhoud van oude mappen moet handmatig worden gekopieerd naar de nieuwe locatie ook moet er handmatig een her indexering worden uitgevoerd.</value>
+  </data>
+  <data name="lblSearchIndexPath.Text">
+    <value xml:space="preserve">Zoekindex pad:</value>
+  </data>
+  <data name="LegacyDoctype.Text">
+    <value xml:space="preserve">HTML 4 (legacy)</value>
+  </data>
+  <data name="LightCaching.Text">
+    <value xml:space="preserve">Weinig cache</value>
+  </data>
+  <data name="LogEmpty.Text">
+    <value xml:space="preserve">Het logbestand voor de geselecteerde versie is leeg. In het algemeen betekent dit dat het betreffende script succesvol uitgevoerd is</value>
+  </data>
+  <data name="LogLocations.Text">
+    <value xml:space="preserve">Log locaties</value>
+  </data>
+  <data name="LogSettings.Text">
+    <value xml:space="preserve">Log bestanden</value>
+  </data>
+  <data name="LogSettingsHelp.Text">
+    <value xml:space="preserve">Geef installatie en andere logs weer</value>
+  </data>
+  <data name="MaxIdleTimeValidation.Text">
+    <value xml:space="preserve">Alleen getallen van 1 tot 2147483647!</value>
+  </data>
+  <data name="maxUploadSize.Error">
+    <value xml:space="preserve">Maximale upload afmeting moet tussen 12 en {0} liggen. </value>
+  </data>
+  <data name="Mb.Text">
+    <value xml:space="preserve">Mb</value>
+  </data>
+  <data name="MembershipManagement.Text">
+    <value xml:space="preserve">Lidmaatschap beheer</value>
+  </data>
+  <data name="Memory.Text">
+    <value xml:space="preserve">Geheugen</value>
+  </data>
+  <data name="MessageIndexWarning.Text">
+    <value xml:space="preserve">&lt;b&gt;Comprimeren&lt;/b&gt; van de index neemt ruimte terug van verwijderde items in de index store. Comprimeren is alleen nodig als er veel "verwijderde Documenten" aanwezig zijn in de index store. Tijdens het compressie proces kan de grootte verdubbeld worden dit wordt later weer verwijderd.
+&lt;b&gt;Her-indexering&lt;/b&gt; Heeft alleen invloed op host pagina's. Tijdens een Her-index wordt alle bestaande inhoud van de index verwijderd en zal deze volledig opnieuw worden opgebouwd.
+Zowel het comprimeren als het her-indexeren worden uitgevoerd door de Site Search Crawler geplande taak.
+
+&lt;b&gt;Waarschuwing&lt;/b&gt; - Comprimeren en her-indexeren moet niet worden uitgevoerd tijdens drukke bezoek momenten omdat dit proces CPU intensief kan zijn en de snelheid van de website kan beinvloeden.</value>
+  </data>
+  <data name="MinificationSettingsInfo.Text">
+    <value xml:space="preserve">Als minificatie-instellingen worden gewijzigd wanneer samengestelde bestanden zijn ingeschakeld, moet u eerst de minificatie instellingen opslaan door op bijwerken te klikken en vervolgens het versienummer verhogen. Dit zal nieuwe samengestelde bestanden met behulp van de nieuwe minificatie-instellingen genereren.</value>
+  </data>
+  <data name="MinificationSettingsInfo.Title">
+    <value xml:space="preserve">Belangrijke opmerking met betrekking tot de minification instellingen</value>
+  </data>
+  <data name="ModerateCaching.Text">
+    <value xml:space="preserve">Middelmatig cache</value>
+  </data>
+  <data name="ModuleCacheProvider.Help">
+    <value xml:space="preserve">Selecteer de standaard module caching provider. Deze instelling kan door elke afzonderlijke module worden overschreven.</value>
+  </data>
+  <data name="ModuleCacheProvider.Text">
+    <value xml:space="preserve">Module Cache Provider</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;div align="left"&gt;&lt;h1&gt;Over de Applicatie-Instellingen&lt;/h1&gt;&lt;p&gt;De SuperUser can configuratie-instellingen beheren die van toepassing 
+zijn op de gehele applicatie.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="Never.Text">
+    <value xml:space="preserve">Nooit</value>
+  </data>
+  <data name="NoCache.Text">
+    <value xml:space="preserve">GeenCache</value>
+  </data>
+  <data name="NoCaching.Text">
+    <value xml:space="preserve">NoCaching</value>
+  </data>
+  <data name="NoLog.Text">
+    <value xml:space="preserve">Voor de geselecteerde versie bestaat geen logfile. In het algemeen betekent dit dat het script nooit uitgevoerd is.</value>
+  </data>
+  <data name="NoPermissions.Text">
+    <value xml:space="preserve">Geen Machtigingen</value>
+  </data>
+  <data name="Other.Text">
+    <value xml:space="preserve">Andere instellingen</value>
+  </data>
+  <data name="OtherSettings.Text">
+    <value xml:space="preserve">Overige instellingen</value>
+  </data>
+  <data name="Page.Text">
+    <value xml:space="preserve">Pagina</value>
+  </data>
+  <data name="PageCacheProvider.Help">
+    <value xml:space="preserve">Selecteer de standaard pagina Caching Provider. De caching leverancier moet worden ingeschakeld door het vaststellen van de cache time-out op elke pagina.</value>
+  </data>
+  <data name="PageCacheProvider.Text">
+    <value xml:space="preserve">Pagina Output Cache Provider</value>
+  </data>
+  <data name="PageOnly.Text">
+    <value xml:space="preserve">Alleen pagina's zonder query string.</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiry.Help">
+    <value xml:space="preserve">Het aantal dagen voordat een gebruiker zijn wachtwoord moet wijzigen (waarde van 0 betekend dat het wachtwoord nooit verloopt)</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiry.Text">
+    <value xml:space="preserve">Wachtwoord verloopt (in dagen):</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiryReminder.Help">
+    <value xml:space="preserve">Het aantal dagen waarop de gebruiker wordt gewaarschuwt dat hun wachtwoord binnekort zal verlopen.</value>
+  </data>
+  <data name="PasswordConfig_PasswordExpiryReminder.Text">
+    <value xml:space="preserve">Wachtwoord verlopen herinnering (in dagen):</value>
+  </data>
+  <data name="Payment.Text">
+    <value xml:space="preserve">Betalingsinstellingen</value>
+  </data>
+  <data name="Performance.Text">
+    <value xml:space="preserve">Prestatie Instellingen</value>
+  </data>
+  <data name="plAdminContainer.Help">
+    <value xml:space="preserve">Kies een standaard container die gebruikt moet worden tijdens beheer van modules en pagina's</value>
+  </data>
+  <data name="plAdminContainer.Text">
+    <value xml:space="preserve">Container voor beheer:</value>
+  </data>
+  <data name="plAdminResetLinkValidity.Help">
+    <value xml:space="preserve">Administrator reset links zijn alleen gelding voor (in minuten).</value>
+  </data>
+  <data name="plAdminResetLinkValidity.Text">
+    <value xml:space="preserve">Administrator reset link timeout (minuten)</value>
+  </data>
+  <data name="plAdminSkin.Help" lastModified="2015-01-09 10:16:01">
+    <value xml:space="preserve">Kies het standaard thema die gebruikt moet worden tijdens beheer van modules en pagina's</value>
+  </data>
+  <data name="plAdminSkin.Text" lastModified="2015-01-09 10:16:01">
+    <value xml:space="preserve">Thema voor beheer:</value>
+  </data>
+  <data name="plAJAX.Help">
+    <value xml:space="preserve">Deze box aanvinken om AJAX ondersteuning in te schakelen.</value>
+  </data>
+  <data name="plAJAX.Text">
+    <value xml:space="preserve">Inschakelen AJAX?</value>
+  </data>
+  <data name="plApplicationMapPath.Help">
+    <value xml:space="preserve">De fysieke locatie van de beginmap (&lt;i&gt;root&lt;/i&gt;) op de server.</value>
+  </data>
+  <data name="plApplicationMapPath.Text">
+    <value xml:space="preserve">Fysiek pad:</value>
+  </data>
+  <data name="plApplicationPath.Help">
+    <value xml:space="preserve">De relatieve locatie van de applicatie ten opzichte van de beginmap (&lt;i&gt;root&lt;/i&gt;) van de site.</value>
+  </data>
+  <data name="plApplicationPath.Text">
+    <value xml:space="preserve">Relatief pad:</value>
+  </data>
+  <data name="plAsyncTimeout.Help">
+    <value xml:space="preserve">Stel de waarde in die de tijd vertegenwoordigd, in seconden, waarna de asynchrone postback een timeout genereerd wanneer er geen response is ontvangen, de waarde dient tussen de 90 en 9999 seconden te liggen.</value>
+  </data>
+  <data name="plAsyncTimeout.Text">
+    <value xml:space="preserve">Tijd tot time out:</value>
+  </data>
+  <data name="plAutoAccountUnlock.Help">
+    <value xml:space="preserve">Nadat een account afgesloten is als gevolg van mislukte inlogpogingen, dan kan het account automatisch geopend worden door een succesvolle aanmeldingspoging nadat een bepaalde periode verstreken is. Geef hier het aantal minuten dat gewacht moet worden voordat een account automatisch geopend kan worden. Voer "0" in om de automatische open functie uit te zetten.</value>
+  </data>
+  <data name="plAutoAccountUnlock.Text">
+    <value xml:space="preserve">Account automatisch openen (minuten)</value>
+  </data>
+  <data name="plAutoSync.Help">
+    <value xml:space="preserve">Vink deze optie aan om het bestandssysteem automatisch te synchroniseren</value>
+  </data>
+  <data name="plAutoSync.Text">
+    <value xml:space="preserve">Autosync bestandssysteem?</value>
+  </data>
+  <data name="plAvailable.Help">
+    <value xml:space="preserve">Als deze optie is aangevinkt, wordt door middel van een icoon weergegeven of er een nieuwe versie van de applicatie beschikbaar is</value>
+  </data>
+  <data name="plAvailable.Text">
+    <value xml:space="preserve">Upgrade beschikbaar?</value>
+  </data>
+  <data name="plBatch.Help">
+    <value xml:space="preserve">Het aantal berichten dat wordt verzonden binnen de batch verzending van de berichten scheduler.</value>
+  </data>
+  <data name="plBatch.Text">
+    <value xml:space="preserve">Aantal berichten dat wordt verzonden per batch:</value>
+  </data>
+  <data name="plBetaNotice.Help">
+    <value xml:space="preserve">Deze box aanvinken om aan te geven dat de huidige versie een Beta release is.</value>
+  </data>
+  <data name="plBetaNotice.Text">
+    <value xml:space="preserve">Beta Bericht Tonen?</value>
+  </data>
+  <data name="plCache.Help">
+    <value xml:space="preserve">Stel de tijdsduur in dat objecten in de cache moeten blijven</value>
+  </data>
+  <data name="plCache.Text">
+    <value xml:space="preserve">Time-out voor cache (seconden):</value>
+  </data>
+  <data name="plCacheability.Help">
+    <value xml:space="preserve">Stelt de Cache-Control HTTP header waarde voor geauthenticeerde gebruikers in</value>
+  </data>
+  <data name="plCacheability.Text">
+    <value xml:space="preserve">Geauthenticeerde Cachebaarheid</value>
+  </data>
+  <data name="plCacheMethod.Help">
+    <value xml:space="preserve">Caching naar geheugen is het meest flexibel, en zorgt voor de hoogste prestaties. Het gebruikt echter ook de meeste systeem hulpbronnen. Caching naar schijf is zuiniger in gebruik, maar biedt geen enkele flexibiliteit</value>
+  </data>
+  <data name="plCacheMethod.Text">
+    <value xml:space="preserve">Module caching methode:</value>
+  </data>
+  <data name="plConnectionLimit.Help">
+    <value xml:space="preserve">Het maximale aantal connecties naar dit ServicePoint object. maximale waarde is 2147483647. Standaard waarde is 1.</value>
+  </data>
+  <data name="plConnectionLimit.Text">
+    <value xml:space="preserve">Connectie limiet:</value>
+  </data>
+  <data name="plContentLocalization.Help">
+    <value xml:space="preserve">Vink deze optie aan om het vertalen van website content mogelijk te maken</value>
+  </data>
+  <data name="plContentLocalization.Text">
+    <value xml:space="preserve">Content Vertaling Toestaan?</value>
+  </data>
+  <data name="plControlPanel.Help">
+    <value xml:space="preserve">U kunt ten behoeve van het beheer van pagina's een alternatief besturingselement aangeven </value>
+  </data>
+  <data name="plControlPanel.Text">
+    <value xml:space="preserve">Configuratiescherm:</value>
+  </data>
+  <data name="plCopyright.Help">
+    <value xml:space="preserve">Vink deze optie aan om de DotNetNuke copyright vermeldingen weer te geven in de site</value>
+  </data>
+  <data name="plCopyright.Text">
+    <value xml:space="preserve">Copyright vermeldingen weergeven?</value>
+  </data>
+  <data name="plCrmEnableCompositeFiles.Help">
+    <value xml:space="preserve">Samengestelde bestanden zijn combinaties van middelen (JavaScript en CSS) te verminderen van het aantal aanvragen bestand gemaakt door de browser. Dit zal de pagina laden snelheid aanzienlijk lager.</value>
+  </data>
+  <data name="plCrmEnableCompositeFiles.Text">
+    <value xml:space="preserve">Samengestelde bestanden inschakelen</value>
+  </data>
+  <data name="plCrmMinifyCss.Help">
+    <value xml:space="preserve">CSS minificatie zal de grootte van de CSS-code verkleinen met behulp van reguliere expressies om opmerkingen, spaties en "dode css" te verwijderen.  Het is alleen beschikbaar wanneer samengestelde bestanden zijn ingeschakeld.</value>
+  </data>
+  <data name="plCrmMinifyCss.Text">
+    <value xml:space="preserve">CSS minificatie</value>
+  </data>
+  <data name="plCrmMinifyJs.Help">
+    <value xml:space="preserve">JS minificatie zal de grootte van de JavaScript-code verkleinen met behulp van JSMin. Het is alleen beschikbaar wanneer samengestelde bestanden zijn ingeschakeld.</value>
+  </data>
+  <data name="plCrmMinifyJs.Text">
+    <value xml:space="preserve">JS minificatie</value>
+  </data>
+  <data name="plCrmVersion.Help">
+    <value xml:space="preserve">Dit is het versienummer van de client resources voor uw site. Als dit versienummer verandert, zal elke gebruiker worden gedwongen om de nieuwe versie van de bestanden  te downloaden. Het wordt aanbevolen de versie alleen wanneer nodig te verhogen.</value>
+  </data>
+  <data name="plCrmVersion.Text">
+    <value xml:space="preserve">Huidige versie van de Host</value>
+  </data>
+  <data name="plDataProvider.Help">
+    <value xml:space="preserve">De naam van de standaard dataprovider zoals deze is gedefinieerd in het web.config bestand</value>
+  </data>
+  <data name="plDataProvider.Text">
+    <value xml:space="preserve">Data Provider:</value>
+  </data>
+  <data name="plDebugMode.Help">
+    <value xml:space="preserve">Als deze optie is aangevinkt wordt de installatie in "debug mode" uitgevoerd, Dit houdt in dat diverse onderdelen van de applicatie uitgebreide error logs wegschrijven. Dit kan tot een verminderde performance leiden.</value>
+  </data>
+  <data name="plDebugMode.Text">
+    <value xml:space="preserve">Debug mode</value>
+  </data>
+  <data name="plDemoPeriod.Help">
+    <value xml:space="preserve">Geef het aantal dagen aan voor een demo/test account</value>
+  </data>
+  <data name="plDemoPeriod.Text">
+    <value xml:space="preserve">Demo periode (dagen):</value>
+  </data>
+  <data name="plDemoSignup.Help">
+    <value xml:space="preserve">Vink aan als u wilt dat gebruikers zich kunnen aanmelden voor een demo</value>
+  </data>
+  <data name="plDemoSignup.Text">
+    <value xml:space="preserve">Anonieme demo aanmelding?</value>
+  </data>
+  <data name="plebFarm.Text">
+    <value xml:space="preserve">Web Farm Ingeschakeld?</value>
+  </data>
+  <data name="plEnableBannedList.Help">
+    <value xml:space="preserve">Kies of wachtwoorden worden gecontroleerd tegenover de lijst met verboden onderdelen.</value>
+  </data>
+  <data name="plEnableBannedList.Text">
+    <value xml:space="preserve">Activeer verboden wachtwoorden lijst</value>
+  </data>
+  <data name="plEnableCDN.Help">
+    <value xml:space="preserve">Als deze optie is aangevinkt dan zullen de gekoppelde URL's worden gebruikt voor JavaScript bibliotheken. Als deze optie niet staat aangevinkt zullen de locale versies van de JavaScript bibliotheken worden gebruikt.</value>
+  </data>
+  <data name="plEnableCDN.Text">
+    <value xml:space="preserve">Gebruik maken van JavaScript bibliotheken CDN?</value>
+  </data>
+  <data name="plEnableContentLocalization.Help">
+    <value xml:space="preserve">Deze boks aanvinken om site beheerders toe te staan om content vertaling voor hun site in te laten schakelen</value>
+  </data>
+  <data name="plEnableContentLocalization.Text">
+    <value xml:space="preserve">Content Vertaling Toestaan?</value>
+  </data>
+  <data name="plEnableHelp.Help">
+    <value xml:space="preserve">U kunt de faciliteit voor Online Hulp aan- of uitzetten. Als deze aanstaat, dan moet u een Help Url opgeven in de module definitie. Het is mogelijk dat de ontwikkelaar van de module hier reeds voor heeft gezorgd.</value>
+  </data>
+  <data name="plEnableHelp.Text">
+    <value xml:space="preserve">Module Online Help toestaan:</value>
+  </data>
+  <data name="plEnableIPChecking.Help">
+    <value xml:space="preserve">Stel in of het IP adres wordt gecontroleerd tijdens de login</value>
+  </data>
+  <data name="plEnableIPChecking.Text">
+    <value xml:space="preserve">Activeer de IP adres controle</value>
+  </data>
+  <data name="plEnablePasswordHistory.Help">
+    <value xml:space="preserve">Stel in of er een lijst met recentelijk gebruikte wachtwoorden wordt bijgehouden en dat deze lijst moet worden gecontroleerd om te voorkomen dat wachtwoorden worden hergebruikt.</value>
+  </data>
+  <data name="plEnablePasswordHistory.Text">
+    <value xml:space="preserve">Wachtwoord historie inschakelen?</value>
+  </data>
+  <data name="plEnableRequestFilters.Help">
+    <value xml:space="preserve">Vink deze optie aan om verzoekfilters te activeren</value>
+  </data>
+  <data name="plEnableRequestFilters.Text">
+    <value xml:space="preserve">Verzoekfilters activeren?</value>
+  </data>
+  <data name="plEnableStrengthMeter.Help">
+    <value xml:space="preserve">Selecteer of de wachtwoord sterktemeter worden weergegeven in het registratie scherm</value>
+  </data>
+  <data name="plEnableStrengthMeter.Text">
+    <value xml:space="preserve">Activeer wachtwoord sterktemeter</value>
+  </data>
+  <data name="plExcludedPaths.Help">
+    <value xml:space="preserve">Geef een lijst op van de uitgesloten paden</value>
+  </data>
+  <data name="plExcludedPaths.Text">
+    <value xml:space="preserve">Uitgesloten Paden:</value>
+  </data>
+  <data name="plFileExtensions.Help">
+    <value xml:space="preserve">Geef aan welke bestand extensies toegestaan zijn (gescheiden door komma's) bij uploaden</value>
+  </data>
+  <data name="plFileExtensions.Text">
+    <value xml:space="preserve">Toegestane upload formaten:</value>
+  </data>
+  <data name="plFramework.Help">
+    <value xml:space="preserve">De versie van het .NET Framework die actief is voor deze toepassing - dit is een instelling van IIS</value>
+  </data>
+  <data name="plFramework.Text">
+    <value xml:space="preserve">.NET Framework: </value>
+  </data>
+  <data name="plGUID.Help">
+    <value xml:space="preserve">The &lt;b&gt;G&lt;/b&gt;lobally &lt;b&gt;U&lt;/b&gt;nique &lt;b&gt;ID&lt;/b&gt;entifier die gebruikt kan worden om deze applicatie te identificeren</value>
+  </data>
+  <data name="plGUID.Text">
+    <value xml:space="preserve">GUID:</value>
+  </data>
+  <data name="plHelpUrl.Help">
+    <value xml:space="preserve">Geef de URL van de Online Help die u aanbied. Als u deze url leeg laat, dan zal er géén online help worden aangeboden voor de Admin en Host onderdelen.</value>
+  </data>
+  <data name="plHelpUrl.Text">
+    <value xml:space="preserve">Help URL:</value>
+  </data>
+  <data name="plHostContainer.Help">
+    <value xml:space="preserve">Kies de standaard container voor uw portalen</value>
+  </data>
+  <data name="plHostContainer.Text">
+    <value xml:space="preserve">Container voor superuser:</value>
+  </data>
+  <data name="plHostCurrency.Help">
+    <value xml:space="preserve">Kies de valutasoort voor uw betaalde diensten</value>
+  </data>
+  <data name="plHostCurrency.Text">
+    <value xml:space="preserve">Hosting Valutasoort:</value>
+  </data>
+  <data name="plHostDefaultDocType.Help" lastModified="2015-01-09 10:16:01">
+    <value xml:space="preserve">Bepaal het thema documenttype voor uw webpagina's.</value>
+  </data>
+  <data name="plHostDefaultDocType.Text">
+    <value xml:space="preserve">Standaard Doctype:</value>
+  </data>
+  <data name="plHostEmail.Help">
+    <value xml:space="preserve">Geef een e-mail adres op dat gebruikt kan worden voor ondersteuning met betrekking tot uw hosting</value>
+  </data>
+  <data name="plHostEmail.Text">
+    <value xml:space="preserve">E-mail SuperUser:</value>
+  </data>
+  <data name="plHostFee.Help">
+    <value xml:space="preserve">Geef aan wat de basis vergoeding is voor hosting van websites</value>
+  </data>
+  <data name="plHostFee.Text">
+    <value xml:space="preserve">Hosting Vergoeding:</value>
+  </data>
+  <data name="plHostName.Help">
+    <value xml:space="preserve">De Hostnaam van de webserver</value>
+  </data>
+  <data name="plHostName.Text">
+    <value xml:space="preserve">Hostnaam</value>
+  </data>
+  <data name="plHostPortal.Help">
+    <value xml:space="preserve">Kies de standaard website</value>
+  </data>
+  <data name="plHostPortal.Text">
+    <value xml:space="preserve">SuperUser website:</value>
+  </data>
+  <data name="plHostSkin.Help" lastModified="2015-01-09 07:11:06">
+    <value xml:space="preserve">Kies het standaard thema dat voor uw websites gebruikt wordt</value>
+  </data>
+  <data name="plHostSkin.Text" lastModified="2015-01-09 07:11:06">
+    <value xml:space="preserve">SuperUser thema:</value>
+  </data>
+  <data name="plHostSpace.Help">
+    <value xml:space="preserve">Geef de maximale schijfruimte die gebruikt kan worden door een website.</value>
+  </data>
+  <data name="plHostSpace.Text">
+    <value xml:space="preserve">Hosting ruimte (MB):</value>
+  </data>
+  <data name="plHostTitle.Help">
+    <value xml:space="preserve">Voer de naam in van uw SuperUser Account</value>
+  </data>
+  <data name="plHostTitle.Text">
+    <value xml:space="preserve">SuperUser Titel:</value>
+  </data>
+  <data name="plHostURL.Help">
+    <value xml:space="preserve">Voer de url in van uw Hosting Account</value>
+  </data>
+  <data name="plHostURL.Text">
+    <value xml:space="preserve">SuperUser URL:</value>
+  </data>
+  <data name="plIdentity.Help">
+    <value xml:space="preserve">Het Windows gebruikersaccount waaronder deze toepassing uitgevoerd wordt. Dit is de naam van de account waaraan schrijfrechten op de server toegekend moeten zijn</value>
+  </data>
+  <data name="plIdentity.Text">
+    <value xml:space="preserve">ASP.NET account:</value>
+  </data>
+  <data name="plIPAddress.Help">
+    <value xml:space="preserve">Het IP-Adres van de server.</value>
+  </data>
+  <data name="plIPAddress.Text">
+    <value xml:space="preserve">IP-Adres:</value>
+  </data>
+  <data name="plJQueryDebugVersion.Help">
+    <value xml:space="preserve">Indien aangevinkt zal het standaard jQuery bestand worden gebruikt. Indien niet aangevinkt zal een geminimaliseerde versie worden gebruikt welke de grootte van het javascript bestand verkleind. Echter, dit vermindert de leesbaarheid van het javascript.</value>
+  </data>
+  <data name="plJQueryDebugVersion.Text">
+    <value xml:space="preserve">Gebruik jQuery Debug Versie?</value>
+  </data>
+  <data name="plJQueryHostUrl.Help">
+    <value xml:space="preserve">Dit is het volledige URL voor het jQuery script. Standaard zal dit worden ingesteld op de meest recente geminimaliseerd jQuery die gehost wordt op Google's CDN servers voor een optimale prestatie.</value>
+  </data>
+  <data name="plJQueryHostUrl.Text">
+    <value xml:space="preserve">URL Gehoste jQuery:</value>
+  </data>
+  <data name="plJQueryMigrateHostUrl.Help">
+    <value xml:space="preserve">Dit is de volledig URL voor de jQuery migratie plugin. Als dit veld wordt leeg gelaten zal de versie uit de website worden gebruikt.</value>
+  </data>
+  <data name="plJQueryMigrateHostUrl.Text">
+    <value xml:space="preserve">Gehoste jQuery migratie plugin URL:</value>
+  </data>
+  <data name="plJQueryUIHostUrl.Help">
+    <value xml:space="preserve">Dit is de volledige URL van de jQuery UI script. Standaard is dit ingesteld op de nieuwste jQuery UI minified script gehost op de Google-CDN-servers voor optimale prestaties.</value>
+  </data>
+  <data name="plJQueryUIHostUrl.Text">
+    <value xml:space="preserve">URL Gehoste jQuery UI:</value>
+  </data>
+  <data name="plJQueryUIVersion.Help">
+    <value xml:space="preserve">Identificeert de ingebedde versie string in het lokale jQuery UI script.</value>
+  </data>
+  <data name="plJQueryUIVersion.Text">
+    <value xml:space="preserve">Geïnstalleerd jQuery UI Version</value>
+  </data>
+  <data name="plJQueryUseHosted.Help">
+    <value xml:space="preserve">Indien aangevinkt zal het geassocieerde URL worden gebruikt voor het jQueury bestand. Indien niet aangevinkt zullen lokale kopieën van het bestand worden gebruikt.</value>
+  </data>
+  <data name="plJQueryUseHosted.Text">
+    <value xml:space="preserve">Gebruik Gehoste jQuery Versie?</value>
+  </data>
+  <data name="plJQueryVersion.Help">
+    <value xml:space="preserve">Identificeer de versie string die ingesloten is in het lokale jQuery script.</value>
+  </data>
+  <data name="plJQueryVersion.Text">
+    <value xml:space="preserve">Geïnstalleerde jQuery Versie:</value>
+  </data>
+  <data name="plLog.Help">
+    <value xml:space="preserve">Hiermee kunt u het logbestand voor een specifieke database upgrade bekijken</value>
+  </data>
+  <data name="plLog.Text">
+    <value xml:space="preserve">Bekijk upgrade log voor versie:</value>
+  </data>
+  <data name="plLogBuffer.Help">
+    <value xml:space="preserve">Als deze optie aangevinkt is, dan worden worden nieuwe items voor het logboek eerst vastgehouden in een buffergeheugen, en daarna regelmatig weggeschreven naar de definitieve opslag.</value>
+  </data>
+  <data name="plLogBuffer.Text">
+    <value xml:space="preserve">Buffer voor gebeurtenis logboek aanzetten?</value>
+  </data>
+  <data name="plLogs.Help">
+    <value xml:space="preserve">Lijst van log bestanden die beschikbaar zijn voor weergave</value>
+  </data>
+  <data name="plLogs.Text">
+    <value xml:space="preserve">Log bestanden</value>
+  </data>
+  <data name="plMaxIdleTime.Help">
+    <value xml:space="preserve">De tijd in milliseconden dat een object in idle kan blijven binnen het servicepoint object voordat het wordt gesloten en opnieuw wordt gebruikt voor een andere verbinding. Maximale waarde is 2147483647. Standaard waarde is 0.</value>
+  </data>
+  <data name="plMaxIdleTime.Text">
+    <value xml:space="preserve">Max idle tijd:</value>
+  </data>
+  <data name="plMaxUploadSize.Help">
+    <value xml:space="preserve">Maximale grootte van bestanden die kunnen worden geupload. Het minimum is 12 Mb</value>
+  </data>
+  <data name="plMaxUploadSize.Text">
+    <value xml:space="preserve">Maximale upload grootte</value>
+  </data>
+  <data name="plMsAjaxCdn.Help">
+    <value xml:space="preserve">CDN instellingen voor Microsoft Ajax Library activeren?</value>
+  </data>
+  <data name="plMsAjaxCdn.Text">
+    <value xml:space="preserve">MS Ajax CDN Activeren?</value>
+  </data>
+  <data name="plNotifyUpgrade.Help">
+    <value xml:space="preserve">Indien aangevinkt zal de SuperUser via e-mail worden genotificeerd over updates.</value>
+  </data>
+  <data name="plNotifyUpgrade.Text">
+    <value xml:space="preserve">Bericht naar SuperUser?</value>
+  </data>
+  <data name="plNumberPasswords.Help">
+    <value xml:space="preserve">Selecteer het aantal wachtwoorden dat wordt opgeslagen voor de hergebruik van wachtwoorden controle</value>
+  </data>
+  <data name="plNumberPasswords.Text">
+    <value xml:space="preserve">Aantal wachtwoorden dat wordt opgeslagen</value>
+  </data>
+  <data name="plPageQuota.Help">
+    <value xml:space="preserve">U kunt een maximum aantal pagina's per website aangeven</value>
+  </data>
+  <data name="plPageQuota.Text">
+    <value xml:space="preserve">Pagina quota:</value>
+  </data>
+  <data name="plPageState.Help">
+    <value xml:space="preserve">Kies een methode voor het bijhouden van de page state (viewstate). Dit kan in een verborgen veld in de Pagina (standaard) of in Geheugen (Cache)</value>
+  </data>
+  <data name="plPageState.Text">
+    <value xml:space="preserve">Page state opslag:</value>
+  </data>
+  <data name="plPassword.Help">
+    <value xml:space="preserve">Voer het wachtwoord in van de betalingsverwerker</value>
+  </data>
+  <data name="plPassword.Text">
+    <value xml:space="preserve">Verwerker wachtwoord:</value>
+  </data>
+  <data name="plPerformance.Help">
+    <value xml:space="preserve">Kies hoe de prestaties geoptimaliseerd moeten worden.</value>
+  </data>
+  <data name="plPerformance.Text">
+    <value xml:space="preserve">Prestaties instelling:</value>
+  </data>
+  <data name="plPermissions.Help">
+    <value xml:space="preserve">De bevoegdheden voor toegang voor code (&lt;i&gt;code access&lt;/i&gt;) in de hosting omgeving</value>
+  </data>
+  <data name="plPermissions.Text">
+    <value xml:space="preserve">Bevoegdheden:</value>
+  </data>
+  <data name="plProcessor.Help">
+    <value xml:space="preserve">Kies een betalingsverwerker voor het accepteren van betalingen van websites van klanten</value>
+  </data>
+  <data name="plProcessor.Text">
+    <value xml:space="preserve">Betalingsverwerker:</value>
+  </data>
+  <data name="plProduct.Help">
+    <value xml:space="preserve">De applicatie die u draait</value>
+  </data>
+  <data name="plProduct.Text">
+    <value xml:space="preserve">Produkt:</value>
+  </data>
+  <data name="plProxyPassword.Help">
+    <value xml:space="preserve">Voer het wachtwoord in van de proxyserver</value>
+  </data>
+  <data name="plProxyPassword.Text">
+    <value xml:space="preserve">Proxy wachtwoord:</value>
+  </data>
+  <data name="plProxyPort.Help">
+    <value xml:space="preserve">Voer het poortnummer in van de proxyserver</value>
+  </data>
+  <data name="plProxyPort.Text">
+    <value xml:space="preserve">Proxy poort:</value>
+  </data>
+  <data name="plProxyServer.Help">
+    <value xml:space="preserve">Voer het adres in van de proxyserver</value>
+  </data>
+  <data name="plProxyServer.Text">
+    <value xml:space="preserve">Proxyserver:</value>
+  </data>
+  <data name="plProxyUsername.Help">
+    <value xml:space="preserve">Voor de gebruikersnaam in voor de proxyserver</value>
+  </data>
+  <data name="plProxyUsername.Text">
+    <value xml:space="preserve">Proxy gebruikersnaam:</value>
+  </data>
+  <data name="plPsWarning.Text">
+    <value xml:space="preserve">Waarschuwing: Geheugen pagina state kan tot Ajax problemen leiden</value>
+  </data>
+  <data name="plRememberMe.Help">
+    <value xml:space="preserve">Zet de herinner mij aanvinkbox aan bij de login controls. Indien dit is ingeschakeld, kunnen gebruikers cookies aanmaken die ... zijn tijdens meerdere bezoeken</value>
+  </data>
+  <data name="plRememberMe.Text">
+    <value xml:space="preserve">"Herinner mij" optie bij login controls inschakelen?</value>
+  </data>
+  <data name="plResetLinkValidity.Help">
+    <value xml:space="preserve">Wachtwoord reset links zijn alleen geldig gedurende (in minuten).</value>
+  </data>
+  <data name="plResetLinkValidity.Text">
+    <value xml:space="preserve">Reset link time-out (minuten)</value>
+  </data>
+  <data name="plServerTime.Help">
+    <value xml:space="preserve">De huidige datum en tijd voor de web server</value>
+  </data>
+  <data name="plServerTime.Text">
+    <value xml:space="preserve">Server Tijd</value>
+  </data>
+  <data name="plShowCriticalErrors.Help">
+    <value xml:space="preserve">Deze instelling bepaald of foutmeldingen verzonden met de foutquerystring parameter inline in the pagina getoond moeten worden.</value>
+  </data>
+  <data name="plShowCriticalErrors.Text">
+    <value xml:space="preserve">Toon kritieke fouten op scherm?</value>
+  </data>
+  <data name="plSiteLogBuffer.Help">
+    <value xml:space="preserve">Voer het aantal items in dat gebuikt wordt voor de buffer van het site logboek</value>
+  </data>
+  <data name="plSiteLogBuffer.Text">
+    <value xml:space="preserve">Site logboek buffer (Items):</value>
+  </data>
+  <data name="plSiteLogHistory.Help">
+    <value xml:space="preserve">Voer het aantal dagen dat bijgehouden wordt in het site logboek</value>
+  </data>
+  <data name="plSiteLogHistory.Text">
+    <value xml:space="preserve">Site logboek geschiedenis (dagen):</value>
+  </data>
+  <data name="plSiteLogStorage.Help">
+    <value xml:space="preserve">Geef aan waar het site logboek bewaard moet worden</value>
+  </data>
+  <data name="plSiteLogStorage.Text">
+    <value xml:space="preserve">Site logboek opslag:</value>
+  </data>
+  <data name="plSkinUpload.Help" lastModified="2015-01-09 09:13:19">
+    <value xml:space="preserve">Geef aan of het uploaden van thema's beperkt is tot SuperUser accounts, of dat dit tevens gedaan kan worden door accounts met beheersrechten</value>
+  </data>
+  <data name="plSkinUpload.Text" lastModified="2015-01-09 08:11:37">
+    <value xml:space="preserve">Bevoegdheid voor het uploaden van thema's:</value>
+  </data>
+  <data name="plSMTPAuthentication.Help">
+    <value xml:space="preserve">Geef aan welke authenticatie benodigd is voor de SMTP server  (standaard= anoniem)</value>
+  </data>
+  <data name="plSMTPAuthentication.Text">
+    <value xml:space="preserve">SMTP authenticatie:</value>
+  </data>
+  <data name="plSMTPEnableSSL.Help">
+    <value xml:space="preserve">Dit wordt gebruikt voor SMTP services die een beveiligde verbinding vragen</value>
+  </data>
+  <data name="plSMTPEnableSSL.Text">
+    <value xml:space="preserve">Gebruik SSL voor SMTP:</value>
+  </data>
+  <data name="plSMTPPassword.Help">
+    <value xml:space="preserve">Voer het wachtwoord in voor de SMTP server</value>
+  </data>
+  <data name="plSMTPPassword.Text">
+    <value xml:space="preserve">SMTP wachtwoord:</value>
+  </data>
+  <data name="plSMTPServer.Help">
+    <value xml:space="preserve">Voer het adres in van de SMTP server</value>
+  </data>
+  <data name="plSMTPServer.Text">
+    <value xml:space="preserve">SMTP Server:</value>
+  </data>
+  <data name="plSMTPUsername.Help">
+    <value xml:space="preserve">Voer de gebruikersnaam in die toegang heeft tot de SMTP server</value>
+  </data>
+  <data name="plSMTPUsername.Text">
+    <value xml:space="preserve">SMTP gebruikersnaam:</value>
+  </data>
+  <data name="plSSLDomain.Help">
+    <value xml:space="preserve">Het domein dat wordt gebruikt als de upgrade wizard wordt geforceerd weer te worden gegeven in een SSL verbinding.</value>
+  </data>
+  <data name="plSSLDomain.Text">
+    <value xml:space="preserve">SSL domein</value>
+  </data>
+  <data name="plTelerikBasicUrl.Help">
+    <value xml:space="preserve">Stel de basis url van de Telerik CDN in, deze zal de bestanden op de Telerik server gebruiken als u dit veld leeg laat. Voor meer informatie:&lt;a href="http://www.telerik.com/help/aspnet-ajax/cdn-custom-provider.html" target="_blank"&gt;Klik hier&lt;/a&gt;.</value>
+  </data>
+  <data name="plTelerikBasicUrl.Text">
+    <value xml:space="preserve">Telerik CDN Basis Url</value>
+  </data>
+  <data name="plTelerikCdn.Help">
+    <value xml:space="preserve">CDN instellingen voor Telerik Controls activeren?</value>
+  </data>
+  <data name="plTelerikCdn.Text">
+    <value xml:space="preserve">Telerik CDN activeren?</value>
+  </data>
+  <data name="plTelerikSecureUrl.Help">
+    <value xml:space="preserve">Stel de beveiligde url van de Telerik CDN in, deze zal de bestanden op de Telerik server gebruiken als u dit veld leeg laat. Voor meer informatie:&lt;a href="http://www.telerik.com/help/aspnet-ajax/cdn-custom-provider.html" target="_blank"&gt;Klik hier&lt;/a&gt;.</value>
+  </data>
+  <data name="plTelerikSecureUrl.Text">
+    <value xml:space="preserve">Telerik CDN beveiligde Url</value>
+  </data>
+  <data name="plThrowExceptions.Help">
+    <value xml:space="preserve">Deze optie aanvinken om applicatie exceptions in te schakelen die het gevolg zijn van het ontbreken van velden in de geretourneerde data uit de database. Indien dit niet is aangevinkt zullen deze errors gelogd worden in het logboek. Indien aangevinkt zal de error komen boven drijven. Deze instelling is hoofdzakelijk voor ontwikkelaars die problemen willen diagnosticeren.</value>
+  </data>
+  <data name="plThrowExceptions.Text">
+    <value xml:space="preserve">CBO Uitzondingen Uitwerpen:</value>
+  </data>
+  <data name="plUpgrade.Help">
+    <value xml:space="preserve">Vink deze optie aan om de applicatie te laten controleren of er nieuwe versies beschikbaar zijn</value>
+  </data>
+  <data name="plUpgrade.Text">
+    <value xml:space="preserve">Check voor Upgrades?</value>
+  </data>
+  <data name="plUpgradeForceSSL.Help">
+    <value xml:space="preserve">Upgrade wizard forceren in SSL verbinding.</value>
+  </data>
+  <data name="plUpgradeForceSSL.Text">
+    <value xml:space="preserve">SSL verplicht voor upgrade wizard.</value>
+  </data>
+  <data name="plUseCustomErrorMessages.Help">
+    <value xml:space="preserve">Vink dit aan om aangepaste foutmeldingen te gebruiken</value>
+  </data>
+  <data name="plUseCustomErrorMessages.Text">
+    <value xml:space="preserve">Aangepaste foutmeldingen gebruiken?</value>
+  </data>
+  <data name="plUseCustomModuleCssClass.Help" lastModified="2015-01-09 10:16:01">
+    <value xml:space="preserve">Vink deze optie aan om een ​​aangepaste CSS-klasse weergave in te schakelen gebaseerd op de module definitie. Dit kan gebruikt worden door het thema ontwerpers om specifieke CSS-stijlen toe te passen specifieke module types.</value>
+  </data>
+  <data name="plUseCustomModuleCssClass.Text">
+    <value xml:space="preserve">Aangepaste Module Css Class Gebruiken?</value>
+  </data>
+  <data name="plUserId.Help">
+    <value xml:space="preserve">Voer het gebruikers account in dat gebruikt moet worden voor de betalingsverwerker</value>
+  </data>
+  <data name="plUserId.Text">
+    <value xml:space="preserve">Verwerker gebruikers account:</value>
+  </data>
+  <data name="plUserQuota.Help">
+    <value xml:space="preserve">U kun een maximaal aantal gebruikers per website aangeven</value>
+  </data>
+  <data name="plUserQuota.Text">
+    <value xml:space="preserve">Gebruikers Quota:</value>
+  </data>
+  <data name="plUsersOnline.Help">
+    <value xml:space="preserve">U kunt eventueel de "gebruikers online" faciliteit onbruikbaar maken</value>
+  </data>
+  <data name="plUsersOnline.Text">
+    <value xml:space="preserve">"Gebruikers Online" uitzetten?</value>
+  </data>
+  <data name="plUsersOnlineTime.Help">
+    <value xml:space="preserve">Geef aan wat de tijdsduur moet zijn voor de buffer van de "gebruikers online" faciliteit</value>
+  </data>
+  <data name="plUsersOnlineTime.Text">
+    <value xml:space="preserve">Gebruikers Online tijd (Minuten):</value>
+  </data>
+  <data name="plVersion.Help">
+    <value xml:space="preserve">De applicatie versie die u gebruikt.</value>
+  </data>
+  <data name="plVersion.Text">
+    <value xml:space="preserve">versie:</value>
+  </data>
+  <data name="plWebFarm.Help">
+    <value xml:space="preserve">Indicator om aan te geven of deze site draait in een web farm configuratie. Deze instelling kan worden ingeschakeld in het root configuratiebestand van uw site.</value>
+  </data>
+  <data name="plWebFarm.Text">
+    <value xml:space="preserve">Web Farm ingeschakeld?</value>
+  </data>
+  <data name="plWebRequestTimeout.Help">
+    <value xml:space="preserve">Geef aan wat de time-out waarde moet zijn voor web verzoeken</value>
+  </data>
+  <data name="plWebRequestTimeout.Text">
+    <value xml:space="preserve">Web verzoek time-out:</value>
+  </data>
+  <data name="plWhitespace.Help">
+    <value xml:space="preserve">Selecteer deze optie om overbodige spaties (Whitespace) te verwijderen uit de response die naar de client gestuurd wordt. Dit kan resulteren in een kleinere download (10-15%), maar maakt HTML minder leesbaar</value>
+  </data>
+  <data name="plWhitespace.Text">
+    <value xml:space="preserve">Gebruik Whitespace filter</value>
+  </data>
+  <data name="plWhitespaceFilter.Help">
+    <value xml:space="preserve">Geef een regular expression op voor het verwijderen van whitespace</value>
+  </data>
+  <data name="plWhitespaceFilter.Text">
+    <value xml:space="preserve">Spatie filter:</value>
+  </data>
+  <data name="Portal.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="PreviewNoSelectionMessage.Text" lastModified="2015-01-09 10:16:01">
+    <value xml:space="preserve">Selecteer een thema en/of container om een ​​voorbeeld van.</value>
+  </data>
+  <data name="Private.Text">
+    <value xml:space="preserve">Privé</value>
+  </data>
+  <data name="ProcessorWebSite.Text">
+    <value xml:space="preserve">Ga naar website van betalingsverwerker.</value>
+  </data>
+  <data name="Proxy.Text">
+    <value xml:space="preserve">Proxy instellingen</value>
+  </data>
+  <data name="Public.Text">
+    <value xml:space="preserve">Publiek</value>
+  </data>
+  <data name="ReIndexConfirmationCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="ReIndexConfirmationMessage.Text">
+    <value xml:space="preserve">Een her indexering zal er voor zorgen dat de inhoud binnen de huidige index zal worden verwijderd. de het indexering wordt uitgevoerd door de zoek crawler(s) en is afhandelijk van de ingestelde uitvoerfrequentie. Weet u zeker dat u wilt doorgaan?</value>
+  </data>
+  <data name="ReIndexConfirmationTitle.Text">
+    <value xml:space="preserve">Bevestig her indexering</value>
+  </data>
+  <data name="ReIndexConfirmationYes.Text">
+    <value xml:space="preserve">Doorgaan</value>
+  </data>
+  <data name="RequestFilter.Text">
+    <value xml:space="preserve">Instellingen voor request filter</value>
+  </data>
+  <data name="SearchIndex.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="SelectLog.Text">
+    <value xml:space="preserve">Selecteer een log bestand om weer te geven.</value>
+  </data>
+  <data name="Server.Text">
+    <value xml:space="preserve">Server </value>
+  </data>
+  <data name="ServerAndNoCache.Text">
+    <value xml:space="preserve">ServerEnGeenCache</value>
+  </data>
+  <data name="ServerAndPrivate.Text">
+    <value xml:space="preserve">ServerEnPrivé</value>
+  </data>
+  <data name="SiteLogBufferValidation.Text" lastModified="2015-01-09 06:10:02">
+    <value xml:space="preserve">Buffergrootte moet tenmiste 1 zijn of hoger.</value>
+  </data>
+  <data name="SkinPreview.Text" lastModified="2015-01-09 09:13:19">
+    <value xml:space="preserve">Voorbeeld SuperUser Thema en Container</value>
+  </data>
+  <data name="SkinUpload.Text" lastModified="2015-01-09 09:13:19">
+    <value xml:space="preserve">Uploaden Thema/Container</value>
+  </data>
+  <data name="SMTP.Text">
+    <value xml:space="preserve">SMTP server instellingen</value>
+  </data>
+  <data name="SMTPAnonymous.Text">
+    <value xml:space="preserve">Anoniem</value>
+  </data>
+  <data name="SMTPBasic.Text">
+    <value xml:space="preserve">Eenvoudig</value>
+  </data>
+  <data name="SMTPNTLM.Text">
+    <value xml:space="preserve">NTLM</value>
+  </data>
+  <data name="SmtpServerWarning.Text">
+    <value xml:space="preserve">U probeert een aangepaste SMTP poort te gebruiken met uw installatie exemplaar dat wordt uitgevoerd onder medium vertrouwen, u moet contact opnemen met uw webhosting provider om te controleren of deze instelling correct kan werken op de server. </value>
+  </data>
+  <data name="SpecifyHostEmailMessage.Text">
+    <value xml:space="preserve">U moet een e-mail adres voor de SuperUser instellen</value>
+  </data>
+  <data name="StrictDoctype.Text">
+    <value xml:space="preserve">Strict XHTML 1.0</value>
+  </data>
+  <data name="TransDoctype.Text">
+    <value xml:space="preserve">Transitioneel XHTML 1.0 </value>
+  </data>
+  <data name="txtBatch.Help">
+    <value xml:space="preserve">Het aantal berichten die worden verzonden door de messaging scheduler in elke partij.</value>
+  </data>
+  <data name="txtBatch.Text">
+    <value xml:space="preserve">Aantal berichten die in elke batch worden verzonden:</value>
+  </data>
+  <data name="UpgradeFramework.Text">
+    <value xml:space="preserve">Website bijwerken tot huidige Framework</value>
+  </data>
+  <data name="UpgradeLog.Text">
+    <value xml:space="preserve">Waardeer logboek op voor versie</value>
+  </data>
+  <data name="UpgradeNever.Text">
+    <value xml:space="preserve">Nooit</value>
+  </data>
+  <data name="UserRestart.Text">
+    <value xml:space="preserve">Gebruiker heeft een applicatie herstart getriggerd</value>
+  </data>
+  <data name="valAdminResetLink.Error">
+    <value xml:space="preserve">Administator reset link timeout moet groter zijn dan 0</value>
+  </data>
+  <data name="valFileExtensions.Error">
+    <value xml:space="preserve">&lt;br /&gt;Bestand extensies kunnen alleen letters, getallen en de underscore bevatten, gescheiden door komma's.</value>
+  </data>
+  <data name="valHostFee.Error">
+    <value xml:space="preserve">Ongeldig waarde, dit moet een geldbedrag zijn</value>
+  </data>
+  <data name="valIndexWordMaxLengthCompare.Error">
+    <value xml:space="preserve">Moet numeriek zijn en langer dan minimale lengte</value>
+  </data>
+  <data name="valIndexWordMaxLengthRequired.Error">
+    <value xml:space="preserve">Maximale lengte van index woord is vereist</value>
+  </data>
+  <data name="valIndexWordMinLengthCompare.Error">
+    <value xml:space="preserve">Moet numeriek zijn en groter dan 0</value>
+  </data>
+  <data name="valIndexWordMinLengthRequired.Error">
+    <value xml:space="preserve">Minimale lengte van index woord is vereist</value>
+  </data>
+  <data name="valResetLink.Error">
+    <value xml:space="preserve">Reset link time-out moet groter zijn dan 0</value>
+  </data>
+</root>

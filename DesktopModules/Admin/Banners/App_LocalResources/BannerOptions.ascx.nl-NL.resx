@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllTypes.Text">
+    <value xml:space="preserve">&lt;Alle Types&gt;</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Banner bewerken</value>
+  </data>
+  <data name="Horizontal.Text">
+    <value xml:space="preserve">Horizontaal</value>
+  </data>
+  <data name="Host.Text">
+    <value xml:space="preserve">Applicatie</value>
+  </data>
+  <data name="plBannerClickThroughURL.Help">
+    <value xml:space="preserve">Verwijs advertenties naar een tussenliggende pagina</value>
+  </data>
+  <data name="plBannerClickThroughURL.Text">
+    <value xml:space="preserve">Banner klikt u via URL</value>
+  </data>
+  <data name="plBorder.Help">
+    <value xml:space="preserve">Geef de randbreedte op</value>
+  </data>
+  <data name="plBorder.Text">
+    <value xml:space="preserve">Randbreedte</value>
+  </data>
+  <data name="plBorderColor.Help">
+    <value xml:space="preserve">Geeft de randkleur op</value>
+  </data>
+  <data name="plBorderColor.Text">
+    <value xml:space="preserve">Randkleur</value>
+  </data>
+  <data name="plColWidth.Help">
+    <value xml:space="preserve">Geef de breedte aan voor elke banner cel</value>
+  </data>
+  <data name="plColWidth.Text">
+    <value xml:space="preserve">Kolombreedte</value>
+  </data>
+  <data name="plCount.Help">
+    <value xml:space="preserve">Geef aan hoeveel banners er maximaal getoond moeten worden</value>
+  </data>
+  <data name="plCount.Text">
+    <value xml:space="preserve">Aantal Banners</value>
+  </data>
+  <data name="plGroup.Help">
+    <value xml:space="preserve">Geef de banner groepnaam op</value>
+  </data>
+  <data name="plGroup.Text">
+    <value xml:space="preserve">Bannergroep</value>
+  </data>
+  <data name="plOrientation.Help">
+    <value xml:space="preserve">Geef aan of de banners horizontaal of verticaal weergegeven moeten worden</value>
+  </data>
+  <data name="plOrientation.Text">
+    <value xml:space="preserve">Oriëntatie</value>
+  </data>
+  <data name="plPadding.Help">
+    <value xml:space="preserve">Ruimte tussen de banners en de rand</value>
+  </data>
+  <data name="plPadding.Text">
+    <value xml:space="preserve">Cel opvulling</value>
+  </data>
+  <data name="plRowHeight.Help">
+    <value xml:space="preserve">Geef de hoogte aan voor elke banner cel</value>
+  </data>
+  <data name="plRowHeight.Text">
+    <value xml:space="preserve">Rijhoogte</value>
+  </data>
+  <data name="plSource.Help">
+    <value xml:space="preserve">Geef aan of de banners die vertoond moeten worden gedefinieerd zijn voor deze website of voor de gehele website.</value>
+  </data>
+  <data name="plSource.Text">
+    <value xml:space="preserve">Bron voor Banners</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Geef het type banners op</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Type Banner</value>
+  </data>
+  <data name="Site.Text">
+    <value xml:space="preserve">Site</value>
+  </data>
+  <data name="valBannerClickThroughURL.ErrorMessage">
+    <value xml:space="preserve">Banner doorklikken URL moet een geldige URL zijn, dan kunt u ervoor zorgen dat uw URL begint met "http://"</value>
+  </data>
+  <data name="valBorder.ErrorMessage">
+    <value xml:space="preserve">Border breedte moet een geldig geheel getal zijn</value>
+  </data>
+  <data name="valColWidth.ErrorMessage">
+    <value xml:space="preserve">Kolombreedte moet een geldig geheel getal zijn</value>
+  </data>
+  <data name="valCount.ErrorMessage">
+    <value xml:space="preserve">Banner tellen moet een geldig geheel getal zijn</value>
+  </data>
+  <data name="valPadding.ErrorMessage">
+    <value xml:space="preserve">Cell padding moet een geldig geheel getal zijn</value>
+  </data>
+  <data name="valRowHeight.ErrorMessage">
+    <value xml:space="preserve">Rijhoogte moet een geldig geheel getal zijn</value>
+  </data>
+  <data name="Vertical.Text">
+    <value xml:space="preserve">Verticaal</value>
+  </data>
+</root>

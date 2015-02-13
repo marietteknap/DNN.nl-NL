@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BackupName.Header">
+    <value xml:space="preserve">Back-up Naam</value>
+  </data>
+  <data name="BackupSize.Header">
+    <value xml:space="preserve">Grootte (Kb)</value>
+  </data>
+  <data name="BackupType.Header">
+    <value xml:space="preserve">Type Back-up</value>
+  </data>
+  <data name="DbInfo_ProductEdition.Help">
+    <value xml:space="preserve">De geïnstalleerde editie van de SQL Server</value>
+  </data>
+  <data name="DbInfo_ProductEdition.Text">
+    <value xml:space="preserve">Product Editie:</value>
+  </data>
+  <data name="DbInfo_ProductVersion.Help">
+    <value xml:space="preserve">De versie van SQL Server</value>
+  </data>
+  <data name="DbInfo_ProductVersion.Text">
+    <value xml:space="preserve">Database Versie:</value>
+  </data>
+  <data name="DbInfo_ServicePack.Help">
+    <value xml:space="preserve">Geïnstalleerde Service Pack(s)</value>
+  </data>
+  <data name="DbInfo_ServicePack.Text">
+    <value xml:space="preserve">Service Pack:</value>
+  </data>
+  <data name="DbInfo_SoftwarePlatform.Help">
+    <value xml:space="preserve">De volledige beschrijving van het geïnstalleerde SQL Server software platform.</value>
+  </data>
+  <data name="DbInfo_SoftwarePlatform.Text">
+    <value xml:space="preserve">Software Platform:</value>
+  </data>
+  <data name="FileName.Header">
+    <value xml:space="preserve">Naam Bestand</value>
+  </data>
+  <data name="FileType.Header">
+    <value xml:space="preserve">Type Bestand</value>
+  </data>
+  <data name="Finished.Header">
+    <value xml:space="preserve">Beëindigd</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NoBackups.Text">
+    <value xml:space="preserve">Er is geen back-up van deze database gemaakt.</value>
+  </data>
+  <data name="plBackups.Help">
+    <value xml:space="preserve">Toont de laatste 20 backups van deze DotNetNuke installatie. Deze lijst hoeft niet compleet te zijn indien u geregeld uw database back-up geschiedenis tabellen wist.</value>
+  </data>
+  <data name="plBackups.Text">
+    <value xml:space="preserve">Database Back-up Geschiedenis:</value>
+  </data>
+  <data name="plDbInfo.Help">
+    <value xml:space="preserve">Toont informatie over de database server omgeving.</value>
+  </data>
+  <data name="plDbInfo.Text">
+    <value xml:space="preserve">Database Server Informatie:</value>
+  </data>
+  <data name="plFiles.Help">
+    <value xml:space="preserve">Toont een lijst met data en log bestanden voor deze DotNetNuke installatie.</value>
+  </data>
+  <data name="plFiles.Text">
+    <value xml:space="preserve">Database Bestanden:</value>
+  </data>
+  <data name="Size.Header">
+    <value xml:space="preserve">Grootte</value>
+  </data>
+  <data name="Started.Header">
+    <value xml:space="preserve">Gestart</value>
+  </data>
+</root>

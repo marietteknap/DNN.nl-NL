@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AvailableAuthSystems.Text">
+    <value xml:space="preserve">Beschikbare Authenticatie Systemen</value>
+  </data>
+  <data name="AvailableContainers.Text">
+    <value xml:space="preserve">Beschikbare Containers</value>
+  </data>
+  <data name="AvailableLanguages.Text">
+    <value xml:space="preserve">Beschikbare Talen</value>
+  </data>
+  <data name="AvailableModules.Text">
+    <value xml:space="preserve">Beschikbare Modules</value>
+  </data>
+  <data name="AvailableSkins.Text" lastModified="2015-01-06 16:45:50">
+    <value xml:space="preserve">Beschikbare thema's</value>
+  </data>
+  <data name="cmdInstall.Text">
+    <value xml:space="preserve">Installeer Geselecteerde Extensies</value>
+  </data>
+  <data name="ControlTitle_batchinstall.Text">
+    <value xml:space="preserve">Installeer Extensies</value>
+  </data>
+  <data name="ExtensionInstall.Action">
+    <value xml:space="preserve">Installatie Wizard Extensies</value>
+  </data>
+  <data name="Help.Text">
+    <value xml:space="preserve">De volgende extensies zijn voor u beschikbaar om te installeren.  Selecteer de extensie(s) die u wenst te installeren en klik vervolgens op de Installeer knop. </value>
+  </data>
+  <data name="InstallAuthSystemError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Er is een fout opgetreden bij het installeren van het Authenticatie systeem:&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="InstallContainerError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Er is een fout opgetreden bij het installeren van de Container&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="InstallLanguageError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Er is een fout opgetreden bij het installeren van de Talen:&lt;/font&gt;&lt;/b&gt;&lt;br/&gt;{0}</value>
+  </data>
+  <data name="InstallModuleError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Er is een fout opgetreden bij het installeren van de Modules&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="InstallSkinError.Text" lastModified="2015-01-06 16:45:50">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Er is een fout opgetreden bij het installeren van het thema&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="NoAuthSystems.Text">
+    <value xml:space="preserve">Geen Authenticatie Systemen Beschikbaar</value>
+  </data>
+  <data name="NoContainers.Text">
+    <value xml:space="preserve">Geen Containers Beschikbaar</value>
+  </data>
+  <data name="NoLanguages.Text">
+    <value xml:space="preserve">Geen Talen Beschikbaar</value>
+  </data>
+  <data name="NoModules.Text">
+    <value xml:space="preserve">Geen Modules Beschikbaar</value>
+  </data>
+  <data name="NoneSelected.Text">
+    <value xml:space="preserve">Er zijn geen extensies geselecteerd om te installeren.</value>
+  </data>
+  <data name="NoSkins.Text" lastModified="2015-01-06 16:45:50">
+    <value xml:space="preserve">Geen thema's Beschikbaar</value>
+  </data>
+</root>

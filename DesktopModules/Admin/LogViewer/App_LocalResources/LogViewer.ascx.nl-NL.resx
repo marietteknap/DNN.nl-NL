@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Bewerk logboek configuraties</value>
+  </data>
+  <data name="AdminAlertCode.Text">
+    <value xml:space="preserve">Signaal naar beheerder</value>
+  </data>
+  <data name="AdminOpCode.Text">
+    <value xml:space="preserve">Algemene beheerder functionaliteit</value>
+  </data>
+  <data name="btnClear.Text">
+    <value xml:space="preserve">Logboek leegmaken</value>
+  </data>
+  <data name="btnDelete.Text">
+    <value xml:space="preserve">Verwijder geselecteerde regels</value>
+  </data>
+  <data name="btnEmail.Text">
+    <value xml:space="preserve">Stuur geselecteerde regels</value>
+  </data>
+  <data name="ClearLog.Text">
+    <value xml:space="preserve">Weet u zeker dat u alle logboekvermeldingen wilt vewijderen?</value>
+  </data>
+  <data name="ClickRow.Text">
+    <value xml:space="preserve">Klik op een regel voor details</value>
+  </data>
+  <data name="ColorCoding.Text">
+    <value xml:space="preserve">Kleurcodering aan</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Applicatie gebeurtenissen</value>
+  </data>
+  <data name="Date.Text">
+    <value xml:space="preserve">Datum</value>
+  </data>
+  <data name="DeleteSuccess.Text">
+    <value xml:space="preserve">De geselecteerde logboekvermeldingen werden met succes verwijderd.</value>
+  </data>
+  <data name="EmailFailure.Text">
+    <value xml:space="preserve">Uw e-mail is &lt;b&gt;niet&lt;/b&gt; verzonden.</value>
+  </data>
+  <data name="EmailSuccess.Text">
+    <value xml:space="preserve">Uw e-mail is verzonden</value>
+  </data>
+  <data name="ExceptionCode.Text">
+    <value xml:space="preserve">Gebeurtenis</value>
+  </data>
+  <data name="ExceptionsWarning.Text">
+    <value xml:space="preserve">&lt;b&gt; Let op: &lt;/ b&gt;: Door het gebruik van deze functies hieronder, kunt u &lt;i&gt; kan &lt;/ i&gt; zijn het verzenden van gevoelige data over het internet in duidelijke tekst (&lt;i&gt; niet &lt;/ i&gt; encrypted). Voordat u uw inzending uitzondering, bekijkt u de inhoud van uw vermelding in om te controleren of er geen gevoelige gegevens is opgenomen in het. Alleen de logboekvermeldingen bovenstaande gecontroleerd zal worden verzonden.</value>
+  </data>
+  <data name="FailureCode.Text">
+    <value xml:space="preserve">Verwerking is mislukt</value>
+  </data>
+  <data name="HostAlertCode.Text">
+    <value xml:space="preserve">Signaal naar SuperUser</value>
+  </data>
+  <data name="InavlidEmailAddress.Text">
+    <value xml:space="preserve">'{0}' is een ongeldig e-mailadres.</value>
+  </data>
+  <data name="ItemCreatedCode.Text">
+    <value xml:space="preserve">Item aangemaakt</value>
+  </data>
+  <data name="ItemDeletedCode.Text">
+    <value xml:space="preserve">Item verwijderd</value>
+  </data>
+  <data name="ItemUpdatedCode.Text">
+    <value xml:space="preserve">Item bijgewerkt</value>
+  </data>
+  <data name="Legend.Text">
+    <value xml:space="preserve">Legenda kleurcodering</value>
+  </data>
+  <data name="LogCleared.Text">
+    <value xml:space="preserve">Het logboek bestand is leeggemaakt.</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over het logboek&lt;/h1&gt;&lt;p&gt;Met deze module kunnen alle kritische gebeurtenissen binnen de applicatie bekeken worden. Tevens kan met behulp van het logboek auditing plaats vinden op veranderingen in de website.&lt;/p&gt;</value>
+  </data>
+  <data name="NoEntries.Text">
+    <value xml:space="preserve">Er zijn geen logboek items.</value>
+  </data>
+  <data name="plEmailAddress.Help">
+    <value xml:space="preserve">Vul het e-mailadres van de persoon in die u de logboek vermeldingen wilt toezenden.</value>
+  </data>
+  <data name="plEmailAddress.Text">
+    <value xml:space="preserve">E-mail adres</value>
+  </data>
+  <data name="plLogType.Help">
+    <value xml:space="preserve">U kunt kiezen om het logboek te beperken tot bepaalde soorten van evenementen.</value>
+  </data>
+  <data name="plLogType.Text">
+    <value xml:space="preserve">Type</value>
+  </data>
+  <data name="plPortalID.Help">
+    <value xml:space="preserve">Selecteer het website welke u wilt bekijken.</value>
+  </data>
+  <data name="plPortalID.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="plShowRecords.Help">
+    <value xml:space="preserve">Selecteren welke records die u wilt bekijken.</value>
+  </data>
+  <data name="plShowRecords.Text">
+    <value xml:space="preserve">Toon regels</value>
+  </data>
+  <data name="plSubject.Help">
+    <value xml:space="preserve">Geef het onderwerp voor de e-mail op.</value>
+  </data>
+  <data name="plSubject.Text">
+    <value xml:space="preserve">Onderwerp</value>
+  </data>
+  <data name="Portal.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="SecurityException.Text">
+    <value xml:space="preserve">Beveiligingsgebeurtenis</value>
+  </data>
+  <data name="SelectException.Text">
+    <value xml:space="preserve">Selecteer ten minste een log record.</value>
+  </data>
+  <data name="SendExceptions.Text">
+    <value xml:space="preserve">Stuur logboekvermeldingen</value>
+  </data>
+  <data name="SendExceptionsEmail.Text">
+    <value xml:space="preserve">Stuur logboekvermeldingen via e-mail</value>
+  </data>
+  <data name="SendMessage.Help">
+    <value xml:space="preserve">Inclusief een optioneel bericht met de logboekvermeldingen</value>
+  </data>
+  <data name="SendMessage.Text">
+    <value xml:space="preserve">Bericht (optioneel)</value>
+  </data>
+  <data name="ServerName.Text">
+    <value xml:space="preserve">&lt;b&gt;Server Naam&lt;/b&gt;: </value>
+  </data>
+  <data name="ServiceUnavailable.Text">
+    <value xml:space="preserve">De webservice bij dotnetnuke.com is op niet moment niet beschikbaar</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Weergave instellingen</value>
+  </data>
+  <data name="Showing.Text">
+    <value xml:space="preserve">Getoond worden {0} tot {1} van {2}</value>
+  </data>
+  <data name="SuccessCode.Text">
+    <value xml:space="preserve">Uitvoering succesvol</value>
+  </data>
+  <data name="Summary.Text">
+    <value xml:space="preserve">Samenvatting</value>
+  </data>
+  <data name="ToEmail.Text">
+    <value xml:space="preserve">Naar aangegeven adres</value>
+  </data>
+  <data name="Type.Text">
+    <value xml:space="preserve">Type gebeurtenis</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Gebruikersnaam</value>
+  </data>
+  <data name="Viewer.Text">
+    <value xml:space="preserve">Viewer</value>
+  </data>
+</root>

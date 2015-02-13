@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Address.Text">
+    <value xml:space="preserve">Adres Details</value>
+  </data>
+  <data name="AffiliateReferrals.Text">
+    <value xml:space="preserve">Doorverwijzingen van affiliaties</value>
+  </data>
+  <data name="BannerAdvertising.Text">
+    <value xml:space="preserve">Adverteren via banners</value>
+  </data>
+  <data name="Clicks.Text">
+    <value xml:space="preserve">Doorlinks</value>
+  </data>
+  <data name="companyRequired.Text">
+    <value xml:space="preserve">Bedrijfsnaam is verplicht</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Verkopers bewerken</value>
+  </data>
+  <data name="ControlTitle_view vendor.Text">
+    <value xml:space="preserve">Verkoper bekijken</value>
+  </data>
+  <data name="EmailErrorAdmin.Text">
+    <value xml:space="preserve">Er is een probleem opgetreden bij het versturen van de e-mail naar de beheerder.</value>
+  </data>
+  <data name="EmailErrorVendor.Text">
+    <value xml:space="preserve">Er is een probleem opgetreden bij het versturen van de e-mail naar de verkoper.</value>
+  </data>
+  <data name="eMailInvalid.Text">
+    <value xml:space="preserve">E-mailadres is ongeldig</value>
+  </data>
+  <data name="eMailRequired.Text">
+    <value xml:space="preserve">E-mailadres is verplicht</value>
+  </data>
+  <data name="ErrorAddVendor.Text">
+    <value xml:space="preserve">Er was een fout tijdens het toevoegen van een verkoper. Klik op het logboek voor meer informatie.</value>
+  </data>
+  <data name="firstNameRequired.Text">
+    <value xml:space="preserve">Voornaam is verplicht.</value>
+  </data>
+  <data name="lastNameRequired.Text">
+    <value xml:space="preserve">Achternaam is een verplicht</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over verkopers&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen verkopers (affiliaties) en banners beheerd worden&lt;/p&gt;</value>
+  </data>
+  <data name="Other.Text">
+    <value xml:space="preserve">Andere details</value>
+  </data>
+  <data name="plAuthorized.Help">
+    <value xml:space="preserve">Is deze verkoper geautoriseerd?</value>
+  </data>
+  <data name="plAuthorized.Text">
+    <value xml:space="preserve">Geautoriseerd</value>
+  </data>
+  <data name="plClassifications.Help">
+    <value xml:space="preserve">Geef de classificaties van de verkoper</value>
+  </data>
+  <data name="plClassifications.Text">
+    <value xml:space="preserve">Classificaties</value>
+  </data>
+  <data name="plEmail.Help">
+    <value xml:space="preserve">Geef het e-mail adres van de contactpersoon van de verkoper</value>
+  </data>
+  <data name="plEmail.Text">
+    <value xml:space="preserve">E-mail adres</value>
+  </data>
+  <data name="plFax.Help">
+    <value xml:space="preserve">Geef het faxnummer van de verkoper</value>
+  </data>
+  <data name="plFax.Text">
+    <value xml:space="preserve">Fax</value>
+  </data>
+  <data name="plFirstName.Help">
+    <value xml:space="preserve">Geef de voornaam van de contactpersoon van de verkoper</value>
+  </data>
+  <data name="plFirstName.Text">
+    <value xml:space="preserve">Voornaam</value>
+  </data>
+  <data name="plKeyWords.Help">
+    <value xml:space="preserve">Geef de sleutelwoorden voor de verkoper</value>
+  </data>
+  <data name="plKeyWords.Text">
+    <value xml:space="preserve">Sleutelwoorden</value>
+  </data>
+  <data name="plLastName.Help">
+    <value xml:space="preserve">Geef de achternaam van de contactpersoon van de Verkoper</value>
+  </data>
+  <data name="plLastName.Text">
+    <value xml:space="preserve">Achternaam</value>
+  </data>
+  <data name="plLogo.Help">
+    <value xml:space="preserve">Selecteer een logo voor de verkoper</value>
+  </data>
+  <data name="plLogo.Text">
+    <value xml:space="preserve">Logo</value>
+  </data>
+  <data name="plVendorName.Help">
+    <value xml:space="preserve">Geef de naam van de verkoper</value>
+  </data>
+  <data name="plVendorName.Text">
+    <value xml:space="preserve">Bedrijf/Organisatie</value>
+  </data>
+  <data name="plWebsite.Help">
+    <value xml:space="preserve">Geef de website van de verkoper (bijv. www.verkoper.nl)</value>
+  </data>
+  <data name="plWebsite.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="Settings.Text">
+    <value xml:space="preserve">Details van verkoper</value>
+  </data>
+  <data name="VendorClassification.Text">
+    <value xml:space="preserve">Classificatie van verkoper</value>
+  </data>
+  <data name="Views.Text">
+    <value xml:space="preserve">Weergaven</value>
+  </data>
+</root>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AuthenticationSystems.Text">
+    <value xml:space="preserve">Authenticatie systemen</value>
+  </data>
+  <data name="AuthSystemsDetail.Text">
+    <value xml:space="preserve">Selecteer een optionele authenticatie systemen die u wilt installeren voor uw website. Vergeet niet, u kunt achteraf altijd de authenticatie systemen die hier worden weergegeven alsnog installeren. </value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Beschrijving</value>
+  </data>
+  <data name="InstallAuthSystemError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Error tijdens installeren van authenticatie  Systeem(en):&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="installExtension.Text">
+    <value xml:space="preserve">Installeer</value>
+  </data>
+  <data name="InstallModuleError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Error bij installeren van Module(s):&lt;/font&gt;&lt;/b&gt;&lt;br/&gt; {0}</value>
+  </data>
+  <data name="InstallProviderError.Text">
+    <value xml:space="preserve">&lt;b&gt;&lt;font color='red'&gt;Error bij installeren van Provider:&lt;/font&gt;&lt;/b&gt;&lt;br/&gt;{0}</value>
+  </data>
+  <data name="LanguagePacks.Text">
+    <value xml:space="preserve">Taal pakketten</value>
+  </data>
+  <data name="ModulesDetail.Text">
+    <value xml:space="preserve">Er zijn veel verschillende type modules, elke module beheerd een ander gedeelte van de content of van de administrative taken. Hier kunt u alle reeds geinstalleerde modules terugvinden en aanvullende modules installeren die u op uw website wilt gebruiken. Vergeet niet, u kunt alle modules die in de lijst worden weergegeven op een later moment installeren zodra de installatie is afgerond.</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="NoAuthSystems.Text">
+    <value xml:space="preserve">Er zijn geen authenticatie systemen beschikbaar om te installeren.</value>
+  </data>
+  <data name="NoModules.Text">
+    <value xml:space="preserve">Er zijn geen optionele modules beschikbaar om te installeren.</value>
+  </data>
+  <data name="NoProviders.Text">
+    <value xml:space="preserve">Er zijn geen providers beschikbaar om te installeren.</value>
+  </data>
+  <data name="OptionalModules.Text">
+    <value xml:space="preserve">Optionele Modules</value>
+  </data>
+  <data name="Providers.Text">
+    <value xml:space="preserve">Providers </value>
+  </data>
+  <data name="ProvidersDetail.Text">
+    <value xml:space="preserve">Selecteer een optionele providers die u wilt installeren voor uw website. Vergeet niet, u kunt achteraf altijd de providers die hier worden weergegeven alsnog installeren zodra de installatie is afgerond.</value>
+  </data>
+  <data name="SkinDesigner.Title" lastModified="2015-01-06 16:43:23">
+    <value xml:space="preserve">Thema ontwerper</value>
+  </data>
+  <data name="SkinEditor.Title" lastModified="2015-01-06 16:43:23">
+    <value xml:space="preserve">Thema Basis</value>
+  </data>
+  <data name="SkinsAndContainers.Text" lastModified="2015-01-06 16:43:23">
+    <value xml:space="preserve">Thema's en Containers</value>
+  </data>
+  <data name="SmtpServer.Text">
+    <value xml:space="preserve">SMTP Server </value>
+  </data>
+  <data name="Version.Header">
+    <value xml:space="preserve">Versie</value>
+  </data>
+</root>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CreateNew.Text">
+    <value xml:space="preserve">Nieuwe apparaat preview maken</value>
+  </data>
+  <data name="Device Name.Header">
+    <value xml:space="preserve">Apparaatnaam</value>
+  </data>
+  <data name="Height.Header">
+    <value xml:space="preserve">Hoogte</value>
+  </data>
+  <data name="lblHeight.Text">
+    <value xml:space="preserve">Hoogte</value>
+  </data>
+  <data name="lblName.Text">
+    <value xml:space="preserve">Apparaatnaam</value>
+  </data>
+  <data name="lblUserAgent.Text">
+    <value xml:space="preserve">User Agent</value>
+  </data>
+  <data name="lblWidth.Text">
+    <value xml:space="preserve">Breedte</value>
+  </data>
+  <data name="ProfileManagerMessage.Text">
+    <value xml:space="preserve">Apparaat preview beheer</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Maken</value>
+  </data>
+  <data name="USER AGENT.Header">
+    <value xml:space="preserve">USER AGENT</value>
+  </data>
+  <data name="valHeight.Text">
+    <value xml:space="preserve">U moet een geldig getal voor hoogte invoeren.</value>
+  </data>
+  <data name="valName.Text">
+    <value xml:space="preserve">U moet een geldige naam invoeren. De naam mag niet leeg zijn, en ook niet al eerder gebruikt zijn voor een ander profiel</value>
+  </data>
+  <data name="valUserAgent.Text">
+    <value xml:space="preserve">U moet een juiste useragent invoeren.</value>
+  </data>
+  <data name="valWidth.Text">
+    <value xml:space="preserve">U moet een geldig getal voor breedte invoeren.</value>
+  </data>
+  <data name="Width.Header">
+    <value xml:space="preserve">Breedte</value>
+  </data>
+</root>

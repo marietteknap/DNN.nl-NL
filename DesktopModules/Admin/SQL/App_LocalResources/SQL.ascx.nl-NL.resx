@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllRows.Text">
+    <value xml:space="preserve">Allemaal</value>
+  </data>
+  <data name="btDelete.Text">
+    <value xml:space="preserve">Verwijder Query's</value>
+  </data>
+  <data name="btSaveQuery.Text">
+    <value xml:space="preserve">Query opslaan</value>
+  </data>
+  <data name="cmdExecute.Text">
+    <value xml:space="preserve">Uitvoeren</value>
+  </data>
+  <data name="cmdExecute.ToolTip">
+    <value xml:space="preserve">{Opdrachten} and /*commentaar*/ mag toegevoegd worden</value>
+  </data>
+  <data name="cmdUpload.Text">
+    <value xml:space="preserve">Upload bestand</value>
+  </data>
+  <data name="cmdUpload.ToolTip">
+    <value xml:space="preserve">Het geselecteerde bestand uploaden</value>
+  </data>
+  <data name="CnnStringNotFound.Text">
+    <value xml:space="preserve">De query is geladen maar de bijbehorende verbinding ("{0}") kon niet worden gevonden. De standaard "SiteSqlServer" verbinding is geselecteerd als vervanging.</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">SQL</value>
+  </data>
+  <data name="CopyButtonAlt.Text">
+    <value xml:space="preserve">Kopieer naar klembord</value>
+  </data>
+  <data name="CopyText.Text">
+    <value xml:space="preserve">Het resultaat is gekopieerd naar het klembord.</value>
+  </data>
+  <data name="CopyTitle.Text">
+    <value xml:space="preserve">SQl Query resultaat</value>
+  </data>
+  <data name="CopyToClipboard.Text">
+    <value xml:space="preserve">Kopieer naar klembord</value>
+  </data>
+  <data name="CSVButtonAlt.Text">
+    <value xml:space="preserve">Exporteer naar CSV</value>
+  </data>
+  <data name="Deleted.Text">
+    <value xml:space="preserve">De Query is succesvol verwijderd.</value>
+  </data>
+  <data name="errorLabel.Help">
+    <value xml:space="preserve">Er is een error opgetreden binnen SQL server na het uitvoeren van het SQL script.</value>
+  </data>
+  <data name="errorLabel.Text">
+    <value xml:space="preserve">Error details</value>
+  </data>
+  <data name="lblName.Help">
+    <value xml:space="preserve">Voer een naam in ter herkenning van de opgeslagen Query.</value>
+  </data>
+  <data name="lblName.Text">
+    <value xml:space="preserve">Naam:</value>
+  </data>
+  <data name="lblSavedQuery.Help">
+    <value xml:space="preserve">U kunt een opgeslagen Query uitvoeren of bewerken en opnieuw opslaan. Of u kunt er voor kiezen een nieuwe Query te maken.</value>
+  </data>
+  <data name="lblSavedQuery.Text">
+    <value xml:space="preserve">Queries:</value>
+  </data>
+  <data name="lnkLoad.Text">
+    <value xml:space="preserve">Laad Query</value>
+  </data>
+  <data name="lnkSave.Text">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">      &lt;h1&gt;Over SQL&lt;/h1&gt;
+      &lt;p&gt;Met behulp van deze module kan de gastheer gebruiker SQL opdrachten laten uitvoeren op de database.&lt;/p&gt;
+    </value>
+  </data>
+  <data name="NewQuery.Text">
+    <value xml:space="preserve">&lt;Nieuwe Query&gt;</value>
+  </data>
+  <data name="NoDataReturned.Text">
+    <value xml:space="preserve">De query heeft geen data gevonden</value>
+  </data>
+  <data name="NoName.Text">
+    <value xml:space="preserve">U moet een naam invoeren voor de Query</value>
+  </data>
+  <data name="NoScript.Text">
+    <value xml:space="preserve">Schrijf of laad het schript dat u wilt uitvoeren.</value>
+  </data>
+  <data name="NumRowsReturned.Text">
+    <value xml:space="preserve">{0} Regels opgehaald</value>
+  </data>
+  <data name="PDFButtonAlt.Text">
+    <value xml:space="preserve">Exporteer naar PDF</value>
+  </data>
+  <data name="Placeholder.Text">
+    <value xml:space="preserve">Voer uw SQL Query in...</value>
+  </data>
+  <data name="plConnection.Help">
+    <value xml:space="preserve">Selecteer de verbinding die u wenst te gebruiken ( deze worden geladen uit de lijst uit het web.config bestand )</value>
+  </data>
+  <data name="plConnection.Text">
+    <value xml:space="preserve">Verbinding</value>
+  </data>
+  <data name="plSqlScript.Help">
+    <value xml:space="preserve">Een bestand uploaden naar het SQL query venster (optioneel)</value>
+  </data>
+  <data name="plSqlScript.Text">
+    <value xml:space="preserve">SQL Bestand:</value>
+  </data>
+  <data name="PopupButtonAlt.Text">
+    <value xml:space="preserve">Openen in nieuwe popup</value>
+  </data>
+  <data name="QueryError.Text">
+    <value xml:space="preserve">Uw query bevat een fout!</value>
+  </data>
+  <data name="QuerySuccess.Text">
+    <value xml:space="preserve">De query is succesvol uitgevoerd!</value>
+  </data>
+  <data name="ResultTitle.Text">
+    <value xml:space="preserve">Query</value>
+  </data>
+  <data name="Saved.Text">
+    <value xml:space="preserve">De Query is succesvol opgeslagen.</value>
+  </data>
+  <data name="SaveDialogTitle.Text">
+    <value xml:space="preserve">Query opslaan als...</value>
+  </data>
+  <data name="scriptLabel.Help">
+    <value xml:space="preserve">Voer de SQL in die u wilt uitvoeren. U kunt meerdere Select statements gebruiken om meerdere resultaat sets op te halen.</value>
+  </data>
+  <data name="scriptLabel.Text">
+    <value xml:space="preserve">Script</value>
+  </data>
+  <data name="sFirst.Text">
+    <value xml:space="preserve">Eerste</value>
+  </data>
+  <data name="sInfo.Text">
+    <value xml:space="preserve">Showing _START_ to _END_ of _TOTAL_ entries</value>
+  </data>
+  <data name="sInfoEmpty.Text">
+    <value xml:space="preserve">Er zijn geen resultaten om weer te geven</value>
+  </data>
+  <data name="sInfoFiltered.Text">
+    <value xml:space="preserve">(gefilterd uit _MAX_ total entries)</value>
+  </data>
+  <data name="sLast.Text">
+    <value xml:space="preserve">Laatste</value>
+  </data>
+  <data name="sLengthMenu.Text">
+    <value xml:space="preserve">Toon _MENU_ entries</value>
+  </data>
+  <data name="sLoadingRecords.Text">
+    <value xml:space="preserve">Laden...</value>
+  </data>
+  <data name="sNext.Text">
+    <value xml:space="preserve">Volgende</value>
+  </data>
+  <data name="sPrevious.Text">
+    <value xml:space="preserve">Vorige</value>
+  </data>
+  <data name="sProcessing.Text">
+    <value xml:space="preserve">Verwerking....</value>
+  </data>
+  <data name="sSearch.Text">
+    <value xml:space="preserve">Zoek:</value>
+  </data>
+  <data name="XLSButtonAlt.Text">
+    <value xml:space="preserve">Exporteer naar Excel</value>
+  </data>
+</root>

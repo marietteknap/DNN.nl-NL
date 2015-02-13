@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text">
+    <value xml:space="preserve">Voeg pagina</value>
+  </data>
+  <data name="AddMissingLanguages.Text">
+    <value xml:space="preserve">Missende talen toevoegen</value>
+  </data>
+  <data name="AdvancedSettings.Text">
+    <value xml:space="preserve">Geavanceerde instellingen</value>
+  </data>
+  <data name="AdvancedSettingsHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u de geavanceerde instellingen voor deze pagina doen</value>
+  </data>
+  <data name="Appearance.Text">
+    <value xml:space="preserve">Uiterlijk</value>
+  </data>
+  <data name="avalableCulturesLabel.Text">
+    <value xml:space="preserve">Beschikbare Talen</value>
+  </data>
+  <data name="BadTemplate.Text">
+    <value xml:space="preserve">De pagina sjabloon is een niet geldig XML document. Selecteer s.v.p. een ander sjabloon en probeer het nogmaals.</value>
+  </data>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Basis instellingen</value>
+  </data>
+  <data name="BasicSettingsHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u de basis instellingen voor deze pagina doen</value>
+  </data>
+  <data name="CacheDuration.Help">
+    <value xml:space="preserve">Geef de lengte van de cache op, in seconden, voor deze pagina. Dit dient een integer te zijn.</value>
+  </data>
+  <data name="CacheDuration.Text">
+    <value xml:space="preserve">Lengte Cache (seconden)</value>
+  </data>
+  <data name="CacheDurationInfo.Text">
+    <value xml:space="preserve">Let op, er is een geplande taak voor het purgen van de Output Cache. De taak moet vaker lopen dan de Cache Duur u hier opgeeft.</value>
+  </data>
+  <data name="CacheIncludeExclude.Help">
+    <value xml:space="preserve">Indien ingesteld op INCLUSIEF, zullen alle querystrings parameter waarde variaties resulteren in een nieuw item in de output cache. Indien ingesteld op EXCLUSIEF, zullen alle querystrings parameter waarde variaties niet worden gebruikt als variatie voor de gecachte output pagina.</value>
+  </data>
+  <data name="CacheIncludeExclude.Text">
+    <value xml:space="preserve">Standaard In-/Exclusief Parameters</value>
+  </data>
+  <data name="CacheMaxVaryByCount.Help">
+    <value xml:space="preserve">Geef het maximum aantal toegestane variaties op voor de cache van deze pagina. Het moet een integer zijn. Let op: deze feature voorkomt mogelijke "Denial of Service" (DoS) aanvallen.</value>
+  </data>
+  <data name="CacheMaxVaryByCount.Text">
+    <value xml:space="preserve">Varieer op Limiet</value>
+  </data>
+  <data name="CacheProvider.Help">
+    <value xml:space="preserve">Selecteer welke provider er voor deze pagina moet worden gebruikt.</value>
+  </data>
+  <data name="CacheProvider.Text">
+    <value xml:space="preserve">Output Cache Provider</value>
+  </data>
+  <data name="CacheSettings.Text">
+    <value xml:space="preserve">Cache-instellingen</value>
+  </data>
+  <data name="cmdClearAllPageCache.Text">
+    <value xml:space="preserve">Verwijder Cache - Alle Pagina's</value>
+  </data>
+  <data name="cmdClearPageCache.Text">
+    <value xml:space="preserve">Verwijder Cache - Deze Pagina</value>
+  </data>
+  <data name="cmdCopyPerm.Text">
+    <value xml:space="preserve">Kopieer machtigingen</value>
+  </data>
+  <data name="cmdCopySkin.Text">
+    <value xml:space="preserve">Kopieer ontwerp</value>
+  </data>
+  <data name="cmdSubmit.Text">
+    <value xml:space="preserve">Versturen</value>
+  </data>
+  <data name="cmdUpdateLocalization.Text">
+    <value xml:space="preserve">Vertalingen bijwerken</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Pagina bewerken</value>
+  </data>
+  <data name="ControlTitle_tab.Text">
+    <value xml:space="preserve">Pagina Instellingen</value>
+  </data>
+  <data name="Copy.Text">
+    <value xml:space="preserve">Pagina kopiëren</value>
+  </data>
+  <data name="CopyContent.Text">
+    <value xml:space="preserve">Selecteer modules</value>
+  </data>
+  <data name="CopyContentHelp.Text">
+    <value xml:space="preserve">Selecteer de modules die u wilt kopiëren, en geef voor elke module een titel. Daarnaast kunt u een keuze maken uit Nieuwe Module (zonder inhoud), een Kopie van de module (met inhoud) of een Verwijzing naar een bestaande module (gedeelde inhoud) </value>
+  </data>
+  <data name="CopyDesignToChildren.Confirm" lastModified="2015-01-09 12:12:22">
+    <value xml:space="preserve">Het thema en container zullen worden vervangen voor alle onderliggende pagina's van de pagina. Weet u zeker dat u verder wilt gaan?</value>
+  </data>
+  <data name="CopyModules.Text">
+    <value xml:space="preserve">Kopieer van pagina</value>
+  </data>
+  <data name="CopyModulesHelp.Text">
+    <value xml:space="preserve">Selecteer de pagina (indien van toepassing) waarvandaan u de modules wilt kopiëren</value>
+  </data>
+  <data name="CopyPage.Text">
+    <value xml:space="preserve">Pagina kopiëren</value>
+  </data>
+  <data name="CreateLocalizedPages.Text">
+    <value xml:space="preserve">Maak Vertaalde Pagina's</value>
+  </data>
+  <data name="Culture.Text">
+    <value xml:space="preserve">Alleen in huidige taal maken.</value>
+  </data>
+  <data name="cultureLabel.Help">
+    <value xml:space="preserve">De taal voor deze pagina</value>
+  </data>
+  <data name="cultureLabel.Text">
+    <value xml:space="preserve">Taal Pagina:</value>
+  </data>
+  <data name="cultureTypeLabel.Help">
+    <value xml:space="preserve">Hier kunt u kiezen of de pagina taal neutraal is, waarbij alle inhoud op de pagina hetzelfde is voor alle talen, of dat elke taal een specifieke versie heeft.</value>
+  </data>
+  <data name="cultureTypeLabel.Text">
+    <value xml:space="preserve">Vertalingstype:</value>
+  </data>
+  <data name="DefaultCulture.Text">
+    <value xml:space="preserve">Dit is de standaard taal voor deze site</value>
+  </data>
+  <data name="defaultCultureLabel.Help">
+    <value xml:space="preserve">Klik op deze link om deze versie van de pagina in de oorspronkelijke taal te zien</value>
+  </data>
+  <data name="defaultCultureLabel.Text">
+    <value xml:space="preserve">Standaard Taal:</value>
+  </data>
+  <data name="DefaultTemplate.Text">
+    <value xml:space="preserve">Standaard</value>
+  </data>
+  <data name="DeletePermissionError.Text">
+    <value xml:space="preserve">U bent niet gemachtigd om deze pagina te kunnen verwijderen.</value>
+  </data>
+  <data name="DeleteSpecialPage.Text">
+    <value xml:space="preserve">Als een pagina ingesteld is als beginpagina, welkomstpagina, inlogpagina of gebruikerspagina dan kan deze niet worden verwijderd. Tevens kunnen de Beheer en SuperUser pagina's niet worden verwijderd.</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Omschrijving</value>
+  </data>
+  <data name="DescriptionHelp.Text">
+    <value xml:space="preserve">Geef een omschrijving voor deze pagina.</value>
+  </data>
+  <data name="DesignCopied.Text">
+    <value xml:space="preserve">Ontwerp succesvol gekopieerd</value>
+  </data>
+  <data name="DesignCopyError.Text">
+    <value xml:space="preserve">Er was een fout tijdens het kopiëren van het ontwerp</value>
+  </data>
+  <data name="Disabled.Text">
+    <value xml:space="preserve">Niet actief</value>
+  </data>
+  <data name="DisabledHelp.Text">
+    <value xml:space="preserve">Als de pagina niet actief is, dan is deze niet beschikbaar voor de bezoekers van uw website. U kan deze optie gebruiken om inhoud te verbergen die u op een later tijdstip wilt gebruiken.</value>
+  </data>
+  <data name="doNotRedirectLabel.Help">
+    <value xml:space="preserve">Selecteer deze optie om er voor te zorgen dat een pagina niet wordt meegenomen in regels die er voor kunnen zorgen dat een doorverwijzing wordt gedaan.</value>
+  </data>
+  <data name="doNotRedirectLabel.Text">
+    <value xml:space="preserve">Niet doorsturen:</value>
+  </data>
+  <data name="edit.Text">
+    <value xml:space="preserve">Wijzig</value>
+  </data>
+  <data name="ExceededQuota.Text">
+    <value xml:space="preserve">Door deze pagina toe te voegen zou het pagina quota voor deze site overschreden worden. Neem contact op met uw hosting provider met betrekking tot het verhogen van het pagina quota</value>
+  </data>
+  <data name="ExcludeVaryBy.Help">
+    <value xml:space="preserve">Een lijst met querystring parameternamen (gescheiden door komma's) die moeten worden UITGESLOTEN voor de variaties van de gecachte pagina's. Deze instelling is alleen geldig wanneer er hierboven "Inclusief" is aangegeven voor de querystring parameters van de gecachte pagina variaties.</value>
+  </data>
+  <data name="ExcludeVaryBy.Text">
+    <value xml:space="preserve">Uit te sluiten parameters voor de Cache variatie</value>
+  </data>
+  <data name="Icon.Text">
+    <value xml:space="preserve">Icoon</value>
+  </data>
+  <data name="IconHelp.Text">
+    <value xml:space="preserve">U kunt hier een icoon kiezen dat dan weergegeven wordt in het menu.</value>
+  </data>
+  <data name="IconLarge.Text">
+    <value xml:space="preserve">Groot Icoon</value>
+  </data>
+  <data name="IconLargeHelp.Text">
+    <value xml:space="preserve">U kunt een groot icoon kiezen dat in de console gebruikt zal worden.</value>
+  </data>
+  <data name="IncludeVaryBy.Help">
+    <value xml:space="preserve">Een lijst met querystring parameternamen (gescheiden door komma's) die moeten worden MEEGENOMEN in de variaties van de gecachte pagina's. Deze instelling is alleen geldig wanneer er hierboven "Exclusief" is aangegeven voor de querystring parameters van de gecachte pagina variaties.</value>
+  </data>
+  <data name="IncludeVaryBy.Text">
+    <value xml:space="preserve">Mee te nemen parameters voor de Cache variatie</value>
+  </data>
+  <data name="InsertAfter.Text">
+    <value xml:space="preserve">Achter</value>
+  </data>
+  <data name="InsertAtEnd.Text">
+    <value xml:space="preserve">Onderaan Toevoegen</value>
+  </data>
+  <data name="InsertBefore.Text">
+    <value xml:space="preserve">Voor</value>
+  </data>
+  <data name="InsertPosition.Help">
+    <value xml:space="preserve">Selecteer de pagina waar u deze pagina voor of achter wilt invoegen.</value>
+  </data>
+  <data name="InsertPosition.Text">
+    <value xml:space="preserve">Pagina Invoegen:</value>
+  </data>
+  <data name="InvalidTabDates.Text">
+    <value xml:space="preserve">U heeft ongeldige Eind- &amp; Startdata ingevoerd - de pagina zal nooit worden weergegeven.</value>
+  </data>
+  <data name="InvalidTabName.Text">
+    <value xml:space="preserve">Dit is een ongeldige pagina naam</value>
+  </data>
+  <data name="IsTranslated.Help">
+    <value xml:space="preserve">Aan- / uitzetten om aan te geven of deze pagina is vertaald (of niet)</value>
+  </data>
+  <data name="IsTranslated.Text">
+    <value xml:space="preserve">Is Vertaald?</value>
+  </data>
+  <data name="KeyWords.Text">
+    <value xml:space="preserve">Sleutelwoorden</value>
+  </data>
+  <data name="KeyWordsHelp.Text">
+    <value xml:space="preserve">Voer sleutelwoorden in voor deze pagina (gescheiden door komma's). Deze sleutelwoorden maken het makkelijker voor zoekmachines om uw pagina's te indexeren.</value>
+  </data>
+  <data name="lblCachedItemCount.Text">
+    <value xml:space="preserve">Huidige Cache Aantal: {0} variaties voor deze pagina</value>
+  </data>
+  <data name="Localization.Text">
+    <value xml:space="preserve">Vertalen</value>
+  </data>
+  <data name="Localize.Confirm">
+    <value xml:space="preserve">U staat op het punt om voor deze site vertaalde pagina's in de "{0}" taal te maken. Deze pagina's delen content met de dezelfde pagina in de standaard taal - "{1}" totdat de modules zijn vertaald.</value>
+  </data>
+  <data name="Localized.Text">
+    <value xml:space="preserve">Maak vertaalde versies van Pagina</value>
+  </data>
+  <data name="LocalizedModules.Text">
+    <value xml:space="preserve">Module Vertaling</value>
+  </data>
+  <data name="LocalizedTabs.Text">
+    <value xml:space="preserve">Pagina Vertaling</value>
+  </data>
+  <data name="MakeNeutral.Confirm">
+    <value xml:space="preserve">Deze optie verwijderd alle vertaalde versies van deze pagina. alleen de standaard taal zal nog overblijven. Weet u zeker dat u deze handeling wilt uitvoeren?</value>
+  </data>
+  <data name="MakeNeutral.Text">
+    <value xml:space="preserve">Verander pagina in neutrale taal</value>
+  </data>
+  <data name="MakeTranslatable.Text">
+    <value xml:space="preserve">Maak vertaling van de pagina mogelijk</value>
+  </data>
+  <data name="Menu.Text">
+    <value xml:space="preserve">Neem op in menu</value>
+  </data>
+  <data name="MenuHelp.Text">
+    <value xml:space="preserve">U kunt er voor kiezen deze pagina niet in het menu op te nemen. Als een pagina niet in het menu staat, kunt u er nog steeds naar toe linken met behulp van de pagina URL.</value>
+  </data>
+  <data name="ModuleCopy.Text">
+    <value xml:space="preserve">Kopie</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Paginabeheer&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen de instellingen van een pagina gewijzigd worden. De pagina kan ook gewist worden, of aangemeld worden bij Google voor indexering.&lt;/p&gt;</value>
+  </data>
+  <data name="ModuleNew.Text">
+    <value xml:space="preserve">Nieuw</value>
+  </data>
+  <data name="ModuleReference.Text">
+    <value xml:space="preserve">Verwijzing</value>
+  </data>
+  <data name="Neutral.Text">
+    <value xml:space="preserve">Maak één enkele pagina in standaard taal</value>
+  </data>
+  <data name="NewContentMessage.Body">
+    <value xml:space="preserve">De volgende pagina bevat nieuwe content welke nog vertaald moet worden&lt;br/&gt;
+
+Pagina: &lt;a href='{1}'&gt;{0}&lt;/a&gt;&lt;br/&gt;{2}</value>
+  </data>
+  <data name="NewContentMessage.Subject">
+    <value xml:space="preserve">Nieuwe conctent beschikbaar voor vertaling</value>
+  </data>
+  <data name="OtherSettings.Text">
+    <value xml:space="preserve">Andere instellingen</value>
+  </data>
+  <data name="PageDetails.Text">
+    <value xml:space="preserve">Pagina details</value>
+  </data>
+  <data name="PageHeadText.Help">
+    <value xml:space="preserve">Geef hier tags op (zoals META tags) die moeten worden weergegeven in de "HEAD" sectie van de HTML voor deze pagina.</value>
+  </data>
+  <data name="PageHeadText.Text">
+    <value xml:space="preserve">Pagina Header Tags</value>
+  </data>
+  <data name="ParentTab.Help">
+    <value xml:space="preserve">Selecteer de pagina waar u deze pagina als een sub-pagina aan toe wilt voegen.</value>
+  </data>
+  <data name="ParentTab.Text">
+    <value xml:space="preserve">Hoofdpagina</value>
+  </data>
+  <data name="PathDuplicateWithAlias.Text">
+    <value xml:space="preserve">Er is een site domein met hetzelfde pagina pad.</value>
+  </data>
+  <data name="PermissionCopyError.Text">
+    <value xml:space="preserve">Er was een fout bij het kopiëren van de machtigingen</value>
+  </data>
+  <data name="Permissions.Text">
+    <value xml:space="preserve">Machtigingen</value>
+  </data>
+  <data name="PermissionsCopied.Text">
+    <value xml:space="preserve">Machtigingen Succesvol gekopieerd</value>
+  </data>
+  <data name="PermissionsHelp.Text">
+    <value xml:space="preserve">Kies de groep personen/rol(len) die gemachtigd zijn uw pagina te bekijken en te bewerken</value>
+  </data>
+  <data name="plAllowIndex.Help">
+    <value xml:space="preserve">Deze instelling bepaald of een pagina mag worden geindexeerd door de zoek crawler. Het gebruikt de INDEX/NOINDEX waardes for robots meta tags.</value>
+  </data>
+  <data name="plAllowIndex.Text">
+    <value xml:space="preserve">Allow Indexed:</value>
+  </data>
+  <data name="plContainer.Help">
+    <value xml:space="preserve">De geselecteerde container zal worden toegepast op alle modules op deze pagina.</value>
+  </data>
+  <data name="plContainer.Text">
+    <value xml:space="preserve">Container pagina</value>
+  </data>
+  <data name="plCopyPerm.Help">
+    <value xml:space="preserve">Hiermee worden de machtigingen voor de huidige pagina gekopieerd naar onderliggende pagina's</value>
+  </data>
+  <data name="plCopyPerm.Text">
+    <value xml:space="preserve">Kopieer machtigingen naar onderliggende pagina's:</value>
+  </data>
+  <data name="plCopySkin.Help" lastModified="2015-01-09 11:11:14">
+    <value xml:space="preserve">Kopieert het geselecteerde ontwerp (thema en container) van de pagina naar de onderliggende sub-pagina's. Deze optie is alleen beschikbaar voor websitebeheerders en Superusers.</value>
+  </data>
+  <data name="plCopySkin.Text">
+    <value xml:space="preserve">Kopieer ontwerp naar onderliggende pagina's:</value>
+  </data>
+  <data name="plCustomStylesheet.Help">
+    <value xml:space="preserve">Een stylesheet dat alleen zal worden geladen voor deze pagina. Het bestand moet in hoofdmap of in een sub map van de huidige website staan.</value>
+  </data>
+  <data name="plCustomStylesheet.Text">
+    <value xml:space="preserve">Pagina stylesheet</value>
+  </data>
+  <data name="plEndDate.Help">
+    <value xml:space="preserve">Geef de einddatum voor weergave van deze pagina. Na deze datum wordt de pagina automatisch inactief. U kunt de kalender gebruiken om een datum te selecteren.</value>
+  </data>
+  <data name="plEndDate.Text">
+    <value xml:space="preserve">Einddatum:</value>
+  </data>
+  <data name="plFolder.Help">
+    <value xml:space="preserve">Selecteer de te gebruiken sjabloon directory</value>
+  </data>
+  <data name="plFolder.Text">
+    <value xml:space="preserve">Sjabloon Map:</value>
+  </data>
+  <data name="plPermanentRedirect.Help">
+    <value xml:space="preserve">Deze box aanvinken als u de client op de hoogte wilt brengen dat deze pagina als permanent verplaatst moet worden beschouwd. Dit stelt zoekmachines in staat om hun URL's aan te passen en deze direct te linken aan de bron. Dit wordt genegeerd indien het LinkType staat ingesteld op "Geen".</value>
+  </data>
+  <data name="plPermanentRedirect.Text">
+    <value xml:space="preserve">Permanente Redirect?</value>
+  </data>
+  <data name="plPriority.Help">
+    <value xml:space="preserve">Geef de gewenste prioriteit op (tussen 0 en 1.0).  Dit bepaalt hoe deze pagina in Google moet worden gerangschikt t.o.v. andere pagina's van uw site (0.5 is standaard).</value>
+  </data>
+  <data name="plPriority.Text">
+    <value xml:space="preserve">SiteMap Prioriteit:</value>
+  </data>
+  <data name="plSecure.Help">
+    <value xml:space="preserve">Geef aan of deze pagina geforceerd gebruik moet maken van een SSL (HTTPS) verbinding. Deze optie is alleen beschikbaar als de beheerder van deze site SSL heeft geactiveerd in de website instellingen.</value>
+  </data>
+  <data name="plSecure.Text">
+    <value xml:space="preserve">Beveiligd?</value>
+  </data>
+  <data name="plSkin.Help" lastModified="2015-01-09 11:11:14">
+    <value xml:space="preserve">Het geselecteerde thema wordt toegepast op deze pagina.</value>
+  </data>
+  <data name="plSkin.Text" lastModified="2015-01-09 11:11:14">
+    <value xml:space="preserve">Pagina thema</value>
+  </data>
+  <data name="plStartDate.Help">
+    <value xml:space="preserve">Geef een begindatum voor weergave van deze pagina. Voor deze datum is de pagina automatisch inactief. U kunt de kalender gebruiken om een datum te selecteren.</value>
+  </data>
+  <data name="plStartDate.Text">
+    <value xml:space="preserve">Begindatum:</value>
+  </data>
+  <data name="plTags.Help">
+    <value xml:space="preserve">Selecteer items uit de dropdown lijst om deze pagina te labelen.</value>
+  </data>
+  <data name="plTags.Text">
+    <value xml:space="preserve">Labels:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Selecteer een pagina sjabloon die u wilt gebruiken om deze pagina mee aan te maken.</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Pagina Sjabloon:</value>
+  </data>
+  <data name="PopulatePages.Text">
+    <value xml:space="preserve">Gevulde Pagina's</value>
+  </data>
+  <data name="PreviewNoSelectionMessage.Text" lastModified="2015-01-09 11:11:14">
+    <value xml:space="preserve">Selecteer een thema en/of container om een ​​vooruitblik van te zien.</value>
+  </data>
+  <data name="Publish.Confirm">
+    <value xml:space="preserve">U staat op het punt deze pagina te publiceren. Deze actie zal alle modules als vertaald aanmerken en zal automatisch alle weergave machtigingen van de standaard taal overnemen. Weet u zeker dat u dit wilt doen?</value>
+  </data>
+  <data name="Publish.Text">
+    <value xml:space="preserve">Publiceren</value>
+  </data>
+  <data name="PublishPage.Text">
+    <value xml:space="preserve">Klik op de knop aan de rechterzijde om de pagina te publiceren. Dit kopieert de weergave machtigingen van de standaard versie van deze pagina, en maakt dus de pagina zichtbaar voor bezoekers van de site.</value>
+  </data>
+  <data name="publishPageLabel.Help">
+    <value xml:space="preserve">Klik op de knop aan de rechterzijde om de pagina te publiceren. Dit kopieert de weergave machtigingen van de standaard versie van deze pagina, en maakt dus de pagina zichtbaar voor bezoekers van de site.</value>
+  </data>
+  <data name="publishPageLabel.Text">
+    <value xml:space="preserve">Publiceer Pagina</value>
+  </data>
+  <data name="ReadyForTranslation.Text">
+    <value xml:space="preserve">Notificeer de vertaler</value>
+  </data>
+  <data name="RefreshInterval.Help">
+    <value xml:space="preserve">Geef een ververs interval voor automatische verversing van de pagina. (Voorbeeld: voer "60" in voor 1 minuut of laat leeg om uit te zetten.)</value>
+  </data>
+  <data name="RefreshInterval.Invalid">
+    <value xml:space="preserve">Ongeldig nummer</value>
+  </data>
+  <data name="RefreshInterval.Text">
+    <value xml:space="preserve">Ververs interval (seconden)</value>
+  </data>
+  <data name="RequiredFields.Text">
+    <value xml:space="preserve">Geeft verplichte velden aan</value>
+  </data>
+  <data name="Root.Text">
+    <value xml:space="preserve">Hoofdmap</value>
+  </data>
+  <data name="SecuritySettings.Text">
+    <value xml:space="preserve">Beveiligingsinstellingen</value>
+  </data>
+  <data name="SkinPreview.Text" lastModified="2015-01-09 11:11:14">
+    <value xml:space="preserve">Voorbeeld van het thema en Container</value>
+  </data>
+  <data name="SubmitToGoogle.Text">
+    <value xml:space="preserve">Meldt pagina aan bij Google</value>
+  </data>
+  <data name="TabExists.Text">
+    <value xml:space="preserve">De naam van de pagina is al in gebruik voor een andere pagina op het zelfde niveau van de pagina hiërarchie.</value>
+  </data>
+  <data name="TabName.Text">
+    <value xml:space="preserve">Naam Pagina</value>
+  </data>
+  <data name="TabNameHelp.Text">
+    <value xml:space="preserve">Dit is de naam van de pagina. Deze naam wordt weergegeven in het navigatie-menu</value>
+  </data>
+  <data name="TabRecycled.Text">
+    <value xml:space="preserve">Een pagina met deze naam bestaat in de Prullenmand. Om deze pagina te herstellen dient u de Prullenmand te gebruiken.</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Titel Pagina</value>
+  </data>
+  <data name="TitleHelp.Text">
+    <value xml:space="preserve">Geef hier een titel aan de pagina. Deze titel wordt weergegeven in de titelbalk van de browser.</value>
+  </data>
+  <data name="TranslateConfirm.Text">
+    <value xml:space="preserve">Wilt u deze pagina als vertaald aanmerken? Deze actie is onmiddellijk van kracht. Weet u het zeker?</value>
+  </data>
+  <data name="TranslationComment.Text">
+    <value xml:space="preserve">Geef Vertaling Comment</value>
+  </data>
+  <data name="TranslationMessageConfirmMessage.Error">
+    <value xml:space="preserve">Er is een fout opgetreden bij het berichten van de vertalers.</value>
+  </data>
+  <data name="TranslationMessageConfirmMessage.Text">
+    <value xml:space="preserve">Berichten van vertalers succesvol.</value>
+  </data>
+  <data name="UnTranslateConfirm.Text">
+    <value xml:space="preserve">Wilt u deze pagina als niet vertaald aanmerken? Deze actie is onmiddellijk van kracht. Weet u het zeker?</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Pagina Bijwerken</value>
+  </data>
+  <data name="UpdateUrlButton.Caption">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="UpdateUrlButton.Tooltip">
+    <value xml:space="preserve">URL bijwerken</value>
+  </data>
+  <data name="Url.Text">
+    <value xml:space="preserve">Koppel met URL</value>
+  </data>
+  <data name="UrlHelp.Text">
+    <value xml:space="preserve">Als u wilt dat deze pagina zich gedraagt als navigatie hyperlink naar een andere bron (pagina, afbeelding etc), dan kun u hier de url specificeren. Dit is dus een optioneel veld.</value>
+  </data>
+  <data name="urlLabel.Help">
+    <value xml:space="preserve">U kunt een aangepaste URL gebruiken voor deze pagina.</value>
+  </data>
+  <data name="urlLabel.Text">
+    <value xml:space="preserve">Pagina URL:</value>
+  </data>
+  <data name="UrlManagement.Text">
+    <value xml:space="preserve">URL beheer</value>
+  </data>
+  <data name="UrlPathCleaned.Error">
+    <value xml:space="preserve">De ingegeven URL bevat verboden karakters, deze zullen worden verwijderd. U kunt nogmaals op Bijwerken klikken om de aangepaste URL te accepteren.</value>
+  </data>
+  <data name="UrlPathNotUnique.Error">
+    <value xml:space="preserve">De ingevoerde pagina URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op bijwerken.</value>
+  </data>
+  <data name="valCacheTime.ErrorMessage">
+    <value xml:space="preserve">Cache duur moet een getal zijn</value>
+  </data>
+  <data name="valCacheVaryByLimit.ErrorMessage">
+    <value xml:space="preserve">Cache Vary ByLimit moet een getal zijn</value>
+  </data>
+  <data name="valEndDate.ErrorMessage">
+    <value xml:space="preserve">Ongeldige Einddatum</value>
+  </data>
+  <data name="valEndDate2.ErrorMessage">
+    <value xml:space="preserve">Einddatum moet na startdatum</value>
+  </data>
+  <data name="valPriority.ErrorMessage">
+    <value xml:space="preserve">Ongeldige waarde voor eigenschap</value>
+  </data>
+  <data name="valPriorityRequired.ErrorMessage">
+    <value xml:space="preserve">Eigenschap is vereist</value>
+  </data>
+  <data name="valStartDate.ErrorMessage">
+    <value xml:space="preserve">Ongeldige startdatum</value>
+  </data>
+  <data name="valTabName.ErrorMessage">
+    <value xml:space="preserve">Pagina naam is een verplicht veld</value>
+  </data>
+  <data name="view.Text">
+    <value xml:space="preserve">Weergave</value>
+  </data>
+</root>

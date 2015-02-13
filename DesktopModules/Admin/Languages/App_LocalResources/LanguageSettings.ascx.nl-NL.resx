@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Browser.Help">
+    <value xml:space="preserve">Deze box aanvinken om taal detectie door de browser in te schakelen.</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Taalbeheer instelling</value>
+  </data>
+  <data name="HostSettings.Title">
+    <value xml:space="preserve">Taal Instellingen Applicatie</value>
+  </data>
+  <data name="PageSize.Error">
+    <value xml:space="preserve">&lt;br /&gt;Pagina grootte moet een geheel getal zijn groter dan 0</value>
+  </data>
+  <data name="plBrowser.Help">
+    <value xml:space="preserve">Deze boks aanvinken om de detectie van de browser taal te activeren</value>
+  </data>
+  <data name="plPageSize.Help">
+    <value xml:space="preserve">Indien u paginering in de editor heeft ingeschakeld kunt u hier de paginagrootte instellen (standaard is 10)</value>
+  </data>
+  <data name="plPageSize.Text">
+    <value xml:space="preserve">Editor Paginagrootte:</value>
+  </data>
+  <data name="plShowLanguages.Help">
+    <value xml:space="preserve">Selecteer deze optie om de vertaal tab ook voor niet admin gebruikers weer te geven die mogelijk toegang hebben tot deze module. Administratoren en host gebruikers zien deze vertaal tab altijd</value>
+  </data>
+  <data name="plShowLanguages.Text">
+    <value xml:space="preserve">Vertaal tab weergeven aan niet admin gebruikers?</value>
+  </data>
+  <data name="plShowSettings.Help">
+    <value xml:space="preserve">Selecteer deze optie om de instellingen tab ook voor niet admin gebruikers weer te geven die mogelijk toegang hebben tot deze module. Administratoren en host gebruikers zien deze instellingen tab altijd</value>
+  </data>
+  <data name="plShowSettings.Text">
+    <value xml:space="preserve">Instellingen tab weergeven aan niet admin gebruikers?</value>
+  </data>
+  <data name="plUsePaging.Help">
+    <value xml:space="preserve">Standaard is paginering niet voor de editor ingesteld. Echter, u kunt de paginering in de taal editor selecteren om de lengte van de pagina reduceren.</value>
+  </data>
+  <data name="plUsePaging.Text">
+    <value xml:space="preserve">Paginering voor de Editor?</value>
+  </data>
+</root>

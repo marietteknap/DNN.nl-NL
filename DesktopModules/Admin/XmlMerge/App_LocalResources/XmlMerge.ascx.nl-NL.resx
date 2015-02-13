@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdExecute.Text">
+    <value xml:space="preserve">Samenvoegen Uitvoeren</value>
+  </data>
+  <data name="cmdLoad.Text">
+    <value xml:space="preserve">Laden</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Wijzigingen opslaan</value>
+  </data>
+  <data name="cmdUpload.Text">
+    <value xml:space="preserve">Uploaden</value>
+  </data>
+  <data name="Configuration.Text">
+    <value xml:space="preserve">Bestanden</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Configuratie manager</value>
+  </data>
+  <data name="ERROR_ConfigurationFormat.Text">
+    <value xml:space="preserve">Uw configuratie bestand is geen geldig XML-bestand. Corrigeer de opmaak kwestie en probeer het opnieuw. {0}</value>
+  </data>
+  <data name="ERROR_Merge.Text">
+    <value xml:space="preserve">Het systeem heeft een foutmelding ontdekt toen het de configuratie wijzigingen wilde toepassen. Controleer het logboek voor de details van de foutmelding.</value>
+  </data>
+  <data name="fileLabel.Help">
+    <value xml:space="preserve">U kunt het bestand veranderen voordat u wijzigingen aanbrengt.</value>
+  </data>
+  <data name="fileLabel.Text">
+    <value xml:space="preserve">Bestand:</value>
+  </data>
+  <data name="LoadConfigWarning.Text">
+    <value xml:space="preserve">U verliest uw huidige veranderingen als je een nieuw configuratie bestand gaat laden!</value>
+  </data>
+  <data name="Merge.Text">
+    <value xml:space="preserve">Configuratie Samenvoeg Scripts</value>
+  </data>
+  <data name="MergeConfirm.Text">
+    <value xml:space="preserve">Ben je er zeker van dat je deze wijzigingen wilt samenvoegen met dit configuratie bestand?</value>
+  </data>
+  <data name="plConfig.Help">
+    <value xml:space="preserve">Selecteer een configuratiebestand om te bewerken.</value>
+  </data>
+  <data name="plConfig.Text">
+    <value xml:space="preserve">Configuratie Bestand</value>
+  </data>
+  <data name="plScript.Help">
+    <value xml:space="preserve">Selecteer een XML samenvoeg Script om te uploaden. Eenmaal geladen, kan het script worden bewerkt en vervolgens worden uitgevoerd.</value>
+  </data>
+  <data name="plScript.Text">
+    <value xml:space="preserve">Samenvoeg Script</value>
+  </data>
+  <data name="SaveConfirm.Text">
+    <value xml:space="preserve">Weet u zeker dat u de wijzigingen in dit configuratie bestand op wilt slaan?</value>
+  </data>
+  <data name="SaveWarning.Text">
+    <value xml:space="preserve">Het veranderen van de web.config zal ertoe leiden dat uw website moet worden herladen en dit kan de prestaties van de site verminderen omdat deze door de webserver opnieuw wordt geladen. Wilt u doorgaan?</value>
+  </data>
+  <data name="scriptLabel.Help">
+    <value xml:space="preserve">U kunt het merge script wijzigen voordat het wordt uitgevoerd.</value>
+  </data>
+  <data name="scriptLabel.Text">
+    <value xml:space="preserve">Script:</value>
+  </data>
+  <data name="SelectConfig.Text">
+    <value xml:space="preserve">Selecteer een configuratie bestand...</value>
+  </data>
+  <data name="Success.Text">
+    <value xml:space="preserve">De veranderingen zijn succesvol toegepast.</value>
+  </data>
+</root>

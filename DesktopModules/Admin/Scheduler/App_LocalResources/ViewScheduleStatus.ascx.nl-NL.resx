@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Voeg item toe aan takenlijst</value>
+  </data>
+  <data name="cmdStart.Text">
+    <value xml:space="preserve">Start</value>
+  </data>
+  <data name="cmdStop.Text">
+    <value xml:space="preserve">Stop</value>
+  </data>
+  <data name="ControlTitle_status.Text">
+    <value xml:space="preserve">Status geplande taken</value>
+  </data>
+  <data name="Disabled.Text">
+    <value xml:space="preserve">Uitgeschakeld</value>
+  </data>
+  <data name="DisabledMessage.Text">
+    <value xml:space="preserve">Schema's zijn momenteel uitgeschakeld.</value>
+  </data>
+  <data name="Duration.Header">
+    <value xml:space="preserve">Duur&lt;br&gt;(seconden)</value>
+  </data>
+  <data name="lblActiveThreadsLabel.Text">
+    <value xml:space="preserve">Actieve Processen:</value>
+  </data>
+  <data name="lblCommand.Text">
+    <value xml:space="preserve">Commando:</value>
+  </data>
+  <data name="lblFreeThreadsLabel.Text">
+    <value xml:space="preserve">Vrije Processen:</value>
+  </data>
+  <data name="lblMaxThreadsLabel.Text">
+    <value xml:space="preserve">Maximale Processen:</value>
+  </data>
+  <data name="lblProcessing.Text">
+    <value xml:space="preserve">Taken in uitvoering</value>
+  </data>
+  <data name="lblQueue.Text">
+    <value xml:space="preserve">Taken in wachtrij</value>
+  </data>
+  <data name="lblStatusLabel.Text">
+    <value xml:space="preserve">Huidige status:</value>
+  </data>
+  <data name="ManuallyStopped.Text">
+    <value xml:space="preserve">Handmatig gestopt vanuit status pagina geplande taken</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Over geplande taken&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunt u aangeven welke taken op geplande intervallen uitgevoerd moeten worden. &lt;/p&gt;</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Taaknaam</value>
+  </data>
+  <data name="NextStart.Header">
+    <value xml:space="preserve">Volgende start</value>
+  </data>
+  <data name="NoTasks.Text">
+    <value xml:space="preserve">Er staan geen taken in de wachtrij, en er worden geen taken uitgevoerd.</value>
+  </data>
+  <data name="Notes.Header">
+    <value xml:space="preserve">Opmerkingen</value>
+  </data>
+  <data name="ObjectDependencies.Header">
+    <value xml:space="preserve">Object afhankelijkheden</value>
+  </data>
+  <data name="Overdue.Header">
+    <value xml:space="preserve">Te laat&lt;br&gt;(seconden)</value>
+  </data>
+  <data name="ScheduleHistory.Action">
+    <value xml:space="preserve">Bekijk Wachtrij Historie</value>
+  </data>
+  <data name="ScheduleID.Header">
+    <value xml:space="preserve">ID</value>
+  </data>
+  <data name="Servers.Header">
+    <value xml:space="preserve">Servers</value>
+  </data>
+  <data name="Started.Header">
+    <value xml:space="preserve">Gestart</value>
+  </data>
+  <data name="Stop.Header">
+    <value xml:space="preserve">Stop</value>
+  </data>
+  <data name="Thread.Header">
+    <value xml:space="preserve">Proces</value>
+  </data>
+  <data name="TimeRemaining.Header">
+    <value xml:space="preserve">Resterende tijd (seconden)</value>
+  </data>
+  <data name="TriggeredBy.Header">
+    <value xml:space="preserve">Gestart door</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Type</value>
+  </data>
+</root>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Activate.Text">
+    <value xml:space="preserve">Activeren</value>
+  </data>
+  <data name="ActivateButtonText.Text">
+    <value xml:space="preserve">Activeren</value>
+  </data>
+  <data name="ActivatedMessageHtml.Text">
+    <value xml:space="preserve">&lt;p class="{0}"&gt;Premium gegevens is actief. Bedankt.&lt;/p&gt;</value>
+  </data>
+  <data name="ActivateInstructionsHtml.Text">
+    <value xml:space="preserve">&lt;p&gt;Plak uw gegevens Premium licentiesleutel in het tekstvak hieronder. Selecteer "Activeren" de licentiesleutel wilt gebruiken met deze website.&lt;/p&gt;</value>
+  </data>
+  <data name="ActivationDataInvalidHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De gegevensbron van de verstrekt bevat geen geldige gegevens.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureCouldNotUpdateConfigHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het element fiftyOne/detectie van het configuratiebestand '{1}' kan niet worden ingevoegd. Controleer zorgen dat de volgende tekst tussen de tags fiftyOne aanwezig is en probeer het opnieuw activeren van de licentiesleutel.&lt;/p&gt;
+&lt;br&gt;
+&lt;span style="margin-left: 0px !important;"&gt;&lt;code style="color: #000000;"&gt;&amp;lt;&lt;/code&gt;&lt;code&gt;&lt;span style="color: #006699;"&gt;&lt;strong&gt;detection&lt;/strong&gt;&lt;/span&gt;&lt;/code&gt;&lt;code style="color: #808080;"&gt;binaryFilePath&lt;/code&gt;&lt;code style="color: #000000;"&gt;=&lt;/code&gt;&lt;code style="color: blue;"&gt;"~/App_Data/51Degrees-Premium.dat"&lt;/code&gt;&lt;code&gt;&lt;span style="color: #000000;"&gt;/&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureCouldNotWriteDataFileHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;
+&lt;p&gt;Het apparaatbestand '{1}' kan niet worden opgeslagen. Controleer dat de gebruiker '{2}' heeft schrijftoegang tot de map of locatie van de map wijzigen in een met schrijftoegang.&lt;/p&gt;
+&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureCouldNotWriteLicenceFileHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het licentie bestand '{1}' kon niet worden geschreven naar deze websites bin map '{2}'. Maak een tekstbestand met de extensie .lic en plak de licentiesleutel in het bestand. Sla het tekstbestand in de bin-map.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureGenericHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel geboden kon niet worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;Contact met ons&lt;/a&gt; verstrekken van details van uw website-implementatie en wij zullen proberen en u helpen.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureHttpHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;We konden niet bereiken de 51Degrees.mobi licentie validatie-website op de host '{1}'. Dit zou kunnen zijn voor een van de volgende redenen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deze website wordt uitgevoerd in de modus middellange vertrouwen en het kenmerk &lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; in web.config staat geen toegang de host '{1}'. Wijzig de originUrl te nemen '{1}'. Meerdere hostnamen kunnen worden gescheiden door | tekenen.&lt;/li&gt;
+&lt;li&gt;De web servers firewall of een andere firewall blokkeert toegang tot de host of de SSL-poort 443. Controleer de firewall-configuratie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wanneer u hebt voltooid deze controles proberen de licentiesleutel opnieuw activeren.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationFailureInvalidHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De licentiesleutel aangeleverd mislukte validatie. Gelieve te is controleren de licentiesleutel valideren met uw wederverkoper.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationStreamFailureHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De geboden gegevensbron kan niet worden gelezen.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="ActivationSuccessHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Succes. Selecteer de knop "Vernieuwen" om de web-pagina te herladen en en beginnen Premium apparaatgegevens te gebruiken.  Opmerking: Kan er een korte vertraging als de toepassing wordt opnieuw opgestart.&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="AutoUpdatesEnabled.Help">
+    <value xml:space="preserve">Activeer/deactiveer automatisch bijwerken van data bestand</value>
+  </data>
+  <data name="AutoUpdatesEnabled.Text">
+    <value xml:space="preserve">Auto update geactiveerd?</value>
+  </data>
+  <data name="BackButtonDevicesText.Text">
+    <value xml:space="preserve">Andere leveranciers</value>
+  </data>
+  <data name="BackButtonDeviceText.Text">
+    <value xml:space="preserve">Andere apparaten {0}</value>
+  </data>
+  <data name="BackToExplorer.Text">
+    <value xml:space="preserve">Terug naar apparaat Explorer</value>
+  </data>
+  <data name="BrowserList.Header">
+    <value xml:space="preserve">Browser</value>
+  </data>
+  <data name="ContentList.Header">
+    <value xml:space="preserve">Inhoud</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Apparaat detectie</value>
+  </data>
+  <data name="DeviceDetectionEnabled.Help">
+    <value xml:space="preserve">Activeer/deactiveer Apparaat detectie</value>
+  </data>
+  <data name="DeviceDetectionEnabled.Text">
+    <value xml:space="preserve">Apparaat detectie geactiveerd?</value>
+  </data>
+  <data name="DeviceExplorer.Header">
+    <value xml:space="preserve">Apparaat Explorer</value>
+  </data>
+  <data name="DeviceExplorerDeviceInstructionsHtml.Text">
+    <value xml:space="preserve">&lt;p&gt;Gebruik de pictogrammen help voor meer informatie over de eigenschap of waarde.&lt;/p&gt;</value>
+  </data>
+  <data name="DeviceExplorerModelsInstructionsHtml.Text">
+    <value xml:space="preserve">&lt;p&gt;Selecteer een model om te bekijken de mogelijkheden samen met de verschillende combinaties van browser en software.&lt;/p&gt;</value>
+  </data>
+  <data name="DeviceExplorerVendorsHtml.Text">
+    <value xml:space="preserve">&lt;p&gt;Selecteer een hardwareleverancier om te bekijken de apparaat modellen die ze produceren.&lt;/p&gt;</value>
+  </data>
+  <data name="DeviceSearchRequired.Text">
+    <value xml:space="preserve">Vereist</value>
+  </data>
+  <data name="GetLatestData.Text">
+    <value xml:space="preserve">De meest recente gegevens ophalen</value>
+  </data>
+  <data name="Glossary.Header">
+    <value xml:space="preserve">Help &gt; woordenlijst</value>
+  </data>
+  <data name="Glossary.Text">
+    <value xml:space="preserve">* Eigenschap is alleen opgenomen in de Premium gegevenssets.</value>
+  </data>
+  <data name="HardwareList.Header">
+    <value xml:space="preserve">Hardware</value>
+  </data>
+  <data name="Help.Text">
+    <value xml:space="preserve">Help</value>
+  </data>
+  <data name="HelpLink.Text">
+    <value xml:space="preserve">Help</value>
+  </data>
+  <data name="Introduction.Header">
+    <value xml:space="preserve">Bladeren naar apparaat</value>
+  </data>
+  <data name="Introduction.Text">
+    <value xml:space="preserve">Hieronder is een verklarende woordenlijst van beschikbare eigenschappen door categorie uitgebroken.</value>
+  </data>
+  <data name="LicenseType_CMS.Text">
+    <value xml:space="preserve">CMS</value>
+  </data>
+  <data name="LicenseType_Lite.Text">
+    <value xml:space="preserve">Lite</value>
+  </data>
+  <data name="LicenseType_Premium.Text">
+    <value xml:space="preserve">Premium</value>
+  </data>
+  <data name="Lite.Header">
+    <value xml:space="preserve">Dank u voor het gebruik van Lite apparaatgegevens</value>
+  </data>
+  <data name="LiteSearchResults.Header">
+    <value xml:space="preserve">Zoekresultaten</value>
+  </data>
+  <data name="LiteSearchResults.Text">
+    <value xml:space="preserve">Selecteer een hardwareleverancier om te bekijken de apparaat modellen die ze produceren.</value>
+  </data>
+  <data name="LiteUpgrade.Label">
+    <value xml:space="preserve">Upgrade naar Premium gegevens:</value>
+  </data>
+  <data name="ManualUpdates.Text">
+    <value xml:space="preserve">Handmatige updates:</value>
+  </data>
+  <data name="NoResultsFound.Text">
+    <value xml:space="preserve">Er werden geen resultaten gevonden die overeenkomen met uw zoekopdracht.</value>
+  </data>
+  <data name="Premium.Header">
+    <value xml:space="preserve">Dank u voor het gebruik van {0} apparaat data</value>
+  </data>
+  <data name="PremiumIntro.Text">
+    <value xml:space="preserve">De {0} gegevens bevat duizenden apparaten, waaronder game consoles, eBook readers, tablets, smartphones en functie telefoons. Elk apparaat wordt geassocieerd met een breed scala van relevante eigenschappen, van schermgrootte en invoermogelijkheden van het besturingssysteem, browser en hardware.</value>
+  </data>
+  <data name="PremiumUploadError.Text">
+    <value xml:space="preserve">Er was een probleem uploaden van uw gegevens.</value>
+  </data>
+  <data name="PremiumUploadSuccess.Text">
+    <value xml:space="preserve">Gegevens is met succes geupload.</value>
+  </data>
+  <data name="PurchaseInfo.Text">
+    <value xml:space="preserve">U kunt uw licentie van de</value>
+  </data>
+  <data name="PurchaseInfoEnd.Text">
+    <value xml:space="preserve">.</value>
+  </data>
+  <data name="PurchaseInfoLink.Href">
+    <value xml:space="preserve">http://Store.DotNetNuke.com/Home/Product-Details/Premium-Mobile-Device-Data-51degreesmobi</value>
+  </data>
+  <data name="PurchaseInfoLink.Text">
+    <value xml:space="preserve">DotNetNuke winkel</value>
+  </data>
+  <data name="RefreshButtonText.Text">
+    <value xml:space="preserve">Vernieuwen</value>
+  </data>
+  <data name="SearchButton.Text">
+    <value xml:space="preserve">Apparaat vinden</value>
+  </data>
+  <data name="SearchLite.Header">
+    <value xml:space="preserve">Gebruiker-Agent zoeken</value>
+  </data>
+  <data name="SearchLite.Text">
+    <value xml:space="preserve">Voer de user-agent die u wilt testen en klik op apparaat vinden.</value>
+  </data>
+  <data name="SearchPremium.Header">
+    <value xml:space="preserve">Zoeken naar apparaat</value>
+  </data>
+  <data name="SearchPremium.Text">
+    <value xml:space="preserve">Voer uw zoekterm en druk op de knop vinden apparaat te zoeken. Hardwareleverancier, model, apparaatnaam, browser en besturingssysteem informatie zal worden gezocht.</value>
+  </data>
+  <data name="ShareUsageEnabled.Help">
+    <value xml:space="preserve">Activeer/Deactiveer delen dataverbruik met 51Degrees.</value>
+  </data>
+  <data name="ShareUsageEnabled.Text">
+    <value xml:space="preserve">Dataverbruik delen geactiveerd?</value>
+  </data>
+  <data name="SoftwareList.Header">
+    <value xml:space="preserve">Software</value>
+  </data>
+  <data name="StatsHtml.Text">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;span&gt;Gegevens Version: &lt;b&gt;{1}&lt;/b&gt; &lt;/span&gt;&lt;span&gt;Gepubliceerd: &lt;b&gt;{2:d}&lt;/b&gt; &lt;/span&gt;&lt;span&gt;Properties: &lt;b&gt;{3}&lt;/b&gt; &lt;/span&gt;  &lt;/div&gt;</value>
+  </data>
+  <data name="StatsRefreshButton.Text">
+    <value xml:space="preserve">Vernieuwen</value>
+  </data>
+  <data name="UpgradePoint1.Text">
+    <value xml:space="preserve">Automatisch gebruikers omleiden naar geoptimaliseerde web pagina's, zodat u kunt maken van afzonderlijke sites voor tablets, eigenschaptelefoons en smartphones.</value>
+  </data>
+  <data name="UpgradePoint2.Text">
+    <value xml:space="preserve">Verbeteren van de isMobile en de grootte van het scherm Eigenschappen in Lite gegevens met meer dan 50 apparaateigenschappen met inbegrip van isTablet, grootte van het scherm in millimeters, leverancier, model, platform details, invoermethoden en niveaus van JavaScript ondersteund.</value>
+  </data>
+  <data name="UpgradePoint3.Text">
+    <value xml:space="preserve">Reguliere wekelijkse updates van apparaatgegevens</value>
+  </data>
+  <data name="UpgradePoint4.Text">
+    <value xml:space="preserve">Een optie nieuwe updates automatisch installeren.</value>
+  </data>
+  <data name="UploadButtonText.Text">
+    <value xml:space="preserve">Uploaden</value>
+  </data>
+  <data name="UploadData.Text">
+    <value xml:space="preserve">Gegevens uploaden</value>
+  </data>
+  <data name="UploadInstructionsHtml.Text">
+    <value xml:space="preserve">&lt;p&gt;U kunt ook uploaden een Premium-gegevensbestand met de "Browse" en "Upload" knoppen hieronder.&lt;/p&gt;</value>
+  </data>
+  <data name="ValidationFileErrorText.Text">
+    <value xml:space="preserve">Gebruik de knop Bladeren om een Premium gegevensbestand om te uploaden te selecteren.</value>
+  </data>
+  <data name="ValidationRegExErrorText.Text">
+    <value xml:space="preserve">De licentiesleutel mag alleen alfanumerieke tekens in hoofdletters of numerieke waarden bevatten.</value>
+  </data>
+  <data name="ValidationRequiredErrorText.Text">
+    <value xml:space="preserve">Een sleutel van de vergunning moet worden ingevoerd.</value>
+  </data>
+  <data name="ViewLicenseAgreement.Text">
+    <value xml:space="preserve">Gebruiksrechtovereenkomst weergeven</value>
+  </data>
+  <data name="WhyUpgrade.Text">
+    <value xml:space="preserve">Waarom een upgrade naar premium gegevens</value>
+  </data>
+</root>

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="addCapability.Text">
+    <value xml:space="preserve">Functionaliteit toevoegen</value>
+  </data>
+  <data name="AllMobile.Text">
+    <value xml:space="preserve">Alle mobiele apparaten</value>
+  </data>
+  <data name="chkChildPages.Text">
+    <value xml:space="preserve">Alle onderliggende pagina's opnemen</value>
+  </data>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Maken</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Site redirect management</value>
+  </data>
+  <data name="DefaultRedirectName.Text">
+    <value xml:space="preserve">Standaard omleiding</value>
+  </data>
+  <data name="DeleteRule.Tooltip">
+    <value xml:space="preserve">Verwijder regel</value>
+  </data>
+  <data name="Device Type.Header">
+    <value xml:space="preserve">Apparaattype</value>
+  </data>
+  <data name="DragAndDrop.Tooltip">
+    <value xml:space="preserve">Sleep en plaats om de prioriteit van de regel te bepalen</value>
+  </data>
+  <data name="DuplicateNameError.Text">
+    <value xml:space="preserve">Omleiding met die naam al bestaat, gebruik een andere naam</value>
+  </data>
+  <data name="EditRule.Tooltip">
+    <value xml:space="preserve">Regel bewerken</value>
+  </data>
+  <data name="Enabled.Header">
+    <value xml:space="preserve">Ingeschakeld</value>
+  </data>
+  <data name="EnableItem.Text">
+    <value xml:space="preserve">Weet u zeker dat u wilt de instelling inschakelen of uitschakelen voor dit Item?</value>
+  </data>
+  <data name="lblCapability.Text">
+    <value xml:space="preserve">Vermogen</value>
+  </data>
+  <data name="lblCapabilityValue.Text">
+    <value xml:space="preserve">Overeenkomende waarde</value>
+  </data>
+  <data name="lblEnable.Help">
+    <value xml:space="preserve">De omleidingsregel inschakelen</value>
+  </data>
+  <data name="lblEnable.Text">
+    <value xml:space="preserve">Inschakelen</value>
+  </data>
+  <data name="lblEnabled.Text">
+    <value xml:space="preserve">&lt;b&gt;Ingeschakeld&lt;/b&gt;</value>
+  </data>
+  <data name="lblNoCapabilities.Text">
+    <value xml:space="preserve">Geen functionaliteiten toegevoegd</value>
+  </data>
+  <data name="lblRedirect.Help">
+    <value xml:space="preserve">Dit is uw huidige startpagina die wordt omgeleid</value>
+  </data>
+  <data name="lblRedirect.Text">
+    <value xml:space="preserve">Omleiden</value>
+  </data>
+  <data name="lblRedirectionRules.Text">
+    <value xml:space="preserve">&lt;b&gt;Omleidingsregels&lt;/b&gt;</value>
+  </data>
+  <data name="lblRedirectionType.Text">
+    <value xml:space="preserve">&lt;b&gt;Apparaattype&lt;/b&gt;</value>
+  </data>
+  <data name="lblRedirectName.Help">
+    <value xml:space="preserve">De naam van uw omleiding</value>
+  </data>
+  <data name="lblRedirectName.Text">
+    <value xml:space="preserve">Site omleidingsnaam</value>
+  </data>
+  <data name="lblRedirectSource.Help">
+    <value xml:space="preserve">Bepaalt of uw omleiding op site of pagina niveau is</value>
+  </data>
+  <data name="lblRedirectTarget.Help">
+    <value xml:space="preserve">Het doel voor de omleiding</value>
+  </data>
+  <data name="lblRedirectTarget.Text">
+    <value xml:space="preserve">Aan</value>
+  </data>
+  <data name="lblRedirectType.Help">
+    <value xml:space="preserve">Bepaalt de bron waarvan de gebruiker de site bezoekt</value>
+  </data>
+  <data name="lblRedirectType.Text">
+    <value xml:space="preserve">Selecteer gebruikersapparaat</value>
+  </data>
+  <data name="lblTarget.Help">
+    <value xml:space="preserve">De bestemming waar u zal worden omgeleid</value>
+  </data>
+  <data name="lblTarget.Text">
+    <value xml:space="preserve">Aan</value>
+  </data>
+  <data name="lblTargetUrl.Help">
+    <value xml:space="preserve">Bestemmings url voor de redirect</value>
+  </data>
+  <data name="lblTargetUrl.Text">
+    <value xml:space="preserve">URL</value>
+  </data>
+  <data name="lnkAdd.Text">
+    <value xml:space="preserve">Site omleiding maken</value>
+  </data>
+  <data name="lnkPortalAlias.Text">
+    <value xml:space="preserve">Voer nieuwe portal alias</value>
+  </data>
+  <data name="MobilePhone.Text">
+    <value xml:space="preserve">Mobiele telefoon</value>
+  </data>
+  <data name="optAdvanced.Text">
+    <value xml:space="preserve">Maak een omleiding met behulp van geavanceerde opties</value>
+  </data>
+  <data name="optBoth.Text">
+    <value xml:space="preserve">Mobiel of tablet</value>
+  </data>
+  <data name="optOther.Text">
+    <value xml:space="preserve">Geavanceerde</value>
+  </data>
+  <data name="optPage.Text">
+    <value xml:space="preserve">Pagina binnen deze site</value>
+  </data>
+  <data name="optPhone.Text">
+    <value xml:space="preserve">Mobiele telefoon</value>
+  </data>
+  <data name="optPortal.Text">
+    <value xml:space="preserve">Site</value>
+  </data>
+  <data name="optSimple.Text">
+    <value xml:space="preserve">Een mobiele website omleiding maken</value>
+  </data>
+  <data name="optSmartPhone.Text">
+    <value xml:space="preserve">Smartphone</value>
+  </data>
+  <data name="optTablet.Text">
+    <value xml:space="preserve">Tablet PC</value>
+  </data>
+  <data name="optUrl.Text">
+    <value xml:space="preserve">URL</value>
+  </data>
+  <data name="Other.Text">
+    <value xml:space="preserve">Geavanceerde</value>
+  </data>
+  <data name="OtherType.Text">
+    <value xml:space="preserve">Uw onderstaande regels definiëren. Meerdere regels toevoegen door op toevoegen te klikken.</value>
+  </data>
+  <data name="PageSelect.Text">
+    <value xml:space="preserve">Selecteer een pagina</value>
+  </data>
+  <data name="Redirection Rule.Header">
+    <value xml:space="preserve">Omleidingsregel</value>
+  </data>
+  <data name="RedirectionSettings.Text">
+    <value xml:space="preserve">Omleidingsinstellingen</value>
+  </data>
+  <data name="RedirectManagerMessage.Text">
+    <value xml:space="preserve">Hieronder is een lijst van de site omleidingen. Voeg een nieuwe toe, klik op &lt;b&gt;"Create"&lt;/b&gt; om te starten.</value>
+  </data>
+  <data name="RedirectTooltipDestination.Text">
+    <value xml:space="preserve">Bestemming: {0}</value>
+  </data>
+  <data name="RedirectTooltipSource.Text">
+    <value xml:space="preserve">Bron: {0}</value>
+  </data>
+  <data name="selectCapabilityName.Text">
+    <value xml:space="preserve">Selecteer een vermogen...</value>
+  </data>
+  <data name="SimpleSettings.Text">
+    <value xml:space="preserve">Een mobiele Site omleiding maken</value>
+  </data>
+  <data name="SmartPhone.Text">
+    <value xml:space="preserve">Smartphone</value>
+  </data>
+  <data name="Tablet.Text">
+    <value xml:space="preserve">Tablet PC</value>
+  </data>
+  <data name="ToggleRuleEnableSetting.Tooltip">
+    <value xml:space="preserve">Schakel over naar de bewerk instellingen</value>
+  </data>
+  <data name="TrialFiftyOneProvider.Text">
+    <value xml:space="preserve">Het apparaat omleidingsregels zijn afhankelijk van het in uw systeem beschikbare apparaatgegevens. Om te upgraden naar de premie gegevens naar Host | Detectie van Apparaatbeheer.</value>
+  </data>
+  <data name="valRedirectName.Text">
+    <value xml:space="preserve">U moet een naam invoeren voor uw omleiding</value>
+  </data>
+</root>

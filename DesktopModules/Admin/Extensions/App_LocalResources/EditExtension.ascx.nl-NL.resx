@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdminHeading.Text">
+    <value xml:space="preserve">Configureer {0} Extensie Instellingen voor deze website</value>
+  </data>
+  <data name="chkDelete.Text">
+    <value xml:space="preserve">Verwijder Bestanden</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Nieuwe Extensie Toevoegen</value>
+  </data>
+  <data name="cmdCreateContainer.Text">
+    <value xml:space="preserve">Nieuwe Container Toevoegen</value>
+  </data>
+  <data name="cmdCreateLanguage.Text">
+    <value xml:space="preserve">Nieuwe Taal Toevoegen</value>
+  </data>
+  <data name="cmdCreateModule.Text">
+    <value xml:space="preserve">Nieuwe Module Toevoegen</value>
+  </data>
+  <data name="cmdCreateSkin.Text" lastModified="2015-01-06 16:47:31">
+    <value xml:space="preserve">Nieuw thema Toevoegen</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value xml:space="preserve">De-installeer Extensie</value>
+  </data>
+  <data name="cmdEditor.Text">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="cmdExtension.Text">
+    <value xml:space="preserve">Info</value>
+  </data>
+  <data name="cmdLicense.Text">
+    <value xml:space="preserve">Licentie</value>
+  </data>
+  <data name="cmdPackage.Text">
+    <value xml:space="preserve">Maak Pakket</value>
+  </data>
+  <data name="cmdReleaseNotes.Text">
+    <value xml:space="preserve">Release Notities</value>
+  </data>
+  <data name="cmdSecurity.Text">
+    <value xml:space="preserve">Beveiliging</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Bijwerken Extensie</value>
+  </data>
+  <data name="cmdUpdateLanguage.Text">
+    <value xml:space="preserve">Taal Bijwerken</value>
+  </data>
+  <data name="cmdUpdateLicense.Text">
+    <value xml:space="preserve">Licentie Bijwerken</value>
+  </data>
+  <data name="cmdUpdateModule.Text">
+    <value xml:space="preserve">Module Bijwerken</value>
+  </data>
+  <data name="cmdUpdateReleaseNotes.Text">
+    <value xml:space="preserve">Release Notities Bijwerken</value>
+  </data>
+  <data name="cmdUpdateSkin.Text" lastModified="2015-01-06 16:47:31">
+    <value xml:space="preserve">Thema Bijwerken</value>
+  </data>
+  <data name="Controls.Help">
+    <value xml:space="preserve">Geeft de Module Definitie van de Module Controls</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Wijzig Extensie</value>
+  </data>
+  <data name="Core.Text">
+    <value xml:space="preserve">Core</value>
+  </data>
+  <data name="DuplicateName.Text">
+    <value xml:space="preserve">Pakketten moeten een unieke naam hebben</value>
+  </data>
+  <data name="EditHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u de pakket informatie voor deze extensie configureren.</value>
+  </data>
+  <data name="EditLanguageHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u de pakket informatie voor dit taalpakket configureren.</value>
+  </data>
+  <data name="EditModuleHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u de pakket informatie voor deze module configureren.</value>
+  </data>
+  <data name="EditSkinHelp.Text" lastModified="2015-01-06 16:47:31">
+    <value xml:space="preserve">In deze sectie kunt u de pakket informatie voor dit thema configureren.</value>
+  </data>
+  <data name="EditTitle.Text">
+    <value xml:space="preserve">Extensie Details</value>
+  </data>
+  <data name="ExtensionSettings.Text">
+    <value xml:space="preserve">Extensie Instellingen</value>
+  </data>
+  <data name="HostHeading.Text">
+    <value xml:space="preserve">Configureer {0} Extensie Instellingen</value>
+  </data>
+  <data name="LanguageMessage.Text">
+    <value xml:space="preserve">Klik hier om het taalpakket op te halen</value>
+  </data>
+  <data name="Languages.Action">
+    <value xml:space="preserve">Taal Editor</value>
+  </data>
+  <data name="ManageSkins.Action" lastModified="2015-01-06 16:47:31">
+    <value xml:space="preserve">Onderhoud thema's</value>
+  </data>
+  <data name="Package.Text">
+    <value xml:space="preserve">Pakket</value>
+  </data>
+  <data name="PackageSettings.Text">
+    <value xml:space="preserve">Pakket Instellingen</value>
+  </data>
+  <data name="PackageType.Error">
+    <value xml:space="preserve">U moet een taal pakket type selecteren.</value>
+  </data>
+  <data name="PackageUpdated.Text">
+    <value xml:space="preserve">Extensie Succesvol Bijgewerkt</value>
+  </data>
+  <data name="Permissions.Help">
+    <value xml:space="preserve">Aanvinkboxen gebruiken om de toestemmingen voor dit pakket in te stellen.</value>
+  </data>
+  <data name="Permissions.Text">
+    <value xml:space="preserve">Pakket Toestemmingen:</value>
+  </data>
+  <data name="plPackageType.Help">
+    <value xml:space="preserve">Bepaal wat voor type taalpakket u wilt maken</value>
+  </data>
+  <data name="plPackageType.Text">
+    <value xml:space="preserve">Taal Pakket type:</value>
+  </data>
+  <data name="TimeZones.Action">
+    <value xml:space="preserve">Tijdzone Editor</value>
+  </data>
+  <data name="UpgradeMessage.Text">
+    <value xml:space="preserve">Klik hier om de upgrade te halen</value>
+  </data>
+</root>

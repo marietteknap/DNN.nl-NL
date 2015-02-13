@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdEdit.Text">
+    <value xml:space="preserve">Wijzig Taal Bestanden</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Taal Instellingen Bijwerken</value>
+  </data>
+  <data name="cmdUpgrade.Text">
+    <value xml:space="preserve">Taal Upgraden</value>
+  </data>
+  <data name="Locale_Code.Help">
+    <value xml:space="preserve">Voer de code in voor het taalpakket.</value>
+  </data>
+  <data name="Locale_Code.Text">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="Locale_Fallback.Help">
+    <value xml:space="preserve">Geef de uitwijk taal aan die u wilt gebruiken indien het taalpakket niet de vertalingen bevat die u heeft aangevraagd.</value>
+  </data>
+  <data name="Locale_Fallback.Text">
+    <value xml:space="preserve">Uitwijk Taal:</value>
+  </data>
+  <data name="Locale_Text.Help">
+    <value xml:space="preserve">Geef de weergavenaam in voor dit taalpakket</value>
+  </data>
+  <data name="Locale_Text.Text">
+    <value xml:space="preserve">Weergavenaam:</value>
+  </data>
+  <data name="plEnabled.Help">
+    <value xml:space="preserve">Deze box aanvinken om de taal voor deze website in te schakelen.</value>
+  </data>
+  <data name="plEnabled.Text">
+    <value xml:space="preserve">Ingeschakeld</value>
+  </data>
+  <data name="plPackage.Help">
+    <value xml:space="preserve">Kies het pakket waar dit taalpakket voor is.</value>
+  </data>
+  <data name="plPackage.Text">
+    <value xml:space="preserve">Pakket:</value>
+  </data>
+  <data name="plPackageLanguage.Help">
+    <value xml:space="preserve">Kies de taal voor dit taalpakket</value>
+  </data>
+  <data name="plPackageLanguage.Text">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Taalpakket Instellingen</value>
+  </data>
+</root>

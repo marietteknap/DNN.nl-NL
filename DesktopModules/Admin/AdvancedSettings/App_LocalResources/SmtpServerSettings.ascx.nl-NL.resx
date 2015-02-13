@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EmailErrorMessage.Text">
+    <value xml:space="preserve">Er is een error opgetreden tijdens het versturen van de test E-mail. De error is: &lt;br /&gt;{0}</value>
+  </data>
+  <data name="EmailSentMessage.Text">
+    <value xml:space="preserve">E-mail is succesvol verzonden</value>
+  </data>
+  <data name="EmailTest.Text">
+    <value xml:space="preserve">Test SMTP Instellingen</value>
+  </data>
+  <data name="plSMTPAuthentication.Help">
+    <value xml:space="preserve">voer de SMTP Server Authenticatie methode in (standaard  = Anoniem)</value>
+  </data>
+  <data name="plSMTPAuthentication.Text">
+    <value xml:space="preserve">SMTP Authenticatie:</value>
+  </data>
+  <data name="plSMTPEnableSSL.Help">
+    <value xml:space="preserve">Wordt gebruikt voor SMTP services waarbij een beveiligde connectie is vereist. (Doorgaans niet nodig)</value>
+  </data>
+  <data name="plSMTPEnableSSL.Text">
+    <value xml:space="preserve">SMTP Activeer SSL:</value>
+  </data>
+  <data name="plSMTPPassword.Help">
+    <value xml:space="preserve">Voer het wachtwoord in voor de SMTP Server</value>
+  </data>
+  <data name="plSMTPPassword.Text">
+    <value xml:space="preserve">SMTP wachtwoord:</value>
+  </data>
+  <data name="plSMTPServer.Help">
+    <value xml:space="preserve">Enter the SMTP Server Address. You can also specify an alternate port by adding a colon and the port number (e.g. smtp.googlemail.com:587). Enter the SMTP server name only to use default port number (25)
+
+Vul het server adres in voor de SMTP server. Er kan ook een poort nummer worden toegevoegd door het gebruik van een dubbele punt gevolgd door het poort nummer (Voorbeeld: smtp.googlemail.com:587). Als er geen poort nummer wordt gespecificeerd zal het standaard poort nummer worden gebruikt. (Poort nummer 25)</value>
+  </data>
+  <data name="plSMTPServer.Text">
+    <value xml:space="preserve">SMTP Server en poort:</value>
+  </data>
+  <data name="plSMTPUsername.Help">
+    <value xml:space="preserve">Voer de gebruikersnaam voor de SMTP server in.</value>
+  </data>
+  <data name="plSMTPUsername.Text">
+    <value xml:space="preserve">SMTP Gebruikersnaam:</value>
+  </data>
+  <data name="SMTP.Text">
+    <value xml:space="preserve">SMTP Server instellingen</value>
+  </data>
+  <data name="SMTPAnonymous.Text">
+    <value xml:space="preserve">Anoniem</value>
+  </data>
+  <data name="SMTPBasic.Text">
+    <value xml:space="preserve">Basis</value>
+  </data>
+  <data name="SMTPNTLM.Text">
+    <value xml:space="preserve">NTLM</value>
+  </data>
+  <data name="SmtpServerWarning.Text">
+    <value xml:space="preserve">U probeert een aangepaste SMTP poort te gebruiken binnen uw geïnstalleerde instantie draaiende onder medium trust, U moet contact met uw hosting provider opnemen om de werking van van de SMTP server op de hosting server te  kunnen garanderen.</value>
+  </data>
+</root>
