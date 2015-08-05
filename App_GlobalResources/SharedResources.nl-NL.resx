@@ -1224,7 +1224,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Oke</value>
   </data>
   <data name="OnLine.Text">
-    <value xml:space="preserve">Online </value>
+    <value xml:space="preserve">Online</value>
   </data>
   <data name="PACKAGE_NoLicense.Text">
     <value xml:space="preserve">Dit pakket heeft geen licentie</value>

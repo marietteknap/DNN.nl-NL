@@ -12,17 +12,30 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="{resx:and}.Text">
-    <value xml:space="preserve">en</value>
-  </data>
-  <data name="{resx:comment}.Text">
+  <data name="comment.Text">
     <value xml:space="preserve">Reactie</value>
   </data>
-  <data name="{resx:leavecomment}.Text">
-    <value xml:space="preserve">Reageer</value>
+  <data name="Comments.Text">
+    <value xml:space="preserve">Opmerkingen</value>
+  </data>
+  <data name="journal_status.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;
+</value>
   </data>
   <data name="{resx:like}.Text">
     <value xml:space="preserve">Vind ik leuk</value>
+  </data>
+  <data name="{resx:unlike}.Text">
+    <value xml:space="preserve">Vind ik niet meer leuk</value>
+  </data>
+  <data name="{resx:and}.Text">
+    <value xml:space="preserve">en</value>
   </data>
   <data name="{resx:likesthis}.Text">
     <value xml:space="preserve">Vindt dit leuk</value>
@@ -36,14 +49,141 @@
   <data name="{resx:others}.Text">
     <value xml:space="preserve">anderen</value>
   </data>
-  <data name="{resx:unlike}.Text">
-    <value xml:space="preserve">Vind ik niet meer leuk</value>
-  </data>
   <data name="{resx:you}.Text">
     <value xml:space="preserve">U</value>
   </data>
   <data name="{resx:youlikethis}.Text">
     <value xml:space="preserve">U vindt dit leuk</value>
+  </data>
+  <data name="{resx:comment}.Text">
+    <value xml:space="preserve">Reactie</value>
+  </data>
+  <data name="{resx:leavecomment}.Text">
+    <value xml:space="preserve">Reageer</value>
+  </data>
+  <data name="journal_link.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;
+	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jlink dnnClear"&gt;
+			&lt;img src="[journaldata:ImageUrl]"&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]"&gt;[journaldata:Title]&lt;/a&gt;&lt;br&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
+  </data>
+  <data name="journal_photo.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;
+	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jphoto dnnClear"&gt;
+			&lt;img src="[journaldata:ImageUrl]" style="width:250px;"&gt;
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
+  </data>
+  <data name="UserFolderTitle.Text">
+    <value xml:space="preserve">Mijn bestanden</value>
+  </data>
+  <data name="journal_file.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;
+	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jfile dnnClear"&gt;
+			&lt;img src="[journaldata:ImageUrl]"&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
+  </data>
+  <data name="file.Text">
+    <value xml:space="preserve">Bestanden</value>
+  </data>
+  <data name="link.Text">
+    <value xml:space="preserve">Koppelingen</value>
+  </data>
+  <data name="photo.Text">
+    <value xml:space="preserve">Foto 's</value>
+  </data>
+  <data name="status.Text">
+    <value xml:space="preserve">Berichten</value>
+  </data>
+  <data name="forum_reply.Text">
+    <value xml:space="preserve">Forum antwoorden</value>
+  </data>
+  <data name="forum_topic.Text">
+    <value xml:space="preserve">Forumonderwerpen</value>
+  </data>
+  <data name="journal_forum_reply.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;heeft een antwoord gegeven op: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+  </data>
+  <data name="journal_forum_topic.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;het onderwerp gemaakt: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+  </data>
+  <data name="blog.Text">
+    <value xml:space="preserve">Blogs</value>
+  </data>
+  <data name="journal_blog.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;&lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+  </data>
+  <data name="groupcreate.Text">
+    <value xml:space="preserve">Groepen aangemaakt</value>
+  </data>
+  <data name="groupjoin.Text">
+    <value xml:space="preserve">Bij groepen aangesloten</value>
+  </data>
+  <data name="journal_groupcreate.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</value>
+  </data>
+  <data name="journal_groupjoin.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt; &lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt; &lt;div class="journalitem"&gt; &lt;p&gt;&lt;span class="authorname"&gt; [JournalControl:AUTHORNAMELINK]&lt;/span&gt; toegetreden tot de groep &lt;a href="[journaldata:Url]"&gt; [JournalItem:Title]&lt;/a&gt; &lt;div class="dnnClear"&gt; &lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt; &lt;p class="journalfooter"&gt; &lt;abbr title="[journalItem:DateCreated]"&gt; [journalitem:TimeFrame]&lt;/abbr&gt; {CanComment} &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK] {/CanComment}&lt;/p&gt; [JOURNALCONTROL:LIKELIST] [JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
   </data>
   <data name="achievement.Action">
     <value xml:space="preserve">Heeft de prestatie bereikt</value>
@@ -63,35 +203,8 @@
   <data name="articleadd.Text">
     <value xml:space="preserve">Artikelen</value>
   </data>
-  <data name="badge.Action">
-    <value xml:space="preserve">Ontving de Badge</value>
-  </data>
-  <data name="badge.Text">
-    <value xml:space="preserve">Badge</value>
-  </data>
-  <data name="blog.Text">
-    <value xml:space="preserve">Blogs</value>
-  </data>
-  <data name="challengeadded.Action">
-    <value xml:space="preserve">Heeft de uitdaging uitgegeven</value>
-  </data>
-  <data name="challengeadded.Text">
-    <value xml:space="preserve">Toegevoegde uitdagingen</value>
-  </data>
-  <data name="challengecompleted.Action">
-    <value xml:space="preserve">Heeft de uitdaging voltooid</value>
-  </data>
-  <data name="challengecompleted.Text">
-    <value xml:space="preserve">Voltooide uitdagingen</value>
-  </data>
   <data name="comment.Action">
     <value xml:space="preserve">Heeft gereageerd op</value>
-  </data>
-  <data name="comment.Text">
-    <value xml:space="preserve">Reactie</value>
-  </data>
-  <data name="Comments.Text">
-    <value xml:space="preserve">Opmerkingen</value>
   </data>
   <data name="documentadd.Action">
     <value xml:space="preserve">Heeft het document toegevoegd</value>
@@ -117,23 +230,8 @@
   <data name="eventcreate.Text">
     <value xml:space="preserve">Evenementen</value>
   </data>
-  <data name="file.Text">
-    <value xml:space="preserve">Bestanden</value>
-  </data>
-  <data name="forum_reply.Text">
-    <value xml:space="preserve">Forum antwoorden</value>
-  </data>
-  <data name="forum_topic.Text">
-    <value xml:space="preserve">Forumonderwerpen</value>
-  </data>
   <data name="friend.Text">
     <value xml:space="preserve">Vrienden</value>
-  </data>
-  <data name="groupcreate.Text">
-    <value xml:space="preserve">Groepen aangemaakt</value>
-  </data>
-  <data name="groupjoin.Text">
-    <value xml:space="preserve">Bij groepen aangesloten</value>
   </data>
   <data name="ideaadd.Action">
     <value xml:space="preserve">Heeft het idee toegevoegd</value>
@@ -146,79 +244,6 @@
   </data>
   <data name="ideaupdate.Text">
     <value xml:space="preserve">Ideeën bijgewerkt</value>
-  </data>
-  <data name="journal_badge.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
-	&lt;/p&gt;
-	[JOURNALCONTROL:LIKELIST]
-&lt;/div&gt;</value>
-  </data>
-  <data name="journal_blog.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;&lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_comment.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
-	&lt;/p&gt;
-	[JOURNALCONTROL:LIKELIST]
-&lt;/div&gt;</value>
-  </data>
-  <data name="journal_file.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
-&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jfile dnnClear"&gt;
-			&lt;img src="[journaldata:ImageUrl]"&gt;
-			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br&gt;[journaldata:Description]&lt;/div&gt;
-			
-		&lt;/div&gt;
-	&lt;/p&gt;
-
-	&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_forum_reply.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;heeft een antwoord gegeven op: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_forum_topic.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;het onderwerp gemaakt: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
   </data>
   <data name="journal_generic.Text">
     <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
@@ -233,128 +258,11 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_groupcreate.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
-	&lt;/p&gt;
-		[JOURNALCONTROL:LIKELIST]
-		[JOURNALCONTROL:COMMENTAREA]
-	&lt;/div&gt;</value>
-  </data>
-  <data name="journal_groupjoin.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt; &lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt; &lt;div class="journalitem"&gt; &lt;p&gt;&lt;span class="authorname"&gt; [JournalControl:AUTHORNAMELINK]&lt;/span&gt; toegetreden tot de groep &lt;a href="[journaldata:Url]"&gt; [JournalItem:Title]&lt;/a&gt; &lt;div class="dnnClear"&gt; &lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt; &lt;p class="journalfooter"&gt; &lt;abbr title="[journalItem:DateCreated]"&gt; [journalitem:TimeFrame]&lt;/abbr&gt; {CanComment} &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK] {/ CanComment}&lt;/p&gt; [JOURNALCONTROL:LIKELIST] [JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_ideaadd.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
-	&lt;/p&gt;
-	[JOURNALCONTROL:LIKELIST]
-&lt;/div&gt;</value>
-  </data>
-  <data name="journal_ideaupdate.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
-	&lt;/p&gt;
-	[JOURNALCONTROL:LIKELIST]
-&lt;/div&gt;</value>
-  </data>
-  <data name="journal_link.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
-&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jlink dnnClear"&gt;
-			&lt;img src="[journaldata:ImageUrl]"&gt;
-			&lt;div&gt;&lt;a href="[journaldata:Url]"&gt;[journaldata:Title]&lt;/a&gt;&lt;br&gt;[journaldata:Description]&lt;/div&gt;
-			
-		&lt;/div&gt;
-	&lt;/p&gt;
-
-	&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_photo.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
-&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;div class="jphoto dnnClear"&gt;
-			&lt;img src="[journaldata:ImageUrl]" style="width:250px;"&gt;
-		&lt;/div&gt;
-	&lt;/p&gt;
-
-	&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
-  </data>
-  <data name="journal_status.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/ CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
-		[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;
-</value>
-  </data>
-  <data name="journal_vote.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
-&lt;div class="journalitem"&gt;
-	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
-&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
-&lt;/p&gt;
-		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
-	&lt;/p&gt;
-	[JOURNALCONTROL:LIKELIST]
-&lt;/div&gt;</value>
-  </data>
-  <data name="link.Text">
-    <value xml:space="preserve">Koppelingen</value>
-  </data>
-  <data name="Notification_Mention.Body">
-    <value xml:space="preserve">{0}</value>
-  </data>
-  <data name="Notification_Mention.Subject">
-    <value xml:space="preserve">{0} noemde je in een {1}</value>
-  </data>
-  <data name="Notification_MentionType_Comment.Text">
-    <value xml:space="preserve">Reactie</value>
-  </data>
-  <data name="Notification_MentionType_Post.Text">
-    <value xml:space="preserve">Post</value>
-  </data>
-  <data name="photo.Text">
-    <value xml:space="preserve">Foto 's</value>
-  </data>
   <data name="privilege.Action">
     <value xml:space="preserve">heeft het privilege verdiend</value>
   </data>
   <data name="privilege.Text">
     <value xml:space="preserve">Privileges verdiend</value>
-  </data>
-  <data name="product.Text">
-    <value xml:space="preserve">Producten</value>
   </data>
   <data name="projectcreated.Action">
     <value xml:space="preserve">nieuw project aangemaakt</value>
@@ -386,9 +294,6 @@
   <data name="reviewupdate.Text">
     <value xml:space="preserve">Recensies bijgewerkt</value>
   </data>
-  <data name="status.Text">
-    <value xml:space="preserve">Berichten</value>
-  </data>
   <data name="survey.Action">
     <value xml:space="preserve">enquête ingevuld</value>
   </data>
@@ -406,9 +311,6 @@
   </data>
   <data name="taskupdate.Text">
     <value xml:space="preserve">Taken bijgewerkt</value>
-  </data>
-  <data name="UserFolderTitle.Text">
-    <value xml:space="preserve">Mijn bestanden</value>
   </data>
   <data name="videoadd.Action">
     <value xml:space="preserve">de video toegevoegd</value>
@@ -433,5 +335,103 @@
   </data>
   <data name="wikiupdate.Text">
     <value xml:space="preserve">Wiki bijgewerkt</value>
+  </data>
+  <data name="badge.Action">
+    <value xml:space="preserve">Ontving de Badge</value>
+  </data>
+  <data name="badge.Text">
+    <value xml:space="preserve">Badge</value>
+  </data>
+  <data name="journal_badge.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</value>
+  </data>
+  <data name="journal_comment.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</value>
+  </data>
+  <data name="journal_ideaadd.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</value>
+  </data>
+  <data name="journal_ideaupdate.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</value>
+  </data>
+  <data name="journal_vote.Text">
+    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</value>
+  </data>
+  <data name="Notification_Mention.Body">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="Notification_Mention.Subject">
+    <value xml:space="preserve">{0} noemde je in een {1}</value>
+  </data>
+  <data name="Notification_MentionType_Comment.Text">
+    <value xml:space="preserve">Reactie</value>
+  </data>
+  <data name="Notification_MentionType_Post.Text">
+    <value xml:space="preserve">Post</value>
+  </data>
+  <data name="product.Text">
+    <value xml:space="preserve">Producten</value>
+  </data>
+  <data name="challengeadded.Action">
+    <value xml:space="preserve">Heeft de uitdaging uitgegeven</value>
+  </data>
+  <data name="challengeadded.Text">
+    <value xml:space="preserve">Toegevoegde uitdagingen</value>
+  </data>
+  <data name="challengecompleted.Action">
+    <value xml:space="preserve">Heeft de uitdaging voltooid</value>
+  </data>
+  <data name="challengecompleted.Text">
+    <value xml:space="preserve">Voltooide uitdagingen</value>
   </data>
 </root>
