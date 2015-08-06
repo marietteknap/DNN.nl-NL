@@ -969,10 +969,10 @@ zijn op de gehele applicatie.&lt;/p&gt;&lt;/div&gt;</value>
     <value xml:space="preserve">Gebruikers Quota:</value>
   </data>
   <data name="plUsersOnline.Help">
-    <value xml:space="preserve">U kunt eventueel de "gebruikers online" faciliteit onbruikbaar maken</value>
+    <value xml:space="preserve">U kunt eventueel de "gebruikers online" faciliteit aanzetten</value>
   </data>
   <data name="plUsersOnline.Text">
-    <value xml:space="preserve">"Gebruikers Online" uitzetten?</value>
+    <value xml:space="preserve">"Gebruikers Online" aanzetten?</value>
   </data>
   <data name="plUsersOnlineTime.Help">
     <value xml:space="preserve">Geef aan wat de tijdsduur moet zijn voor de buffer van de "gebruikers online" faciliteit</value>
